@@ -1,3 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+
 <publicwhip scrapeversion="a" latest="yes">
     <minor-heading id="com.kildarestreet/seanad/2012-12-19a.1" nospeaker="true" time="10:30:00" url="">Prelude</minor-heading>
     <speech id="com.kildarestreet/seanad/2012-12-19a.2" nospeaker="true" time="10:30:00"><p>Chuaigh an Cathaoirleach i gceannas ar 10:30</p></speech>
@@ -159,8 +231,62 @@
     <speech />
     <speech />
     <speech />
-    <vote />
-    <speech id="com.kildarestreet/seanad/2012-12-19a.168" nospeaker="true" time="11:55:00"><p>Progress reported; Committee to sit again.</p> <p>That is the result that came in.  It is the overwhelming rule of law in Ireland.  The Chief Justice and his colleagues ruled against the Government.  I gather the first set of damages amounted to €4 million and negotiations are taking place as to what the other damages will be for rigging the market.  Let us have a debate about old people and who will or will not insure them and address it from their point of view rather than to repeatedly defending the VHI, including by publishing highly redacted accounts of criticism of its inefficient operations such as those which appear on almost every page of the Milliman report.</p></speech>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.167/1" nospeaker="true" time="11:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900012#M00100"><p>Amendment put:</p><p>The Committee divided: Tá, 5; Níl, 40.</p><p>Tellers: Tá, Senators Sean D. Barrett and John Crown; Níl, Senators Paul Coghlan and Aideen Hayden.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.167/2" nospeaker="true" divdate="2012-12-19" time="11:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900012#M00100">
+            <divisioncount ayes="5" noes="40" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1157" vote="aye">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="aye">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1146" vote="aye">R&oacute;n&aacute;n Mullen</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="aye">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="aye">Feargal Quinn</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1148" vote="no">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="no">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="no">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="no">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="no">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="no">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="no">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="no">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="no">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="no">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="no">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="no">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="no">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="no">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="no">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="no">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="no">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="no">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="no">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="no">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="no">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="no">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="no">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="no">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="no">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="no">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1170" vote="no">Marie Louise O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="no">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="no">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1115" vote="no">Labhr&aacute;s &Oacute; Murch&uacute;</mpname>
+                    <mpname id="com.kildarestreet/member/1155" vote="no">Kathryn Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="no">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="no">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="no">John Whelan</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1164" vote="no">Diarmuid Wilson</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.167/3" nospeaker="true" time="11:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900012#M00100"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.168" nospeaker="true" time="11:55:00"><p>Progress reported; Committee to sit again.</p></speech>
+    <speech />
     <speech />
     <speech />
     <speech />
@@ -171,7 +297,60 @@
     <speech id="com.kildarestreet/seanad/2012-12-19a.177" nospeaker="true" time="12:05:00"><p>SECTION 2</p></speech>
     <speech id="com.kildarestreet/seanad/2012-12-19a.178" nospeaker="true" time="12:05:00"><p>Amendment No. 5 not moved.</p></speech>
     <speech />
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.180/1" nospeaker="true" time="12:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900013#M00100"><p>Amendment put:</p><p>The Committee divided: Tá, 5; Níl, 40.</p><p>Tellers: Tá, Senators Sean D. Barrett and John Crown; Níl, Senators Paul Coghlan and Aideen Hayden.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.180/2" nospeaker="true" divdate="2012-12-19" time="12:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900013#M00100">
+            <divisioncount ayes="5" noes="40" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1157" vote="aye">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="aye">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1146" vote="aye">R&oacute;n&aacute;n Mullen</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="aye">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="aye">Feargal Quinn</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1148" vote="no">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="no">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="no">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="no">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="no">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="no">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="no">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="no">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="no">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="no">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="no">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="no">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="no">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="no">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="no">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="no">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="no">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="no">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="no">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="no">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="no">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="no">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="no">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="no">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="no">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="no">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1170" vote="no">Marie Louise O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="no">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="no">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1115" vote="no">Labhr&aacute;s &Oacute; Murch&uacute;</mpname>
+                    <mpname id="com.kildarestreet/member/1155" vote="no">Kathryn Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="no">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="no">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="no">John Whelan</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1164" vote="no">Diarmuid Wilson</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.180/3" nospeaker="true" time="12:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900013#M00100"><p>Amendment declared lost.</p></speech>
     <speech id="com.kildarestreet/seanad/2012-12-19a.181" nospeaker="true" time="12:05:00"><p>Progress reported; Committee to sit again.</p></speech>
     <major-heading id="com.kildarestreet/seanad/2012-12-19a.182" nospeaker="true" time="12:15:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900014#N00100">Report of Committee of Selection: Motion</major-heading>
     <speech />
@@ -211,7 +390,67 @@
     <speech />
     <speech />
     <speech />
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.223/1" nospeaker="true" time="12:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900018#S00400"><p>Question put:</p><p>The Seanad divided: Tá, 33; Níl, 18.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators Sean D. Barrett and John Crown.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.223/2" nospeaker="true" divdate="2012-12-19" time="12:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900018#S00400">
+            <divisioncount ayes="33" noes="18" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="aye">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="aye">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1155" vote="aye">Kathryn Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1116" vote="no">Thomas Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="no">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="no">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1146" vote="no">R&oacute;n&aacute;n Mullen</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="no">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="no">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1115" vote="no">Labhr&aacute;s &Oacute; Murch&uacute;</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="no">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="no">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="no">Feargal Quinn</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="no">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.223/3" nospeaker="true" time="12:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900018#S00400"><p>Question declared carried.</p></speech>
+    <speech />
     <speech id="com.kildarestreet/seanad/2012-12-19a.225" nospeaker="true" time="12:50:00"><p>Amendment, by leave, withdrawn.</p></speech>
     <speech id="com.kildarestreet/seanad/2012-12-19a.226" nospeaker="true" time="12:50:00"><p>Section 4 agreed to.</p></speech>
     <speech id="com.kildarestreet/seanad/2012-12-19a.227" nospeaker="true" time="12:50:00"><p>SECTION 5</p></speech>
@@ -240,7 +479,66 @@
     <speech id="com.kildarestreet/seanad/2012-12-19a.250" nospeaker="true" time="13:00:00"><p>Question proposed: &quot;That the Bill be now read a Second Time.&quot;</p></speech>
     <speech />
     <speech />
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.253/1" nospeaker="true" time="13:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900019#S00400"><p>Question put:</p><p>The Seanad divided: Tá, 33; Níl, 18.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators Sean D. Barrett and John Crown.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.253/2" nospeaker="true" divdate="2012-12-19" time="13:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900019#S00400">
+            <divisioncount ayes="33" noes="18" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="aye">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="aye">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1155" vote="aye">Kathryn Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1116" vote="no">Thomas Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="no">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="no">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1146" vote="no">R&oacute;n&aacute;n Mullen</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="no">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="no">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1115" vote="no">Labhr&aacute;s &Oacute; Murch&uacute;</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="no">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="no">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="no">Feargal Quinn</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="no">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.253/3" nospeaker="true" time="13:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900019#S00400"><p>Question declared carried.</p></speech>
     <major-heading id="com.kildarestreet/seanad/2012-12-19a.254" nospeaker="true" time="13:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900020#T00100">Equal Status (Amendment) Bill 2012: Second Stage</major-heading>
     <speech id="com.kildarestreet/seanad/2012-12-19a.255" nospeaker="true" time="13:10:00"><p>Question proposed: &quot;That the Bill be now read a Second Time.&quot;</p></speech>
     <speech />
@@ -269,7 +567,7 @@
     <speech />
     <speech />
     <speech />
-    <speechnospeaker />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.287" speakerid="unknown" error="nomatch" speakername="Senators" time="13:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900025#Y00300"><p>Hear, hear.</p></speech>
     <speech />
     <speech />
     <speech />
@@ -284,7 +582,64 @@
     <speech />
     <speech />
     <speech />
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.302/1" nospeaker="true" time="13:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900025#Z00100"><p>Question put:</p><p>The Seanad divided: Tá, 45; Níl, 4.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators David Norris and Feargal Quinn.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.302/2" nospeaker="true" divdate="2012-12-19" time="13:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900025#Z00100">
+            <divisioncount ayes="45" noes="4" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="aye">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="aye">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="aye">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="aye">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="aye">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="aye">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="aye">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="aye">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="aye">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="aye">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="aye">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="aye">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1126" vote="aye">Jim Walsh</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="aye">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1176" vote="aye">Katherine Zappone</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="no">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="no">Feargal Quinn</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.302/3" nospeaker="true" time="13:55:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900025#Z00100"><p>Question declared carried.</p></speech>
     <speech />
     <speech id="com.kildarestreet/seanad/2012-12-19a.304" nospeaker="true" time="14:05:00"><p>Question declared carried.</p></speech>
     <major-heading id="com.kildarestreet/seanad/2012-12-19a.305" nospeaker="true" time="14:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900026#AA00300">Equal Status (Amendment) Bill 2012: Committee and Remaining Stages</major-heading>
@@ -303,7 +658,64 @@
     <major-heading id="com.kildarestreet/seanad/2012-12-19a.318" nospeaker="true" time="14:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900026#AA01600">Message from Dáil</major-heading>
     <speech />
     <speech id="com.kildarestreet/seanad/2012-12-19a.320" nospeaker="true" time="14:05:00"><p>Sitting suspended at 2.55 p.m. and resumed at 3.30 p.m.</p></speech>
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.321/1" nospeaker="true" time="14:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900026#Z00100"><p>Question put:</p><p>The Seanad divided: Tá, 45; Níl, 4.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators David Norris and Feargal Quinn.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.321/2" nospeaker="true" divdate="2012-12-19" time="14:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900026#Z00100">
+            <divisioncount ayes="45" noes="4" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="aye">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="aye">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="aye">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="aye">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="aye">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="aye">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="aye">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="aye">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="aye">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="aye">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="aye">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="aye">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1126" vote="aye">Jim Walsh</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="aye">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1176" vote="aye">Katherine Zappone</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="no">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="no">Feargal Quinn</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.321/3" nospeaker="true" time="14:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900026#Z00100"><p>Question declared carried.</p></speech>
     <speech />
     <speech id="com.kildarestreet/seanad/2012-12-19a.323" nospeaker="true" time="14:10:00"><p>Question declared carried.</p></speech>
     <major-heading id="com.kildarestreet/seanad/2012-12-19a.324" nospeaker="true" time="14:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900027#AA00300">Equal Status (Amendment) Bill 2012: Committee and Remaining Stages</major-heading>
@@ -496,7 +908,7 @@ SECTION 4  Question proposed: &quot;That section 4 stand part of the Bill&quot;.
     <speech />
     <speech />
     <speech />
-    <speechnospeaker />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.522" speakerid="unknown" error="nomatch" speakername="A Senator" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900038#MM00200"><p>Hear, hear.</p></speech>
     <speech />
     <speech />
     <speech />
@@ -504,7 +916,7 @@ SECTION 4  Question proposed: &quot;That section 4 stand part of the Bill&quot;.
     <speech />
     <speech />
     <speech />
-    <speechnospeaker />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.530" speakerid="unknown" error="nomatch" speakername="A Senator" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900038#MM01000"><p>We are dealing with the respite care grant.</p></speech>
     <speech />
     <speech />
     <speech />
@@ -689,7 +1101,74 @@ SECTION 4  Question proposed: &quot;That section 4 stand part of the Bill&quot;.
     <speech />
     <speech id="com.kildarestreet/seanad/2012-12-19a.723" nospeaker="true" time="17:45:00"><p>Question put.</p><p>The Seanad divided by electronic means.</p></speech>
     <speech />
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.725/1" nospeaker="true" time="17:45:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900050#YY00300"><p>Question put:</p><p>The Committee divided: Tá, 31; Níl, 28.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators Ned O'Sullivan and Diarmuid Wilson.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.725/2" nospeaker="true" divdate="2012-12-19" time="17:45:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900050#YY00300">
+            <divisioncount ayes="31" noes="28" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1145" vote="aye">Feargal Quinn</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1116" vote="no">Thomas Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="no">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="no">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1119" vote="no">James Heffernan</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1167" vote="no">Fiach MacConghail</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1168" vote="no">Martin McAleese</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="no">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1146" vote="no">R&oacute;n&aacute;n Mullen</mpname>
+                    <mpname id="com.kildarestreet/member/1136" vote="no">David Norris</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="no">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1169" vote="no">Mary Ann O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1170" vote="no">Marie Louise O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="no">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="no">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1115" vote="no">Labhr&aacute;s &Oacute; Murch&uacute;</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="no">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1155" vote="no">Kathryn Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1171" vote="no">Jillian van Turnhout</mpname>
+                    <mpname id="com.kildarestreet/member/1126" vote="no">Jim Walsh</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1164" vote="no">Diarmuid Wilson</mpname>
+                    <mpname id="com.kildarestreet/member/1176" vote="no">Katherine Zappone</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.725/3" nospeaker="true" time="17:45:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900050#YY00300"><p>Question declared carried.</p></speech>
     <speech />
     <speech />
     <speech />
@@ -745,7 +1224,7 @@ SECTION 4  Question proposed: &quot;That section 4 stand part of the Bill&quot;.
     <speech />
     <speech />
     <speech />
-    <speechnospeaker />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.790" speakerid="unknown" error="nomatch" speakername="A Senator" time="19:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900060#KKK00400"><p>It is not even costed.</p></speech>
     <speech />
     <speech />
     <speech />
@@ -830,10 +1309,120 @@ SECTION 4  Question proposed: &quot;That section 4 stand part of the Bill&quot;.
     <speech />
     <speech />
     <speech />
-    <vote />
-    <speech />
-    <speech />
-    <vote />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.877/1" nospeaker="true" time="20:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900064#NNN02100"><p>Question put:</p><p>The Seanad divided: Tá, 30; Níl, 17.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators Trevor Ó Clochartaigh and Diarmuid Wilson..</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.877/2" nospeaker="true" divdate="2012-12-19" time="20:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900064#NNN02100">
+            <divisioncount ayes="30" noes="17" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1116" vote="no">Thomas Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="no">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="no">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="no">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="no">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="no">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="no">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="no">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1126" vote="no">Jim Walsh</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1164" vote="no">Diarmuid Wilson</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.877/3" nospeaker="true" time="20:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900064#NNN02100"><p>Question declared carried.</p></speech>
+    <speech />
+    <speech />
+    <speech id="com.kildarestreet/seanad/2012-12-19a.880/1" nospeaker="true" time="20:15:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900065#OOO00300"><p>Question put: "That Committee Stage be taken tomorrow."</p><p>The Seanad divided: Tá, 30; Níl, 17.</p><p>Tellers: Tá, Senators Paul Coghlan and Aideen Hayden; Níl, Senators David Cullinane and Trevor Ó Clochartaigh.</p></speech>
+        <division id="com.kildarestreet/seanad/2012-12-19a.880/2" nospeaker="true" divdate="2012-12-19" time="20:15:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900065#OOO00300">
+            <divisioncount ayes="30" noes="17" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1148" vote="aye">Ivana Bacik</mpname>
+                    <mpname id="com.kildarestreet/member/1121" vote="aye">Paul Bradford</mpname>
+                    <mpname id="com.kildarestreet/member/1138" vote="aye">Terry Brennan</mpname>
+                    <mpname id="com.kildarestreet/member/1150" vote="aye">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1114" vote="aye">Deirdre Clune</mpname>
+                    <mpname id="com.kildarestreet/member/1165" vote="aye">Eamonn Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1151" vote="aye">Paul Coghlan</mpname>
+                    <mpname id="com.kildarestreet/member/1124" vote="aye">Michael Comiskey</mpname>
+                    <mpname id="com.kildarestreet/member/1158" vote="aye">Martin Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1130" vote="aye">Maurice Cummins</mpname>
+                    <mpname id="com.kildarestreet/member/1166" vote="aye">Jim D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1160" vote="aye">Michael D'Arcy</mpname>
+                    <mpname id="com.kildarestreet/member/1117" vote="aye">John Gilroy</mpname>
+                    <mpname id="com.kildarestreet/member/1144" vote="aye">Jimmy Harte</mpname>
+                    <mpname id="com.kildarestreet/member/1172" vote="aye">Aideen Hayden</mpname>
+                    <mpname id="com.kildarestreet/member/1131" vote="aye">Fidelma Healy Eames</mpname>
+                    <mpname id="com.kildarestreet/member/1152" vote="aye">Imelda Henry</mpname>
+                    <mpname id="com.kildarestreet/member/1173" vote="aye">Lorraine Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/1135" vote="aye">Ca&iacute;t Keane</mpname>
+                    <mpname id="com.kildarestreet/member/1161" vote="aye">John Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1162" vote="aye">Denis Landy</mpname>
+                    <mpname id="com.kildarestreet/member/1132" vote="aye">Marie Maloney</mpname>
+                    <mpname id="com.kildarestreet/member/1174" vote="aye">Mary Moran</mpname>
+                    <mpname id="com.kildarestreet/member/1134" vote="aye">Tony Mulcahy</mpname>
+                    <mpname id="com.kildarestreet/member/1118" vote="aye">Michael Mullins</mpname>
+                    <mpname id="com.kildarestreet/member/1153" vote="aye">Catherine Noone</mpname>
+                    <mpname id="com.kildarestreet/member/1129" vote="aye">Susan O'Keeffe</mpname>
+                    <mpname id="com.kildarestreet/member/1125" vote="aye">Pat O'Neill</mpname>
+                    <mpname id="com.kildarestreet/member/1163" vote="aye">Tom Shehan</mpname>
+                    <mpname id="com.kildarestreet/member/1143" vote="aye">John Whelan</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1157" vote="no">Sean Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1116" vote="no">Thomas Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1147" vote="no">John Crown</mpname>
+                    <mpname id="com.kildarestreet/member/1133" vote="no">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1159" vote="no">Mark Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1140" vote="no">Terry Leyden</mpname>
+                    <mpname id="com.kildarestreet/member/1149" vote="no">Marc MacSharry</mpname>
+                    <mpname id="com.kildarestreet/member/1128" vote="no">Paschal Mooney</mpname>
+                    <mpname id="com.kildarestreet/member/1139" vote="no">Darragh O'Brien</mpname>
+                    <mpname id="com.kildarestreet/member/1127" vote="no">Denis O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1142" vote="no">Ned O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1122" vote="no">Trevor &Oacute; Clochartaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1123" vote="no">Brian &Oacute; Domhnaill</mpname>
+                    <mpname id="com.kildarestreet/member/1154" vote="no">Averil Power</mpname>
+                    <mpname id="com.kildarestreet/member/1126" vote="no">Jim Walsh</mpname>
+                    <mpname id="com.kildarestreet/member/1156" vote="no">Mary White</mpname>
+                    <mpname id="com.kildarestreet/member/1164" vote="no">Diarmuid Wilson</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/seanad/2012-12-19a.880/3" nospeaker="true" time="20:15:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900065#OOO00300"><p>Question declared carried.</p></speech>
     <speech />
     <speech />
     <major-heading id="com.kildarestreet/seanad/2012-12-19a.883" nospeaker="true" time="20:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2012121900066#PPP00300">Adjournment Matters</major-heading>
