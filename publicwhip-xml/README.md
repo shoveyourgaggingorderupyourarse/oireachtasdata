@@ -1,3 +1,5 @@
+(2013-04-11)
+
 publicwhip-xml
 ==============
 
@@ -6,6 +8,11 @@ at http://ukparse.kforge.net/parlparse/
 
 This function of the parser is not finished. To repeat:
 
-*THIS DIRECTORY'S CONTENTS ARE NOT COMPLETE AND NOT READY FOR USE.*
+*THIS DIRECTORY'S CONTENTS ARE NOT COMPLETE*
 
-(as of 2013-04-10)
+Files marked SENYYYYMMDD.xml are in their most up-to-date state presently.  Until we successfully add their contents to KildareStreet we don't yet know exactly how correct they are. 
+
+On the plus side, as of tonight they're generating no errors and no warnings in our parser.
+
+
+
