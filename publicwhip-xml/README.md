@@ -19,6 +19,6 @@ They are VERY BAD AT THEIR JOB -- the contents of oireachtasdebates.oireachtas.i
 very incomplete, and sometimes downright incorrect. Therefore we make *no assurances* that contents are complete.
 
 The text in these files is (c) Oireachtas Copyright, each file to its original year of transcription.  The Copyright
-Act of 2002 permits unfettered use of this material if your intention is to report the proceedigns of parliament
+Act of 2002 permits unfettered use of this material if your intention is to report the proceedings of parliament
 in an unbiased fashion.  If that is not your intention, you may be violating copyright by using this material. 
 In which case you're totally on your own.
