@@ -7,6 +7,7 @@
 <!ENTITY iacute "&#237;" >
 <!ENTITY oacute "&#243;" >
 <!ENTITY uacute "&#250;" >
+<!ENTITY yen    "&#165;" >
 
 <!ENTITY Aacute "&#193;" >
 <!ENTITY Eacute "&#201;" >
@@ -40,6 +41,7 @@
 <!ENTITY atilde "&#227;" >
 <!ENTITY auml   "&#228;" >
 <!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
 <!ENTITY egrave "&#232;" >
 <!ENTITY ecirc  "&#234;" >
 <!ENTITY euml   "&#235;" >
