@@ -1,0 +1,148 @@
+#!/usr/bin/env ruby
+
+require 'date'
+require 'find'
+require 'nokogiri'
+
+module OireachtasData
+  class Search
+    attr_reader :search_string
+
+    def initialize(search_string)
+      @search_string = search_string
+    end
+
+    def results(&block)
+      matchingXML do |file, data|
+        data.xpath("//*[contains(text(), \"#{search_string}\")]").each do |node|
+          while node.parent.name != 'publicwhip'
+            node = node.parent
+          end
+          yield SearchResult.new(file, data, node['id'])
+        end
+      end
+    end
+
+    def matchingXML(&block)
+      Data.files do |file|
+        raw = File.read(file)
+        if raw =~ /\b#{search_string}\b/
+          yield file, Nokogiri::XML(raw) if block_given?
+        end
+      end
+    end
+  end
+
+  class SearchResult
+    attr_reader :file
+    attr_reader :data
+    attr_reader :matching_id
+
+    def initialize(file, data, matching_id)
+      @file = File.basename(file)
+      @data = data
+      @matching_id = matching_id
+    end
+
+    def matching_node
+      @matching_node ||= data.xpath("//*[@id='#{matching_id}']").first
+    end
+
+    def datetime
+      unless @datetime
+        parts = file.gsub(/[^0-9-]/, '').split(/-/)
+        parts += matching_node['time'].split(/:/) if matching_node['time']
+        @datetime = DateTime.new(*parts.map{|x| x.sub(/^0/, '').to_i })
+      end
+    end
+
+    def majorheading
+      unless @majorheading
+        node = matching_node
+        while node.name != 'major-heading'
+          node = node.previous_element
+        end
+        @majorheading = node.text
+      end
+    end
+
+    def minorheading
+      unless @minorheading
+        node = matching_node
+        while node.name != 'minor-heading'
+          node = node.previous_element
+          return nil if node.nil?
+        end
+        @minorheading = node.text
+      end
+    end
+
+    def speaker
+      @speaker ||= matching_node['speakername']
+    end
+
+    def content
+      @content ||= Nokogiri::HTML.fragment(matching_node.children.to_s)
+    end
+
+    def formatted
+      Format.format(self)
+    end
+  end
+
+  class Format
+    def self.format(search_result)
+      lines = [
+        search_result.majorheading,
+        search_result.minorheading,
+        search_result.file,
+        search_result.datetime.to_s,
+        search_result.speaker
+      ]
+      search_result.content.css('p').each do |para|
+        lines << indent(wrap(para.text.gsub(/(?:^\s+|\s+$)/, ''), 75), 4)
+        lines << ''
+      end
+      lines.compact.join("\n")
+    end
+
+    def self.wrap(text, width)
+      lines = []
+      line = ''
+      text.split(/ +/).each do |word|
+        if line.length + word.length + 1 > width
+          lines << line
+          line = word
+        else
+          line += ' ' unless line == ''
+          line += word
+        end
+      end
+      lines << line
+      lines
+    end
+
+    def self.indent(lines, amount)
+      lines.map{|line| (" " * amount) + line }
+    end
+  end
+
+  class Data
+    def self.directory
+      File.expand_path('../../publicwhip-xml', __FILE__)
+    end
+
+    def self.files(&block)
+      Find.find(directory) do |path|
+        if FileTest.file? path and path =~ /\.xml$/
+          yield path if block_given?
+        end
+      end
+    end
+  end
+end
+
+OireachtasData::Search.new(ARGV.join(' ')).results do |result|
+  puts result.formatted
+  puts ""
+end
