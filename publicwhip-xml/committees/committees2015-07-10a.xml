@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY zcaron  "&#381;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2015-07-10a.2" nospeaker="true" time="10:30:00" url="">Select Committee on Justice, Defence and Equality</major-heading>
+    <speech id="com.kildarestreet/committees/2015-07-10a.3" nospeaker="true" time="10:30:00" ><p>The Select Committee met at 10:30</p><p>MEMBERS PRESENT:</p><p>Deputy Catherine Byrne,+ Deputy Pádraig Mac Lochlainn, Deputy Niall Collins, Deputy Gabrielle McFadden, Deputy Alan Farrell, Deputy Dara Murphy (Minister of State at the Department of Justice and Equality), Deputy Anne Ferris, Deputy Fergus O'Dowd. Deputy Seán Kenny,</p><p>+ In the absence of Deputy Alan Farrell for part of the meeting.</p><p>DEPUTY DAVID STANTON IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2015-07-10a.4" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A00100">Civil Debt (Procedures) Bill 2015: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2015-07-10a.5" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A00200"><p>This meeting has been convened to consider Committee Stage of the Civil Debt (Procedures) Bill 2015.  I welcome the Minister of State, Deputy Dara Murphy and his officials.  Please turn off all mobile phones or put them on aeroplane mode.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.6" nospeaker="true" time="10:30:00" ><p>SECTION 1</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.7" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A00400"><p>Amendments Nos. 11 and 18 are consequential on amendment No. 1.  Amendments Nos. 1, 11 and 18 may be discussed together.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.8" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A00500"><p>I move amendment No. 1:<blockquote><br /><br />In page 6, to delete lines 34 and 35 and substitute the following:&ldquo; &ldquo;statement of means&rdquo; means a statement of means furnished by a judgment debtor under <i>section 7 </i>or, in relation to a relevant order that has been varied under <i>section 20</i>, the statement of means furnished by the judgment debtor under <i>subsection (2) </i>or <i>(4) </i>of that section in the application for the variation;&rdquo;.</blockquote>A statement of means is defined in section 1 as a statement of means furnished under section 7.  However, where a relevant agreement has been varied, the relevant statement of means would be that furnished under section 20.  Members will recall that the statement of means is to be completed by the debtor in order that the court has comprehensive details of their income and outgoings in order that an assessment can be made of the debtor's capacity to repay the debt.  A second, or further statement of means would be required to be provided by the debtor where there is a proposal to vary the attachment or deduction order under the provisions of section 20.</p><p>Amendment No. 1 corrects the references by providing for an amended definition of statement of means in section 1, which now references the variation provisions in section 20.  Amendments Nos. 11 and 18 are consequential amendments.  I should mention at this stage that it is intended to introduce a number of amendment on Report Stage.  These are likely to include further refinement of the definitions sections, a possible further amendment to section 2, regarding the making of regulations, some further refinements to section 7 concerning the statement of means and a new provision concerning protection against unfair dismissals for employees with less than 12 months' service, amendments to section 15 concerning persons in the employment of the State, amendments concerning the service of documents, amendments relating to the enforcement of court orders Acts, some further refinements to the sections dealing with the deductions from social welfare payments and the variation of orders made under the Bill, and a possible amendment to the enforcement section.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.9" nospeaker="true" time="10:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.10" nospeaker="true" time="10:30:00" ><p>Section 1, as amended, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.11" nospeaker="true" time="10:30:00" ><p>SECTION 2</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.12" nospeaker="true" time="10:30:00" ><p>Question, "That section 2 stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.13" nospeaker="true" time="10:30:00" ><p>SECTION 3</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.14" nospeaker="true" time="10:30:00" ><p>Question, "That section 3 stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.15" nospeaker="true" time="10:30:00" ><p>SECTION 4</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.16" nospeaker="true" time="10:30:00" ><p>Question, "That section 4 stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.17" nospeaker="true" time="10:30:00" ><p>SECTION 5</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.18" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A01500"><p>Amendments Nos. 2 to 4, inclusive, 6, 9,10, 19 and 20 are technical and drafting amendments and may be discussed together.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.19" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A01600"><p>I move amendment No. 2:<blockquote><br /><br />In page 7, line 27, to delete &ldquo;or&rdquo;.</blockquote>I propose to deal with amendments Nos. 2 to 4, inclusive, 6, 9, 10, 19 and 20 together.  Amendments Nos. 2 and 9 are similar in nature and are technical amendments to improve the drafting of the Bill.  Amendment No. 3 is a technical amendment to improve the drafting of the Bill.  Amendment No. 4 is also a technical drafting amendment.  The Parliamentary Counsel has advised that the correct citation is companies Acts or the Companies Act 2014.  Amendment No. 6 is a technical drafting amendment to improve the text.  Amendment No. 10 is also a technical amendment.  Amendment No. 19 is a technical drafting amendment to improve the text, again on the advice of the Parliamentary Counsel that it is more correct to say &quot;prescribed by rules of court&quot; rather than &quot;as specified by rules of court&quot;.  Amendment No. 20 corrects a cross-reference in the Bill.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.20" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.21" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A01800"><p>I move amendment No. 3:<blockquote><br /><br />In page 7, line 31, to delete &ldquo;employer&rsquo;s residence or&rdquo; and substitute &ldquo;address at which the employer ordinarily resides or the employer&rsquo;s&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.22" nospeaker="true" time="10:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.23" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A02000"><p>I move amendment No. 4:<blockquote><br /><br />In page 7, line 34, after &ldquo;Acts&rdquo; to insert &ldquo;or the Companies Act 2014&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.24" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.25" nospeaker="true" time="10:30:00" ><p>Question, "That section 5, as amended, stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.26" nospeaker="true" time="10:30:00" ><p>SECTION 6</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.27" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A02400"><p>Amendments Nos. 5 and 12 are related and may be discussed together.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.28" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A02500"><p>I move amendment No. 5:<blockquote><br /><br />In page 8, line 3, to delete &ldquo;judgment&rdquo; and substitute &ldquo;judgment debt&rdquo;.</blockquote>I propose to deal with amendments Nos. 5 and 12 together.  These are technical drafting amendments required for consistency and throughout the Bill we refer to the &quot;judgment debt&quot; or &quot;judgment debtor&quot;.  These amendments address two omissions of the word &quot;judgment&quot; which was not previously in the text.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.29" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.30" nospeaker="true" time="10:30:00" ><p>Question, "That section 6, as amended, stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.31" nospeaker="true" time="10:30:00" ><p>SECTION 7</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.32" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A02900"><p>I move amendment No. 6:<blockquote><br /><br />In page 8, line 23, to delete &ldquo;every&rdquo; and substitute &ldquo;each&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.33" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.34" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A03100"><p>Amendments Nos. 7, 13, 14, 16 and 17 are related and may be discussed together.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.35" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A03200"><p>I move amendment No. 7:<blockquote><br /><br />In page 8, line 36, to delete &ldquo;payable&rdquo; and substitute &ldquo;paid&rdquo;.</blockquote>I propose to deal with amendments Nos. 7, 13, 14, 16 and 17 together.  These technical amendments are required to improve the text.  I am advised that &quot;paid&quot; is more appropriate terminology to use as the deductions are only made when payments are actually made to the debtor.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.36" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.37" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#A03400"><p>I move amendment No. 8:<blockquote><br /><br />In page 9, to delete lines 6 to 15 and substitute the following:&ldquo;(e) whether the judgment debtor is obliged to make payments under a court order in force against him or her and, if so, particulars as to the payments concerned;&rdquo;.</blockquote>Amendment No. 8 proposes to replace the existing section 7(2)(e) with new text which provides that the debtor is required to declare in the statement of means all payments he or she is obliged to make under a court order.</p><p>The provisions of section 7(2)(e) did not cover the possibility that there may be court orders in existence relating to the debtor other than those related to the list of Acts mentioned.  This revised text ensures the debtor will be required to provide more comprehensive detail to the court which will assist it in determining the debtor&rsquo;s capacity to repay the debt.</p><p> I would emphasise that the obligation is to provide information to the court and not to the creditor or employer.  It is in the interest of the debtor that the court has the fullest possible information on the existing obligations of the debtor since it will be able to decide in a fully informed way on what amount, if any, the debtor can afford to pay.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.39" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.40" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#B00300"><p>I move amendment No. 9:<blockquote><br /><br />In page 9, line 19, to delete &ldquo;and&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.41/1" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#B00400"><p>Amendment put:</p><p>The Committee divided: Tá, 7; Níl, 2.</p><br/><br/><p></p></speech>
+        <division id="com.kildarestreet/committees/2015-07-10a.41/2" nospeaker="true" divdate="2015-07-10" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#B00400">
+            <divisioncount ayes="7" noes="2" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/committees/2015-07-10a.41/3" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#B00400"><p>Amendment declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.42" nospeaker="true" time="10:30:00" ><p>Question, "That section 7, as amended, stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.43" nospeaker="true" time="10:30:00" ><p>SECTION 8</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.44" nospeaker="true" time="10:30:00" ><p>Question, "That section 8 stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.45" nospeaker="true" time="10:30:00" ><p>SECTION 9</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.46" nospeaker="true" time="10:30:00" ><p>Question, "That section 9 stand part of the Bill", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.47" nospeaker="true" time="10:30:00" ><p>SECTION 10</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.48" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#C01000"><p>I move amendment No. 10:<blockquote><br /><br />In page 10, line 34, to delete &ldquo;deducted&rdquo; and substitute &ldquo;deducted,&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.49/1" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#C01100"><p>Amendment put:</p><p>The Committee divided: Tá, 7; Níl, 2.</p><br/><br/><p></p></speech>
+        <division id="com.kildarestreet/committees/2015-07-10a.49/2" nospeaker="true" divdate="2015-07-10" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#C01100">
+            <divisioncount ayes="7" noes="2" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/committees/2015-07-10a.49/3" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#C01100"><p>Amendment declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.50" nospeaker="true" time="10:30:00" ><p>Question, "That section 10, as amended, stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.51" nospeaker="true" time="10:30:00" ><p>Section 11 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.52" nospeaker="true" time="10:30:00" ><p>Question, "That section 12 part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.53" nospeaker="true" time="10:30:00" ><p>SECTION 13</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.54" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#D00500"><p>I move amendment No. 11:<blockquote><br /><br />In page 12, line 22, to delete &ldquo;under <i>section 7</i>&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.55" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.56" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#D00700"><p>I move amendment No. 12:<blockquote><br /><br />In page 12, line 24, to delete &ldquo;debtor&rdquo; where it secondly occurs and substitute &ldquo;judgment debtor&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.57" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.58" nospeaker="true" time="10:30:00" ><p>Question, "That section 13, as amended, stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.59" nospeaker="true" time="10:30:00" ><p>Section 14 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.60" nospeaker="true" time="10:30:00" ><p>Section 15 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.61" nospeaker="true" time="10:30:00" ><p>SECTION 16</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.62" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#D01300"><p>I move amendment No. 13:<blockquote><br /><br />In page 14, line 1, to delete &ldquo;payable&rdquo; and substitute &ldquo;paid&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.63" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.64" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#D01500"><p>I move amendment No. 14:<blockquote><br /><br />In page 14, line 20, to delete &ldquo;payable&rdquo; and substitute &ldquo;paid&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.65" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.66" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#D01700"><p>I move amendment No. 15:<blockquote><br /><br />In page 14, to delete line 25 and substitute the following:&ldquo;(f) the period, commencing on the date on which the order takes effect under <i>subsection (6)</i>, for which the order shall have effect.&rdquo;.</blockquote>The purpose of this amendment is to substitute paragraph 4(<i>f</i>) of section 16 with new text.  This will ensure absolute clarity that the order only takes effect when the Minister for Social Protection makes the first deduction.  Therefore, it is necessary to recast the text to reflect this.  </p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.67" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.68" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#D01900"><p>I move amendment No. 16:<blockquote><br /><br />In page 14, line 31, to delete &ldquo;payable to judgment debtor&rdquo; and substitute &ldquo;paid to the judgment debtor&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.69/1" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#E00050"><p>Amendment put:</p><p>The Committee divided: Tá, 7; Níl, 2.</p><br/><br/><p></p></speech>
+        <division id="com.kildarestreet/committees/2015-07-10a.69/2" nospeaker="true" divdate="2015-07-10" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#E00050">
+            <divisioncount ayes="7" noes="2" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/committees/2015-07-10a.69/3" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#E00050"><p>Amendment declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.70" nospeaker="true" time="10:30:00" ><p>Section 16, as amended, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.71" nospeaker="true" time="10:30:00" ><p>Section 17 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.72" nospeaker="true" time="10:30:00" ><p>SECTION 18</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.73" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#E00300"><p>I move amendment No. 17:<blockquote><br /><br />In page 15, line 2, to delete &ldquo;payable&rdquo; and substitute &ldquo;paid&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.74" nospeaker="true" time="10:30:00" ><p>Question, "That section 18, as amended, stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.75" nospeaker="true" time="10:30:00" ><p>SECTION 19</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.76" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#E00600"><p>I move amendment No. 18:<blockquote><br /><br />In page 15, line 21, to delete &ldquo;under <i>section 7</i>&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.77" nospeaker="true" time="10:30:00" ><p>Question, "That section 19, as amended, stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.78" nospeaker="true" time="10:30:00" ><p>SECTION 20</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.79" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#E00900"><p>I move amendment No. 19:<blockquote><br /><br />In page 16, line 2, to delete &ldquo;specified&rdquo; and substitute &ldquo;prescribed&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.80/1" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#F00050"><p>Amendment put:</p><p>The Committee divided: Tá, 7; Níl, 2.</p><br/><br/><p></p></speech>
+        <division id="com.kildarestreet/committees/2015-07-10a.80/2" nospeaker="true" divdate="2015-07-10" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#F00050">
+            <divisioncount ayes="7" noes="2" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="aye"></mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                    <mpname id="com.kildarestreet/member/" vote="no"></mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/committees/2015-07-10a.80/3" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#F00050"><p>Amendment declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.81" nospeaker="true" time="10:30:00" ><p>Question, "That section 20, as amended, stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.82" nospeaker="true" time="10:30:00" ><p>Question, "That section 21 stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.83" nospeaker="true" time="10:30:00" ><p>Question, "That section 22 stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.84" nospeaker="true" time="10:30:00" ><p>Question, "That section 23 stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.85" nospeaker="true" time="10:30:00" ><p>SECTION 24</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.86" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#F00600"><p>I move amendment No. 20:<blockquote><br /><br />In page 17, line 19, to delete &ldquo;<i>section 7(1)</i>, <i>7(6)</i>, <i>20(1)</i>&rdquo; and substitute &ldquo;<i>section 7(1)</i>, <i>7(6)</i>, <i>20(2)</i>&rdquo;.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.87" nospeaker="true" time="10:30:00" ><p>Amendment put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.88" nospeaker="true" time="10:30:00" ><p>Question, "That section 24, as amended, stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.89" nospeaker="true" time="10:30:00" ><p>Question, "That section 25 stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.90" nospeaker="true" time="10:30:00" ><p>Section 26 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.91" nospeaker="true" time="10:30:00" ><p>Question, "That section 27 stand part of the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.92" nospeaker="true" time="10:30:00" ><p>TITLE</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.93" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#F01300"><p>Amendment No. 22 is a physical alternative to amendment No. 21.  Amendments Nos. 21 and 22 will be discussed together.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.94" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#F01400"><p>I move amendment No. 21:<blockquote><br /><br />In page 5, lines 5 to 7, to delete all words from and including &ldquo;to&rdquo; where it firstly occurs in line 5 down to and including &ldquo;circumstances;&rdquo; in line 7.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.95" nospeaker="true" time="10:30:00" ><p>Amendment put and declared lost.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.96" nospeaker="true" time="10:30:00" ><p>Amendment No. 22 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.97" nospeaker="true" time="10:30:00" ><p>Question, "That the Title be the Title to the Bill," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.98" nospeaker="true" time="10:30:00" ><p>Bill reported with amendments.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.99" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#G00225"><p>I thank the Minister of State and his officials for attending.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2015-07-10a.100" nospeaker="true" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#G00250">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2015-07-10a.101" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="10:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015071000002#G00300"><p>In accordance with Standing Order 87, the following message will be sent to the Clerk of the D&aacute;il:<blockquote><br /><br />The Select Committee on Justice, Defence and Equality has completed its consideration of the Civil Debt (Procedures) Bill 2015 and has made amendments thereto.</blockquote></p></speech>
+    <speech id="com.kildarestreet/committees/2015-07-10a.102" nospeaker="true" time="10:30:00" ><p>The select committee adjourned at 11.30 a.m. sine die.</p></speech>
+</publicwhip>
