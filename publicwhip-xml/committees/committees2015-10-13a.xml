@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY zcaron  "&#381;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2015-10-13a.2" nospeaker="true" time="12:30:00" url="">Select Committee on Justice, Defence and Equality</major-heading>
+    <speech id="com.kildarestreet/committees/2015-10-13a.3" nospeaker="true" time="12:30:00" ><p>The Select Committee met at 12:30</p><p>MEMBERS PRESENT:</p><p>Deputy Anne Ferris, Deputy Aodhán Ó Ríordáin (Minister of State at the Department of Justice and Equality), Deputy Seán Kenny, Deputy Fergus O'Dowd.</p><p>DEPUTY DAVID STANTON IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2015-10-13a.4" nospeaker="true" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00100">Business of Select Committee</minor-heading>
+    <speech id="com.kildarestreet/committees/2015-10-13a.5" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00200"><p>Apologies have been received from Deputy Finian McGrath.  I understand Deputy Wallace will attend in substitution for him.  As we are in public session, I ask those present to turn off all mobile telephones as they cause interference, even on silent mode, with the recording equipment in the committee rooms.</p> <p>  I welcome the Minister of State and his official to the meeting.  Before we begin, it is important to comment briefly on the recent events which resulted in the tragic death of a number of people.  In particular, I wish to pay tribute to Garda Tony Golden who was killed in the line of duty while protecting another citizen.  Garda Golden leaves behind a wife and young family and our thoughts and prayers must be with them at this most difficult time.  His actions were selfless and brave.  They are the actions that members of the Garda S&iacute;och&aacute;na engage in every day on our behalf.  I also wish Ms Siobh&aacute;n Phillips, who is very ill in hospital, a speedy recovery from her injuries.</p> <p>  There was a further tragedy at Carrickmines, where a fire caused the deaths of so many innocent people.  The entire nation was shocked and moved by this terrible tragedy.  On behalf of the committee, I wish to extend my deepest sympathies to all of those who have been bereaved and injured by these events.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.6" speakerid="com.kildarestreet/member/1105" speakername="Anne Ferris" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00300"><p>I join the Chairman in offering condolences to the Garda S&iacute;och&aacute;na on a terrible tragedy that happened around the same time as that which occurred at Carrickmines.  Some of the people who unfortunately died at Carrickmines were from Bray in my constituency.  The local community and the Bray Travellers development group are surrounding those they left behind with every bit of support that they can give.  The wider community has come on board.  It has been an awful weekend.  I thank the Chairman for raising these events at the start of the meeting.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.7" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00400"><p>This is a Garda Bill and we undertook some work on the Traveller community earlier in the year.  Our hearts go out to everyone involved in these terrible events.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2015-10-13a.8" nospeaker="true" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00500">Garda Síochána (Policing Authority and Miscellaneous Provisions) Bill 2015: Committee Stage (Resumed)</minor-heading>
+    <speech id="com.kildarestreet/committees/2015-10-13a.9" nospeaker="true" time="12:30:00" ><p>SECTION 31</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.10" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00600"><p>Amendments Nos. 104 to 108, inclusive, are related and will be discussed together.  However, as neither Deputy Finian McGrath nor Deputy Wallace is present, amendments Nos. 104 and 105 cannot be moved.  Amendment No. 106 cannot be moved because Deputy Mac Lochlainn is not present.  Amendment No. 107 cannot be moved because Deputies Finian McGrath and Mac Lochlainn are not present.  As neither Deputy Finian McGrath nor Deputy Wallace is present, amendment No. 108 cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.11" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 104 to 108, inclusive, not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.12" nospeaker="true" time="12:30:00" ><p>Section 31 agreed to.
+
+SECTION 32</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.13" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#A00900"><p>Amendment No. 109 cannot be moved because Deputy Wallace is not present.  Amendments Nos. 110 and 140 are related and would have been discussed together.  However, Deputy Mac Lochlainn is not present and amendment No. 110 cannot be moved as a result.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.14" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 109 and 110 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.15" nospeaker="true" time="12:30:00" ><p>Section 32 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.16" nospeaker="true" time="12:30:00" ><p>Amendment No. 111 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.17" nospeaker="true" time="12:30:00" ><p>Sections 33 and 34 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.18" nospeaker="true" time="12:30:00" ><p>Amendment No. 112 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.19" nospeaker="true" time="12:30:00" ><p>Section 35 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.20" nospeaker="true" time="12:30:00" ><p>SECTION 36</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.21" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B00300"><p>Amendment No. 113 is in the name of Deputy Mac Lochlainn.  As the Deputy is not present, the amendment cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.22" nospeaker="true" time="12:30:00" ><p>Amendment No. 113 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.23" nospeaker="true" time="12:30:00" ><p>Section 36 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.24" nospeaker="true" time="12:30:00" ><p>Sections 37 and 38 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.25" nospeaker="true" time="12:30:00" ><p>Amendment No. 114 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.26" nospeaker="true" time="12:30:00" ><p>Sections 39 to 43, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.27" nospeaker="true" time="12:30:00" ><p>SECTION 44</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.28" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B01300"><p>Amendment No. 115 in the name of Deputy Mac Lochlainn has been ruled out of order.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.29" nospeaker="true" time="12:30:00" ><p>Amendment No. 115 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.30" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B01500"><p>Amendment No. 116 has been ruled out of order.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.31" nospeaker="true" time="12:30:00" ><p>Amendment No. 116 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.32" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B01600"><p>Amendment No. 117 is in the name of Deputy Niall Collins.  Amendments Nos. 117 to 138, inclusive, are being discussed together.  Amendment No. 126 is a physical alternative to amendment No. 125.  As Deputy Collins is not present, his amendments cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.33" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 117 and 118 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.34" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B01800"><p>As neither Deputy McGrath or Wallace are present, the amendments in the name of Deputy McGrath cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.35" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 119 to 125, inclusive, not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.36" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B02000"><p>As Deputy Mac Lochlainn is not present, his amendment cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.37" nospeaker="true" time="12:30:00" ><p>Amendment No. 126 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.38" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B02200"><p>Amendment No. 127 is in the names of Deputies Mac Lochlainn and McGrath.  As neither are present the amendment cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.39" nospeaker="true" time="12:30:00" ><p>Amendment No. 127 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.40" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 128 to 140, inclusive, not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.41" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B02500"><p>As neither Deputies Mac Lochlainn, McGrath or Wallace are present, amendments Nos. 141 to 154, inclusive cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.42" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 141 to 154, inclusive, not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.43" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B02700"><p>Amendment No. 155 is in the name of the Minister.  Amendment No. 156 is consequential on amendment No. 155.  Amendments Nos. 155 and 156 will be discussed together, by agreement.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.44" speakerid="com.kildarestreet/member/1018" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B02800"><p>I move amendment No. 155:</p><blockquote>In page 43, between lines 12 and 13, to insert the following:&ldquo;(6) The Minister may request the Authority to prepare and submit to him or her, within the period specified in the request, a report in respect of any matter relating to policing services, and the Authority shall comply with the request.&rdquo;.</blockquote> <p>The purpose of this amendment is to make provision for the Minister for Justice and Equality under 620(6) to request the authority to submit to him or her a report on any matter relating to policing services.  Such reports could prove useful in the context of, for example, the development of policy in relation to policing services.</p><p>Having considered the wording of this amendment further, the Minister considers that requiring the authority to submit a report within the period specified is not fully appropriate in the context of the independence of the authority.  Accordingly the Minister is considering bringing forward an amendment on Report Stage to modify this provision by requiring the provision of the report as soon as the authority is in a position to do so, rather than within a specified timeframe.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.45" nospeaker="true" time="12:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.46" speakerid="com.kildarestreet/member/1018" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B03000"><p>I move amendment No. 156:</p><blockquote>In page 43, line 13, to delete &ldquo;(6) The Minister shall&rdquo; and substitute the following:&ldquo;(7) The Minister shall&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.47" nospeaker="true" time="12:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.48" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#B03200"><p>As neither Deputies McGrath or Wallace are present, amendments in the name of Deputy Finian McGrath cannot be moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.49" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 157 to 162, inclusive, not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.50" nospeaker="true" time="12:30:00" ><p>Section 44, as amended, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.51" nospeaker="true" time="12:30:00" ><p>Sections 45 to 47, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.52" nospeaker="true" time="12:30:00" ><p>SECTION 48</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.53" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#C00400"><p>Amendment Nos. 163 to 165, inclusive, are related and may be discussed together.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.54" speakerid="com.kildarestreet/member/1018" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#C00500"><p>I move amendment No. 163:</p><blockquote>In page 47, line 23, to delete &ldquo;and&rdquo;. </blockquote></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.55" nospeaker="true" time="12:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.56" speakerid="com.kildarestreet/member/1018" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#C00700"><p>I move amendment No. 164:</p><blockquote>In page 47, line 25, to delete &ldquo;or (5)&rdquo;.&rdquo; and substitute &ldquo;or (5)&rdquo;, and&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.57" nospeaker="true" time="12:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.58" speakerid="com.kildarestreet/member/1018" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#C00900"><p>I move amendment No. 165:</p><blockquote>In page 47, between lines 25 and 26, to insert the following:&ldquo;(d) by the addition of the following subsection after subsection (6): <blockquote>&ldquo;(7) Notwithstanding subsections (4A) and (5)&mdash;<blockquote>(a) the Authority may refer to the Ombudsman Commission any matter relating to policing services, and<br /><br />(b) the Minister may refer to the Ombudsman Commission any matter, that gives rise to a cause for concern that a member of the Garda S&iacute;och&aacute;na may have done anything referred to in subsection (4) for the Commission to consider whether the matter is one that it should investigate under that subsection.&rdquo;.&rdquo;.</blockquote></blockquote></blockquote> <p>The purpose of the amendment is to insert a new subsection into section 102 to enable the authority or Minister to refer matters to GSOC for consideration as to where GSOC should initiate a public interest investigation under section 102(4).  Section 48 of the Bill inserts a new subsection 4(<i>a</i>) into section 102 which enables the authority to refer matters to GSOC for investigation.  This provision replicates a similar power for the Minister to that in section 102(5).  </p><p>Referral under these provisions will always result in GSOC initiating an investigation.  This is appropriate where the authority or Minister is satisfied that an investigation should be initiated.  However, there is no mechanism under the current provisions to deal with a situation where, for example, the authority or the Minister is uncertain as to whether an investigation is required or where GSOC might have already completed an investigation but the authority or Minister is unaware of this fact.  The amendments now being proposed seek to address the situation by allowing the authority or the Minister to refer matters to GSOC on the basis that it will determine whether an investigation under section 102(4) is warranted.  Amendments Nos. 163 and 164 are technical amendments.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.59" nospeaker="true" time="12:30:00" ><p>Amendment agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.60" nospeaker="true" time="12:30:00" ><p>Section 48, as amended, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.61" nospeaker="true" time="12:30:00" ><p>Amendments Nos. 166 to 168, inclusive, not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.62" nospeaker="true" time="12:30:00" ><p>Section 49 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.63" nospeaker="true" time="12:30:00" ><p>Sections 50 to 56, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.64" nospeaker="true" time="12:30:00" ><p>Amendment No. 169 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.65" nospeaker="true" time="12:30:00" ><p>Section 57 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.66" nospeaker="true" time="12:30:00" ><p>Amendment No. 170 not moved.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.67" nospeaker="true" time="12:30:00" ><p>Section 58 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.68" nospeaker="true" time="12:30:00" ><p>Sections 59 to 61, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.69" nospeaker="true" time="12:30:00" ><p>Schedule agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.70" nospeaker="true" time="12:30:00" ><p>TITLE</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.71" nospeaker="true" time="12:30:00" ><p>Question proposed: "That the Title be the Title to the Bill."</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.72" speakerid="com.kildarestreet/member/1018" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#C02700"><p>I wish to reiterate the fact that we will table an amendment to section 44(62)(<i>h</i>) on Report Stage.  I mentioned it in my previous remarks.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.73" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#C02800"><p>Once the Minister of State has mentioned then we have it.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.74" nospeaker="true" time="12:30:00" ><p>Question put and agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.75" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#D00025"><p>I again thank the Minister of State and his officials for attending.</p></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.76" nospeaker="true" time="12:30:00" ><p>Bill reported with amendments.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2015-10-13a.77" nospeaker="true" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#D00050">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2015-10-13a.78" speakerid="com.kildarestreet/member/978" speakername="David Stanton" time="12:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2015101300002#D00100"><p>In accordance with Standing Order 87, the following message will be sent to the D&aacute;il:</p><blockquote>The Select Committee on Justice, Defence and Equality has completed its consideration of the Garda S&iacute;och&aacute;na (Policing Authority and Miscellaneous Provisions) Bill 2015 and has made amendments thereto.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2015-10-13a.79" nospeaker="true" time="12:30:00" ><p>The select committee adjourned at 12.50 p.m. until 12 noon on Wednesday, 14 October 2015.</p></speech>
+</publicwhip>
