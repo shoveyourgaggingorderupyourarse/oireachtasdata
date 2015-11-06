@@ -18,6 +18,7 @@
 <!ENTITY hellip  "..." >
 <!ENTITY bullet  "&#8226;" >
 <!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
 
 <!ENTITY ndash   "&#8211;">
 <!ENTITY mdash   "&#8212;">
