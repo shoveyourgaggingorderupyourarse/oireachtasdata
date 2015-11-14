@@ -1405,4 +1405,1123 @@
                 </mplist>
         </division>
     <speech id="com.kildarestreet/dail/2015-11-12a.543/3" nospeaker="true" time="14:45:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200037#KK00150"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.544" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00100"><p>I move amendment No. 11:</p><blockquote>In page 8, line 10, to delete &quot;, with the prior approval in writing of the Government,&quot;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.545/1" nospeaker="true" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00200"><p>Amendment put:</p><p>The Dáil divided: Tá, 24; Níl, 56.</p><br/><p>Tellers: Tá, Deputies Aengus Ó Snodaigh and Pádraig Mac Lochlainn; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.545/2" nospeaker="true" divdate="2015-11-12" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00200">
+            <divisioncount ayes="24" noes="56" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1071" vote="aye">Dara Calleary</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/959" vote="aye">Pearse Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1047" vote="aye">Martin Ferris</mpname>
+                    <mpname id="com.kildarestreet/member/1050" vote="aye">Tom Fleming</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/983" vote="aye">Billy Kelleher</mpname>
+                    <mpname id="com.kildarestreet/member/1040" vote="aye">Michael Kitt</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/1006" vote="no">Joe Costello</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/1097" vote="no">Brendan Howlin</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1063" vote="no">Willie Penrose</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/947" vote="no">Pat Rabbitte</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.545/3" nospeaker="true" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00200"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.546" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00300"><p>I move amendment No. 12:</p><blockquote>In page 8, line 13, to delete &quot;, with the approval of the Minister,&quot;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.547/1" nospeaker="true" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00400"><p>Amendment put:</p><p>The Dáil divided: Tá, 23; Níl, 56.</p><br/><p>Tellers: Tá, Deputies Aengus Ó Snodaigh and Pádraig Mac Lochlainn; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.547/2" nospeaker="true" divdate="2015-11-12" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00400">
+            <divisioncount ayes="23" noes="56" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1071" vote="aye">Dara Calleary</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/959" vote="aye">Pearse Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1047" vote="aye">Martin Ferris</mpname>
+                    <mpname id="com.kildarestreet/member/1050" vote="aye">Tom Fleming</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/1006" vote="no">Joe Costello</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/1097" vote="no">Brendan Howlin</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1063" vote="no">Willie Penrose</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.547/3" nospeaker="true" time="14:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200038#LL00400"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.548" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200039#MM00100"><p>I move amendment No. 13:</p><blockquote>In page 8, line 17, to delete &ldquo;nominated&rdquo; and substitute &ldquo;appointed&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.549/1" nospeaker="true" time="15:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200039#MM00200"><p>Amendment put:</p><p>The Dáil divided: Tá, 23; Níl, 52.</p><br/><p>Tellers: Tá, Deputies Aengus Ó Snodaigh and Pádraig Mac Lochlainn; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.549/2" nospeaker="true" divdate="2015-11-12" time="15:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200039#MM00200">
+            <divisioncount ayes="23" noes="52" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1071" vote="aye">Dara Calleary</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/959" vote="aye">Pearse Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1047" vote="aye">Martin Ferris</mpname>
+                    <mpname id="com.kildarestreet/member/1050" vote="aye">Tom Fleming</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/983" vote="aye">Billy Kelleher</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.549/3" nospeaker="true" time="15:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200039#MM00200"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.550" speakerid="com.kildarestreet/member/1192" speakername="Clare Daly" time="15:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200040#NN00100"><p>I move amendment No. 14:</p><blockquote>In page 8, line 25, to delete &quot;for nomination by&quot; and substitute &quot;to&quot;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.551/1" nospeaker="true" time="15:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200040#NN00200"><p>Amendment put:</p><p>The Dáil divided: Tá, 25; Níl, 52.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.551/2" nospeaker="true" divdate="2015-11-12" time="15:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200040#NN00200">
+            <divisioncount ayes="25" noes="52" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1071" vote="aye">Dara Calleary</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/959" vote="aye">Pearse Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1050" vote="aye">Tom Fleming</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/983" vote="aye">Billy Kelleher</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.551/3" nospeaker="true" time="15:05:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200040#NN00200"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.552" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00100"><p>I move amendment No. 15:</p><blockquote>In page 8, line 25, to delete &ldquo;nomination&rdquo; and substitute &ldquo;appointment&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.553/1" nospeaker="true" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00200"><p>Amendment put:</p><p>The Dáil divided: Tá, 21; Níl, 53.</p><br/><p>Tellers: Tá, Deputies Aengus Ó Snodaigh and Pádraig Mac Lochlainn; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.553/2" nospeaker="true" divdate="2015-11-12" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00200">
+            <divisioncount ayes="21" noes="53" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.553/3" nospeaker="true" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00200"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.554" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00300"><p>I move amendment No. 16:</p><blockquote>In page 8, lines 25 and 26, to delete &ldquo;for appointment&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.555/1" nospeaker="true" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00400"><p>Amendment put:</p><p>The Dáil divided: Tá, 22; Níl, 54.</p><br/><p>Tellers: Tá, Deputies Aengus Ó Snodaigh and Pádraig Mac Lochlainn; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.555/2" nospeaker="true" divdate="2015-11-12" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00400">
+            <divisioncount ayes="22" noes="54" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1001" vote="aye">Thomas Pringle</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.555/3" nospeaker="true" time="15:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200041#OO00400"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.556" speakerid="com.kildarestreet/member/956" speakername="Mick Wallace" time="15:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200042#PP00200"><p>I move amendment No. 17:</p><blockquote>In page 8, to delete lines 27 to 41.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.557/1" nospeaker="true" time="15:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200042#PP00450"><p>Amendment put:</p><p>The Dáil divided: Tá, 23; Níl, 54.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.557/2" nospeaker="true" divdate="2015-11-12" time="15:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200042#PP00450">
+            <divisioncount ayes="23" noes="54" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/954" vote="aye">Joe Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1001" vote="aye">Thomas Pringle</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.557/3" nospeaker="true" time="15:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200042#PP00450"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.558" speakerid="com.kildarestreet/member/956" speakername="Mick Wallace" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00100"><p>I move amendment No. 18:</p><blockquote>In page 9, line 2, to delete &ldquo;Minister&rdquo; and substitute &ldquo;Authority&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.559/1" nospeaker="true" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00400"><p>Amendment put:</p><p>The Dáil divided: Tá, 26; Níl, 53.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.559/2" nospeaker="true" divdate="2015-11-12" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00400">
+            <divisioncount ayes="26" noes="53" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/954" vote="aye">Joe Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/983" vote="aye">Billy Kelleher</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1017" vote="aye">Finian McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1001" vote="aye">Thomas Pringle</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.559/3" nospeaker="true" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00400"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.560" speakerid="com.kildarestreet/member/956" speakername="Mick Wallace" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00500"><p>I move amendment No. 19:</p><blockquote>In page 9, line 3, to delete &ldquo;Minister&rdquo; and substitute &ldquo;Authority&rdquo;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.561/1" nospeaker="true" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00800"><p>Amendment put:</p><p>The Dáil divided: Tá, 25; Níl, 56.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.561/2" nospeaker="true" divdate="2015-11-12" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00800">
+            <divisioncount ayes="25" noes="56" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/954" vote="aye">Joe Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/983" vote="aye">Billy Kelleher</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1017" vote="aye">Finian McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/1001" vote="aye">Thomas Pringle</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.561/3" nospeaker="true" time="15:25:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200043#QQ00800"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.562" speakerid="com.kildarestreet/member/956" speakername="Mick Wallace" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00100"><p>I move amendment No. 20:</p><blockquote>In page 9, line 4, to delete &ldquo;Minister&rdquo; and substitute &ldquo;Authority&rdquo;. </blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.563/1" nospeaker="true" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00200"><p>Amendment put:</p><p>The Dáil divided: Tá, 23; Níl, 56.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.563/2" nospeaker="true" divdate="2015-11-12" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00200">
+            <divisioncount ayes="23" noes="56" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/954" vote="aye">Joe Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1017" vote="aye">Finian McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.563/3" nospeaker="true" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00200"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.564" speakerid="com.kildarestreet/member/1025" speakername="Alan Shatter" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00300"><p>On a point of order, this would be impressive had a single member of Sinn F&eacute;in or Fianna F&aacute;il turned up on Committee Stage to propose and debate the amendments that were tabled.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.565" speakerid="com.kildarestreet/member/1028" speakername="Aengus &Oacute; Snodaigh" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00400"><p>That is not a point of order.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.566" speakerid="com.kildarestreet/member/983" speakername="Billy Kelleher" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00500"><p>That is not a point of order.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.567" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00600"><p>On a point of order-----</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.568" nospeaker="true" time="15:35:00" ><p>(Interruptions).</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.569" speakerid="com.kildarestreet/member/1025" speakername="Alan Shatter" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00800"><p>It would also be impressive if Deputy Wallace had turned up at the start of Committee Stage as well.  I would like to propose an amendment to the Order of Business at this point.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.570" speakerid="com.kildarestreet/member/981" speakername="Sandra McLellan" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR00900"><p>The Deputy cannot do so.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.571" speakerid="com.kildarestreet/member/1028" speakername="Aengus &Oacute; Snodaigh" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR01000"><p>We dealt with the Order of Business this morning.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.572" speakerid="com.kildarestreet/member/1040" speakername="Michael Kitt" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR01100"><p>I do not think you can.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.573" speakerid="com.kildarestreet/member/1025" speakername="Alan Shatter" time="15:35:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200044#RR01200"><p>I would like to propose an amendment to the Order of Business to the effect that the amendments discussed in this group all be considered in a single vote and that we bring this complete farce to an end.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.574" speakerid="com.kildarestreet/member/1040" speakername="Michael Kitt" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS00200"><p>I do not think the Deputy is in a position to do so.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.575" speakerid="com.kildarestreet/member/981" speakername="Sandra McLellan" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS00300"><p>The Deputy cannot do so.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.576" speakerid="com.kildarestreet/member/1028" speakername="Aengus &Oacute; Snodaigh" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS00700"><p>The biggest farce here is the one standing up opposite me.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.577" speakerid="com.kildarestreet/member/1025" speakername="Alan Shatter" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS00800"><p>Are the Members opposite seriously going to go before the electorate and present themselves as an alternative Government?  The House has been dividing for over an hour in respect of votes on amendments those opposite know they cannot win.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.578" speakerid="com.kildarestreet/member/1040" speakername="Michael Kitt" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS00900"><p>Sorry Deputy-----</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.579" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01000"><p>The Deputy is not a Minister any more.  I want to respond.  On a point of order, I want to correct the record.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.580" speakerid="com.kildarestreet/member/989" speakername="Jerry Buttimer" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01100"><p>We want to say something here.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.581" speakerid="com.kildarestreet/member/1040" speakername="Michael Kitt" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01200"><p>Very briefly, because I want to say something too.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.582" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01300"><p>Here are the facts-----</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.583" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01400"><p>As the Deputy sese them.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.584" speakerid="com.kildarestreet/member/1040" speakername="Michael Kitt" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01500"><p>Briefly.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.585" speakerid="com.kildarestreet/member/998" speakername="P&aacute;draig MacLochlainn" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01600"><p>Committee Stage was taken over two days.  This is the second day of Report Stage.  This amounts to four separate days for debate.  The Minister for Justice and Equality has not been present once during those four days.  The former Minister for Justice and Equality should get off his high horse and realise that in a democracy, when the Government has the contempt whereby the Minister does not show up during the four days when debate was scheduled, we have a right - if the Government refuses to engage - to call a vote on every amendment.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.586" speakerid="com.kildarestreet/member/964" speakername="Ann Phelan" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01700"><p>I second Deputy Shatter's proposal.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.587" speakerid="com.kildarestreet/member/1040" speakername="Michael Kitt" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01800"><p>I must move on to the next amendment.  I cannot accept the proposal because it must come from the Government Chief Whip.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.588" speakerid="com.kildarestreet/member/983" speakername="Billy Kelleher" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS01900"><p>It has to come from the Government and Deputy Shatter is a backbencher.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.589" speakerid="com.kildarestreet/member/1090" speakername="Mattie McGrath" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS02000"><p>He wrecked the Department of Justice and Equality and starved the Garda of any money.  The force did not have a squad car, a radio or a battery.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.590" speakerid="com.kildarestreet/member/1079" speakername="Ray Butler" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS02100"><p>The Deputy can get good advice when he is Minister for Justice and Equality.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.591" speakerid="com.kildarestreet/member/956" speakername="Mick Wallace" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS02200"><p>I move amendment No. 21:</p><blockquote>In page 9, line 6, to delete &quot;The Government shall, as soon as may be, inform the Authority&quot; and substitute &quot;The Authority shall, as soon as may be, inform the Government&quot;.</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.592/1" nospeaker="true" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS02300"><p>Amendment put:</p><p>The Dáil divided: Tá, 23; Níl, 57.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.592/2" nospeaker="true" divdate="2015-11-12" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS02300">
+            <divisioncount ayes="23" noes="57" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/954" vote="aye">Joe Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1017" vote="aye">Finian McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/965" vote="aye">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1042" vote="no">Ciar&aacute;n Cannon</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1088" vote="no">Alan Kelly</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/947" vote="no">Pat Rabbitte</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/978" vote="no">David Stanton</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.592/3" nospeaker="true" time="15:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200045#SS02300"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.593" speakerid="com.kildarestreet/member/956" speakername="Mick Wallace" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00100"><p>I move amendment No. 22:</p><blockquote>In page 9, to delete lines 15 to 32 and the substitute the following:<b>&ldquo; &ldquo;10.</b>(1)The Authority, following consultation with the Government, may determine the number of persons who may be appointed to the rank of Deputy Garda Commissioner and, subject to this section, the appointment of a person to that rank shall be made by the Authority following consultation with the Government.<br /><br />(2) The Authority shall not appoint a person under subsection (1) unless it has invited the Service to undertake a selection competition for that purpose and the Service has undertaken such a competition.<br /><br />(3) The Authority shall agree with the Service the selection criteria and process that are to apply to the selection competition under this section.<br /><br />(4) A person shall not be appointed by the Authority under subsection (1) unless it is satisfied that the person is suitable for appointment as Deputy Garda Commissioner by reason of his or her possessing such relevant experience, qualifications, training or expertise as is appropriate having regard, in particular, to the functions that may be assigned to a member of this rank.&rdquo;</blockquote></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.594" speakerid="com.kildarestreet/member/1025" speakername="Alan Shatter" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00200"><p>On a point of order-----</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.595" speakerid="com.kildarestreet/member/1022" speakername="Dessie Ellis" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00300"><p>Do not make even more of a mess.  He made a mess of the Bill.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.596" speakerid="com.kildarestreet/member/1023" speakername="John Lyons" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00400"><p>Let him speak.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.597" speakerid="com.kildarestreet/member/1025" speakername="Alan Shatter" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00500"><p>I made no mess.  It is a farce.  We will cover it eventually.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.598/1" nospeaker="true" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00550"><p>Amendment put:</p><p>The Dáil divided: Tá, 25; Níl, 54.</p><br/><p>Tellers: Tá, Deputies Clare Daly and Mick Wallace; Níl, Deputies Joe Carey and John Lyons.</p></speech>
+        <division id="com.kildarestreet/dail/2015-11-12a.598/2" nospeaker="true" divdate="2015-11-12" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00550">
+            <divisioncount ayes="25" noes="54" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1199" vote="aye">Bobby Aylward</mpname>
+                    <mpname id="com.kildarestreet/member/1003" vote="aye">Richard Boyd Barrett</mpname>
+                    <mpname id="com.kildarestreet/member/1190" vote="aye">Tommy Broughan</mpname>
+                    <mpname id="com.kildarestreet/member/1193" vote="aye">Joan Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1083" vote="aye">Michael Colreavy</mpname>
+                    <mpname id="com.kildarestreet/member/1195" vote="aye">Ruth Coppinger</mpname>
+                    <mpname id="com.kildarestreet/member/1204" vote="aye">Lucinda Creighton</mpname>
+                    <mpname id="com.kildarestreet/member/1192" vote="aye">Clare Daly</mpname>
+                    <mpname id="com.kildarestreet/member/1022" vote="aye">Dessie Ellis</mpname>
+                    <mpname id="com.kildarestreet/member/1094" vote="aye">John Halligan</mpname>
+                    <mpname id="com.kildarestreet/member/960" vote="aye">S&eacute;amus Healy</mpname>
+                    <mpname id="com.kildarestreet/member/954" vote="aye">Joe Higgins</mpname>
+                    <mpname id="com.kildarestreet/member/983" vote="aye">Billy Kelleher</mpname>
+                    <mpname id="com.kildarestreet/member/998" vote="aye">P&aacute;draig MacLochlainn</mpname>
+                    <mpname id="com.kildarestreet/member/1017" vote="aye">Finian McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/1090" vote="aye">Mattie McGrath</mpname>
+                    <mpname id="com.kildarestreet/member/981" vote="aye">Sandra McLellan</mpname>
+                    <mpname id="com.kildarestreet/member/1183" vote="aye">Peter Mathews</mpname>
+                    <mpname id="com.kildarestreet/member/1197" vote="aye">Paul Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/969" vote="aye">Caoimhgh&iacute;n &Oacute; Caol&aacute;in</mpname>
+                    <mpname id="com.kildarestreet/member/1054" vote="aye">Se&aacute;n &Oacute; Feargha&iacute;l</mpname>
+                    <mpname id="com.kildarestreet/member/1028" vote="aye">Aengus &Oacute; Snodaigh</mpname>
+                    <mpname id="com.kildarestreet/member/1005" vote="aye">Maureen O'Sullivan</mpname>
+                    <mpname id="com.kildarestreet/member/953" vote="aye">Shane Ross</mpname>
+                    <mpname id="com.kildarestreet/member/956" vote="aye">Mick Wallace</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1062" vote="no">James Bannon</mpname>
+                    <mpname id="com.kildarestreet/member/974" vote="no">Pat Breen</mpname>
+                    <mpname id="com.kildarestreet/member/1079" vote="no">Ray Butler</mpname>
+                    <mpname id="com.kildarestreet/member/989" vote="no">Jerry Buttimer</mpname>
+                    <mpname id="com.kildarestreet/member/1029" vote="no">Catherine Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/1030" vote="no">Eric Byrne</mpname>
+                    <mpname id="com.kildarestreet/member/975" vote="no">Joe Carey</mpname>
+                    <mpname id="com.kildarestreet/member/1092" vote="no">Paudie Coffey</mpname>
+                    <mpname id="com.kildarestreet/member/988" vote="no">&Aacute;ine Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1031" vote="no">Michael Conaghan</mpname>
+                    <mpname id="com.kildarestreet/member/972" vote="no">Se&aacute;n Conlan</mpname>
+                    <mpname id="com.kildarestreet/member/1041" vote="no">Paul Connaughton</mpname>
+                    <mpname id="com.kildarestreet/member/1093" vote="no">Ciara Conway</mpname>
+                    <mpname id="com.kildarestreet/member/1087" vote="no">Noel Coonan</mpname>
+                    <mpname id="com.kildarestreet/member/1099" vote="no">Marcella Corcoran Kennedy</mpname>
+                    <mpname id="com.kildarestreet/member/986" vote="no">Michael Creed</mpname>
+                    <mpname id="com.kildarestreet/member/1075" vote="no">Regina Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1011" vote="no">Robert Dowds</mpname>
+                    <mpname id="com.kildarestreet/member/1103" vote="no">Andrew Doyle</mpname>
+                    <mpname id="com.kildarestreet/member/957" vote="no">Bernard Durkan</mpname>
+                    <mpname id="com.kildarestreet/member/1078" vote="no">Damien English</mpname>
+                    <mpname id="com.kildarestreet/member/1014" vote="no">Alan Farrell</mpname>
+                    <mpname id="com.kildarestreet/member/1085" vote="no">Frank Feighan</mpname>
+                    <mpname id="com.kildarestreet/member/1068" vote="no">Peter Fitzpatrick</mpname>
+                    <mpname id="com.kildarestreet/member/1051" vote="no">Brendan Griffin</mpname>
+                    <mpname id="com.kildarestreet/member/1076" vote="no">Dominic Hannigan</mpname>
+                    <mpname id="com.kildarestreet/member/995" vote="no">Noel Harrington</mpname>
+                    <mpname id="com.kildarestreet/member/949" vote="no">Martin Heydon</mpname>
+                    <mpname id="com.kildarestreet/member/973" vote="no">Heather Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1033" vote="no">Kevin Humphreys</mpname>
+                    <mpname id="com.kildarestreet/member/1021" vote="no">Se&aacute;n Kenny</mpname>
+                    <mpname id="com.kildarestreet/member/1110" vote="no">Se&aacute;n Kyne</mpname>
+                    <mpname id="com.kildarestreet/member/1053" vote="no">Anthony Lawlor</mpname>
+                    <mpname id="com.kildarestreet/member/1023" vote="no">John Lyons</mpname>
+                    <mpname id="com.kildarestreet/member/1180" vote="no">Helen McEntee</mpname>
+                    <mpname id="com.kildarestreet/member/1026" vote="no">Olivia Mitchell</mpname>
+                    <mpname id="com.kildarestreet/member/1004" vote="no">Mary Mitchell O'Connor</mpname>
+                    <mpname id="com.kildarestreet/member/985" vote="no">Dara Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1034" vote="no">Eoghan Murphy</mpname>
+                    <mpname id="com.kildarestreet/member/1056" vote="no">Dan Neville</mpname>
+                    <mpname id="com.kildarestreet/member/1060" vote="no">Kieran O'Donnell</mpname>
+                    <mpname id="com.kildarestreet/member/1058" vote="no">Patrick O'Donovan</mpname>
+                    <mpname id="com.kildarestreet/member/1073" vote="no">John O'Mahony</mpname>
+                    <mpname id="com.kildarestreet/member/971" vote="no">Joe O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1081" vote="no">John Perry</mpname>
+                    <mpname id="com.kildarestreet/member/964" vote="no">Ann Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/966" vote="no">John Paul Phelan</mpname>
+                    <mpname id="com.kildarestreet/member/947" vote="no">Pat Rabbitte</mpname>
+                    <mpname id="com.kildarestreet/member/1074" vote="no">Michael Ring</mpname>
+                    <mpname id="com.kildarestreet/member/1013" vote="no">Brendan  Ryan</mpname>
+                    <mpname id="com.kildarestreet/member/1025" vote="no">Alan Shatter</mpname>
+                    <mpname id="com.kildarestreet/member/1010" vote="no">Joanna Tuffy</mpname>
+                    <mpname id="com.kildarestreet/member/950" vote="no">Jack Wall</mpname>
+                    <mpname id="com.kildarestreet/member/1024" vote="no">Alex White</mpname>
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/dail/2015-11-12a.598/3" nospeaker="true" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00550"><p>Amendment declared lost.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.599" nospeaker="true" time="15:50:00" ><p>Debate adjourned.</p></speech>
+    <major-heading id="com.kildarestreet/dail/2015-11-12a.600" nospeaker="true" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00700">Topical Issue Matters</major-heading>
+    <speech id="com.kildarestreet/dail/2015-11-12a.601" speakerid="com.kildarestreet/member/950" speakername="Jack Wall" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00800"><p>I wish to advise the House of the following matters in respect of which notice has been given under Standing Order 27A and the name of the Member in each case: (1) Deputy Derek Nolan - the need to include Galway city in the housing package measures to increase housing supply; (2) Deputy Jim Daly - the need to control the spread of knotweed and other invasive non-native species; (3) Deputy Bernard J. Durkan - the need to address the stalled works at the town centre developments in Naas, County Kildare; (4) Deputy Ruth Coppinger - the need to progress with building work in St. Mochta's national school, Clonsilla, and St. Patrick's national schools, Corduff, Dublin 15; (5) Deputy Joan Collins - the need to discuss the recent meeting with Respond regarding the threatened closure of Cuan &Aacute;lainn women's refuge centre, Dublin 24; (6) Deputy Joe Costello - the need to provide the necessary resources to Cabra Garda station, Dublin 7, for a comprehensive policing service for the community; (7) Deputy Se&aacute;n &Oacute; Feargha&iacute;l - the need to address issues raised in the report from the Office for the Co-ordination of Humanitarian Affairs on the serious drought situation in Ethiopia; (8) Deputy Paul Murphy - the need to discuss the strike action at Irish Life Assurance in Dublin and Dundalk, County Louth; (9) Deputy Billy Kelleher - the need to commission an updated sexual abuse and violence in Ireland report; (10) Deputy Mick Wallace - the need for a Government review of the US military use of Shannon Airport; (11) Deputy Lucinda Creighton - the need to address the leaking of sensitive information into ongoing criminal investigations by An Garda S&iacute;och&aacute;na to certain media outlets; (12) Deputy Clare Daly - the need to discuss the implications of the lack of female voices in broadcasting and ways to address this; (13) Deputy Alan Shatter - the need to address the delay in commencing operation of the DNA database; and (14) Deputy Helen McEntee - the need for funding for six children in County Meath unable to avail of additional preschool support.</p></speech>
+    <major-heading id="com.kildarestreet/dail/2015-11-12a.602" nospeaker="true" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00900">Topical Issue Debate</major-heading>
+    <minor-heading id="com.kildarestreet/dail/2015-11-12a.603" nospeaker="true" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT00950">Preschool Services</minor-heading>
+    <speech id="com.kildarestreet/dail/2015-11-12a.604" speakerid="com.kildarestreet/member/1180" speakername="Helen McEntee" time="15:50:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200046#TT01000"><p>I thank the Minister of State, Deputy Dara Murphy, for taking this issue.  It has been a difficult task over the past few years as we are talking about children and specifically the education of children, with funding coming through the Health Service Executive.  Really, the issue spans three Departments but I am focusing on support and funding, which comes under the Department of Health.</p>  <p>  It is safe to say that early years are some of the most important in our lives.  In particular, the preschool years are so important when it comes to children's learning.</p><p>Children are constantly learning new things.  They are constantly developing as young children and they develop new friendships outside the family.  Until they reach a certain age, their families provides all the support needed, but it is important that children be allowed to create their own identities and to grow.  It is equally important that they grow and develop with their own peers, in an environment with other young children.  Nobody, whether he or she has a physical disability, a mental disability, a health problem or any other kind of problem, should be left behind.  Everybody should be given the same opportunity.</p> <p> This Government has turned the focus back onto children.  We are the first Government to create a Department specifically for children and young people and that is particularly important to me.  A large part of my week is spent focusing on issues relating to children and young adults.  The previous Government introduced the free early childhood care and education, ECCE, scheme, which has worked very well, and I am glad to see that our Minister for Children and Youth Affairs, Deputy James Reilly, has extended that this year, among other initiatives focusing on children and their development.  I thank the Minister for the work he has done in the past year and in particular for the recent additional funding to help those with disabilities to access this free year.  There must be equal inclusion for all.</p> <p> In my own county we have Meath Fight for the Future, an organisation made up of mothers, fathers, carers and service providers fighting for the rights of their children and other children with special needs.  While there should not be groups such as this, there are, and I hope their time will soon be done.  At the moment, children in Meath who have a disability are getting funding through the HSE to avail of additional supports, so the 15 hours are often split over the two years.  Some are getting two days in one year and three in the following year.</p> <p> The Minister has announced an additional &euro;10 million in funding and he is launching the report of the interdepartmental group, which will set out the model for the support soon enough.  However, we have a situation in Meath in which there are six children who have no additional support and no additional funding.  While the funding was not cut this year, due mainly to the campaign led by Meath Fight for the Future - I thank the HSE for the support it is providing - 15 children are not getting any funding this year and there are more children who need to avail of the additional support.  Not only are they not getting the 15 hours, they are not even getting the two days, and it is not fair.  It is extremely stressful and upsetting for parents and for the children themselves.</p> <p> Children are smart; they pick up on the smallest of things.  In fact, they pick up on everything.  For a child not to be able to avail of the free ECCE year along with his or her peers is not right.  It is not going to cost a lot of money.  We are not talking about hundreds of children - we are talking about six - so surely some funding can be found until next year, when the scheme is properly brought in, so that these children are not left wanting.  I welcome the fact that things are going to happen next year, but parents should not have to suffer for it this year.  I ask the Minister to help in any way he can or to consider some form of support for these children.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.606" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200047#UU00200"><p>I thank Deputy McEntee for raising this important matter.  The ECCE programme is the responsibility of the Minister for Children and Youth Affairs.  While a certain flexibility has been built in to the programme to facilitate the inclusion of children with a disability, the children and young people's policy framework, Better Outcomes, Brighter Futures, contained a commitment to develop a plan to facilitate the full participation of such children in the ECCE programme.  The Department of Children and Youth Affairs has led responsibility for the implementation of this commitment and has concluded an intensive process of deliberation and consultation on the matter in conjunction with the Departments of Health and Education and Skills and has brought forward a new model of supports to facilitate the full participation of children with a disability in the ECCE programme.  As part of budget 2016, the Minister for Children and Youth Affairs announced the necessary funding to implement the new model of ECCE supports for children with a disability.  The new model will provide supports including enhanced continuing professional development for early years practitioners, grants for equipment, appliances and minor alterations, and access to therapeutic intervention.  Funding of &euro;15 million has been provided to phase these supports in during 2016.  Full-year costs for these supports are estimated at &euro;33 million from 2017 onwards.  Full details of the new model are due to be announced shortly.  Improving access to therapy services for children in primary care and in disability services is a particular priority for the Government.  Building on additional investment in recent years, funding of &euro;8 million is being provided to the HSE in 2016 to expand, <i>inter alia</i>, the provision of speech and language therapy in primary care and the further development of early intervention therapy services under the Progressing Disability Services for Children and Young People programme to facilitate the inclusion of children with a disability in mainstream preschool settings as part of the roll-out of the new inclusive preschools model.</p><p>As the Deputy will be aware, the HSE has no statutory obligation to provide assistant supports for children with special needs wishing to avail of the free preschool year.  However, it has worked at local level and in partnership with the relevant disability service providers to address individual needs as they arise.  In some limited cases at local level, such as in Meath, HSE disability services have facilitated children with a disability to attend mainstream preschools by providing assistant supports where possible and where resources allow.  The HSE's Meath disability service has a budget of &euro;267,200 for its <i>ad hoc</i>preschool supports programme.  Under the arrangements currently in place, children with disabilities are assessed, in the first instance, to identify their preschool support needs, and decisions about which children qualify for supports are made in the summer before the children start preschool in September.  The amount of funding or subsidy allocated to each child is dependent on the total number of approved applications in a given year.</p><p>The HSE has advised that 129 applications for preschool assistant supports were received by its Meath disability services for the 2015-2016 preschool year, 100 of which were approved.  Of the 29 unapproved applications, I understand that six were turned down on the basis of having been received past the deadline for submitting applications.  The HSE has indicated that unfortunately, because the budget has been exhausted, it is not in a position to increase the value of the <i>ad hoc</i>preschool assistant support subsidy in Meath, or to cater for the late applications.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.607" speakerid="com.kildarestreet/member/1180" speakername="Helen McEntee" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200047#UU00300"><p>I thank the Minister for his response.  One term stands out to me, namely &quot;<i>ad hoc</i>.&quot;  Up to now, much of this has been <i>ad hoc</i>- based on individual counties, HSE departments and disability services - and it has been up to the individual groups to provide the service as they saw fit.  We have been very lucky in Meath that the HSE disability service has provided this funding.  I know the Minister of State said some applications were not submitted in time, but we are talking about six children.  A system has now been put in place and I thank the Minister and all the different Departments for this, as it has been a cross-departmental effort to put it in place.  The additional funding has been secured and they really engaged with all the different groups.  I know from working with Meath Fight for the Future that this group met with the Minister, Deputy Reilly, and many of their concerns have been taken on board.  I am sure that has happened across the board.</p><p>I stress that we are talking about six children.  It is not a lot of money.  The funding is coming through the HSE and, while it is saying it cannot do this at a local level, I am asking at a national level whether this funding can be made available.  Ten months is a long time in the life of a child and that is what we are talking about between now and next September.  If the Minister of State could relay this to the Minister, I would appreciate it.  We are talking about six children here.  It is not a lot of money and it is not something that would be sought again next year.  It is just for ten months.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.608" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200047#UU00400"><p>I take on board what Deputy McEntee has said and of course I will bring this issue to the attention of the Minister.  As was said, of 29 unapproved applications, six were turned down because the deadline had passed.</p><p>Unfortunately, the HSE, for which this is a matter, has also stated that the budget has been exhausted and, therefore, it is not in a position at this stage to consider late applications.  The Meath disability service has a budget in excess of &euro;250,000 but, as Deputy McEntee has requested, I certainly will convey her ongoing concern to the Minister.</p></speech>
+    <minor-heading id="com.kildarestreet/dail/2015-11-12a.610" nospeaker="true" time="16:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200048#VV00150">Sexual Abuse and Violence</minor-heading>
+    <speech id="com.kildarestreet/dail/2015-11-12a.611" speakerid="com.kildarestreet/member/983" speakername="Billy Kelleher" time="16:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200048#VV00200"><p>I raise the issue of the necessity to commission another report of sexual abuse and violence in Ireland, SAVI.  The original report was published in 2002 and it was the foundation on which the Ferns, Ryan, Murphy and Cloyne reports were delivered.</p>  <p>  I note the Dublin Rape Crisis Centre and others are keen to have a second SAVI research report conducted.  Interestingly, the Oireachtas Joint Committee on Justice, Defence and Equality also strongly recommends that a second SAVI report be commissioned.</p>  <p>  The previous report was commissioned 13 years ago by the Department of Health, and the then Department of Justice, Equality and Law Reform was also involved.  This is being moved from Department to Department.  The various Departments say it is somebody else's responsibility.  We need a Minister to take ownership of this issue and commission another report.</p>  <p>  The rape crisis centre has lobbied the Minister for Health, the Minister for Children and Youth Affairs and the Minister for Education and Skills but none of them saw it as their responsibility.  The only positive response to date has been from the Minister for Justice and Equality, Deputy Frances Fitzgerald, who is to be complimented on that.  I raise it in the hope that it can be delivered.</p>  <p>  The 2002 SAVI report told us that over the lifetime of Irish women and men, 200,000 women and 60,000 men are victims of rape.  Surely those figures are alarming and would indicate that it is a national crisis.  Over the 13 years since the SAVI report was published, the national policy has been informed by the results and a number of the recommendations of SAVI have been implemented.  For example, there are now six sexual assault treatment units in the country, two more than pre-SAVI.  There is still a long way to go.</p>  <p>  COSC, the National Office for the Prevention of Domestic, Sexual and Gender-based Violence, has delivered its first four-year national strategy and it has also funded small awareness-raising campaigns.  There has also been a significant increase in the number of victims availing of the rape crisis centres around the country which are vastly under-funded, something else of which we should be conscious.  The Dublin Rape Crisis Centre manages a 24 hour national helpline and in 2014 it dealt with over 12,000 calls.  Over the weeks after the launch of various high profile reports, such as Ferns, Cloyne and Murphy, the number of calls significantly rise.</p>  <p>  This is the important issue.  Until the detailed research for a second SAVI is done, we will not know if these increases are due to a rise in the prevalence of the crime or to the victims coming forward feeling that their concerns will be listened to and their stories taken into account and acted upon.  Until such time as we have that detailed research, we are in the dark in terms of what is happening in broader Irish society.  It is quite an alarming statistic that over the lifetime of Irish women and men, 200,000 women and 60,000 men are raped.  Behind those statistics there are harrowing stories indeed.</p>  <p>  We also need a second SAVI that can properly inform policy development.  As the Oireachtas Joint Committee on Justice, Defence and Equality pointed out, a new SAVI research report could review the implementation of the recommendations contained in the original one because some of the recommendations have been acted on but many more have not been.  I believe there is piecemeal assessment of the addressing of rape, domestic violence and other forms of violence.  It is simply not acceptable that we have a situation where every Department is inclined to say that it is somebody else's fault.  This is, collectively, a Government responsibility and what we need is for a Department to take ownership of it and accept that another report must be commissioned.</p>  <p>  We are talking about a cost of approximately &euro;1 million.  With the prevalence of violence against women and men, in terms of rape, domestic violence and sexual abuse, we cannot pretend that it is not an issue.  Getting a report commissioned and published would at least put us on a platform towards further policy development and implementing the recommendations of a new report.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.612" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="16:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200048#VV00300"><p>I welcome this question from Deputy Kelleher.  I am speaking on behalf of the Minister for Justice and Equality who is unavailable as she is attending the migration summit of EU and African leaders in Valletta.</p>  <p>  It is some time since the Sexual Abuse and Violence in Ireland report was published.  This was a fundamental piece of research, involving telephone interviews with over 3,000 persons.  Its results had a significant impact, both at the time of its publication in 2001 and since.  SAVI showed that more than four in ten or 42% of women and over a quarter or 28% of men reported some form of sexual abuse or assault in their lifetime.  Over one fifth or 23.6% of those who perpetrated sexual violence against women were intimate partners or ex-partners.  For male victims, the main perpetrators were friends and acquaintances, at 42%.</p>  <p>  Last year, the Department of Justice and Equality received a formal proposal from the Dublin Rape Crisis Centre in relation to the commissioning of an updated SAVI report.  I welcome the Deputy's comments about the engagement of the Minister, Deputy Fitzgerald, in these issues.  A new study will show the prevalence of and attitudes to sexual violence and show how the experience has changed since SAVI.</p>  <p>  The Minister has also secured additional funding in the budget for a national awareness-raising campaign in 2016, with a view to reducing the impact of such violence and to changing societal attitudes to such violence.  In September of last year, the Minister met the Dublin Rape Crisis Centre.  As a result, an updated proposal was submitted by the Dublin Rape Crisis Centre and Professor Hannah McGee of the Royal College of Surgeons in Ireland.  The overall cost of a report is likely to be in the order of &euro;1 million over three years.  That proposal recognised that, given the significant budget, funding would be divided between four Departments, namely the Department of Justice and Equality but also the Departments of Children and Youth Affairs, Education and Skills, and Health.  That is not to diminish ownership by one Minister but rather to acknowledge that this is an issue that spreads across many Departments.</p>  <p>  The Minister has written to the relevant Ministers on this matter and expressed her support for the project.  The responses received thus far make the viability of the project, as proposed, unlikely.  However, the Department of Justice and Equality continues to investigate the financial feasibility and resource implications of undertaking this body of work at this time and to explore obligations with regard to requisite public procurement arrangements.</p>  <p>  The Minister for Justice and Equality is strongly supportive of a second SAVI.  The need for an evidence-based approach to policy-making is obvious.  In that respect, a balance must also be struck between funding front-line services, including services provided by the Dublin Rape Crisis Centre, and funding research.</p>  <p>  There are also a number of alternative sources of information to a second SAVI, and we do have available some data.  The European Union Fundamental Rights Agency, FRA, study on the prevalence of violence against women was published last year.</p>  <p>  The Minister for Justice and Equality clearly recognises the importance of research in this area.  In that regard, she is continuing to explore possible approaches to identifying a ring-fenced funding stream in this area which could be used to meet public policy objectives as required.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.613" speakerid="com.kildarestreet/member/983" speakername="Billy Kelleher" time="16:10:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200048#VV00400"><p>As Benjamin Franklin once said, if you fail to plan, you are planning to fail.  The difficulty, of course, is that in developing a plan or policy in such a key area of society, one needs to have research.  One needs to know what is happening in society, the change in trends, the attitudes of people and the confidence of people in the institutions to which they would present if they were victims of rape, domestic violence or abuse.</p>  <p>  We all accept the Dublin Rape Crisis Centre and other organisations are under-funded as it is.  They need more front-line resources but that is not a reason to refuse to look at the research and evidence base that would be required to ensure we can put the resources directly in the areas where they are most needed.</p><p>The figures presented by the Dublin Rape Crisis Centre, and other centres throughout the country, indicate that it is a societal problem that needs to be addressed and supported in every way.  We cannot trundle along, waiting year after year for the report to be commissioned, not knowing whether or not the policies in place are having an impact on reducing the crime or giving those who have been raped, abused or suffered violence the confidence to come forward.  We need to know.  We still hear about cases where people are reluctant to make statements, for many reasons.  We must get behind it.</p> <p> We cannot choose between funding either the Rape Crisis Centres or other agencies to provide front-line supports or the research.  The research must be done as a stand-alone project.  The previous SAVI served well in terms of developing policy, and we need an update.  I ask the Minister of State to convey to the Minister for Justice and Equality my support, and that of the Dublin Rape Crisis Centre and many others, for her to take ownership of it.  She should take ownership of it completely and ensure the funding is provided through the Department of Justice and Equality or the other three Departments involved, namely, the Departments of Children and Youth Affairs, Education and Skills, and Health.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.615" speakerid="com.kildarestreet/member/985" speakername="Dara Murphy" time="16:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200049#WW00200"><p>I will convey the Deputy&rsquo;s comments to the Minister.  Great use was made of the SAVI report.  It was an important body of work which highlights the extent and nature of sexual violence in Ireland.  In the meantime, other data has become available, including the study by the Fundamental Rights Agency.  This research has supported the development of the second national strategy on domestic, sexual and gender-based violence, which the Minister for Justice and Equality intends to publish shortly, and an action plan which, when completed, will enable Ireland to ratify the Istanbul Convention.  The Minister for Justice and Equality is strongly supportive of an updated SAVI report.  Such a study would provide contemporary information on the prevalence of what is, and has been, often hidden in Ireland.  We would have a measure of what had changed during the past decade across society as well as information on the new challenges that had emerged.  The costs of undertaking this research are significant and, as I indicated and as the Deputy suggested, the Department of Justice and Equality continues to explore possible approaches to identifying a ring-fenced funding stream in the area which could be used.  I will pass on the Deputy's request that it be done, given that there is no disagreement between his point and the Department's reply.</p></speech>
+    <minor-heading id="com.kildarestreet/dail/2015-11-12a.616" nospeaker="true" time="16:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200049#WW00250">Housing Issues</minor-heading>
+    <speech id="com.kildarestreet/dail/2015-11-12a.617" speakerid="com.kildarestreet/member/1045" speakername="Derek Nolan" time="16:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200049#WW00300"><p>I thank the Minister of State for taking my Topical Issue.  My remarks are addressed not personally to the Minister of State, but to the Minister of State, Deputy Coffey, the Minister, Deputy Kelly, and the Minister for Finance, Deputy Noonan, as the people who brought forward the new housing package on stabilising rents and boosting supply this week.  The package includes a number of good measures which people can rightly welcome, such as the extended period for rent reviews, longer notice of rent reviews and the increased role of the Private Residential Tenancies Board, PRTB, in giving tenants extra certainty, challenging rent increases and providing oversight for landlords and tenants.  The measures will help Galway.</p>  <p>  During the boom, Galway city did not create vast ghost estates or overbuild.  Rather, the authorities there were careful and cautious.  As a result, when the downturn happened, we had one small ghost estate, the position in respect of which was remedied quickly thanks to the then Minister with responsibility for housing, Deputy Jan O&rsquo;Sullivan, who secured funding for it.  However, this means that as the economy has improved, the housing shortage in Galway has been particularly significant.  Rent for a three-bed semi-detached house increased from &euro;800 per month in 2011 to &euro;1,200 per month at present, a 50% increase in some cases.  The level of increase has been even higher in some parts of the city.  Houses that were selling for &euro;160,000 or &euro;180,000 are now being sold for &euro;220,000 to &euro;240,000, which is a staggering increase.  During the past four to five years, a maximum of 240 houses have been built in Galway city.  Many of them were one-off projects built by people with sites.  There is no serious housing construction of any kind, with the exception of one or two properties being developed by NAMA.</p>  <p>  I had hoped the report would contain ambitious measures for an increase in housing supply in Galway, bearing in mind that last year's Housing Agency report on housing supply requirements in Ireland stated that between 2015 and 2018, Galway city would require an additional 2,300 units in order to keep up with demand and prevent a crisis.  We have already reached crisis point but this number of units would ameliorate the position by increasing supply.  The document published this week, to much fanfare, acknowledges that "a major contributing factor to the current rental crisis is the lack of sufficient construction activity in the Dublin and Cork regions".  While I will not deny there is insufficient construction activity in the Dublin and Cork regions, there is also a severe lack of construction - indeed a total absence of construction - in Galway city.</p>  <p>  Galway is not a rural town in the west.  It is, rather, a regional capital which deserves to be treated like the serious urban centre it is.  It is the regional capital of the west and has the same problems in respect of housing construction and supply as Dublin and Cork.  If the Department is waiting for Galway to reach the same crisis point as Dublin, this is the way to go.  If it wants to have some kind of long-term vision, it must realise that we already have 12 families per week presenting as homeless and major supply problems.  The bias in the social housing programme towards Cork and Dublin is already evident.  It is unacceptable that the third largest city in Ireland should be excluded from measures to increase housing supply while Dublin and Cork are treated as the only urban areas, and I want it changed.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.618" speakerid="com.kildarestreet/member/964" speakername="Ann Phelan" time="16:20:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200049#WW00400"><p>As the Deputy will be aware, housing is one of the most pressing issues facing our country.  Our economy has recovered even faster than we might have hoped at the start of our Administration and one of the implications of the recovery and the employment growth it has delivered has been a resurgent demand for housing, principally in the areas that first experienced the benefit of the recovery, particularly Dublin and Cork.  Construction, or an unsustainable reliance on it as a driver, rather than facilitator, of our economy, played a dominant role in our previous economic collapse and is the sector taking the longest to restructure.  Accordingly, the Government has put in place a range of initiatives to address the gap that has emerged between housing demand and supply.  The Government's Construction 2020 strategy foresaw the difficulties and specifically mandated my Department to establish a Dublin housing supply and co-ordination task force.  While the Construction 2020 measures will begin to have wider effects in reducing costs and improving affordability from 2018 onwards, analysis has shown that an even more immediate and short-term initiative is required in Dublin and Cork.</p><p>The latest figures for Dublin, for example, show that house completions for the first nine months of 2015 were down 14% on the first nine months of 2014 and are likely to meet just one third of requirements.  Analysis undertaken by the Dublin housing supply and co-ordination task force and other local authorities at the same time shows that there is planning permission for 21,000 units across the four Dublin local authorities and for 3,000 units in Cork.</p> <p> I would like to address the Deputy's issues in Galway.  The authorities in the city are to be congratulated on keeping a measured approach to housing during the Celtic tiger period.  Perhaps having just one ghost estate is something to be extremely proud of.  The Government has decided to introduce supply-related measures.  I refer to the time-limited development contribution rebate, which is designed to enhance the viability of construction at locations of greatest need and at price points that people can afford.  Therefore, this initiative is logically targeted at the Dublin local authority areas and at Cork city and suburbs.  It has already been mentioned that the inadequacy of supply of affordable housing is most acute in such areas.  The development contribution rebate is an aspect of the Government's overall package on housing that is targeted in Dublin and Cork for housing delivered at certain price points.  This package, which contains a broader range of measures to stimulate and facilitate the provision of housing supply nationally, will benefit all areas and regional cities, including Galway.  These measures include changes to planning guidelines on apartment standards.  The State's strategic investment fund will support the delivery of enabling infrastructure.  Measures are being introduced to maximise the potential of strategic development zones.  NAMA is introducing measures to finance the delivery of 20,000 residential units by 2020.  I will conclude by reiterating that with the exception of the development contribution rebate, the Government's actions on the urgent and pressing issue of housing development will support regional cities like Galway.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.620" speakerid="com.kildarestreet/member/1195" speakername="Ruth Coppinger" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00200"><p>No houses are being built.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.621" speakerid="com.kildarestreet/member/1045" speakername="Derek Nolan" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00300"><p>I want the official in the Department of Finance who decided not to spend this money on Galway or Limerick to listen carefully.  I emphasise that my remarks are not directed at the Minister of State, but at an official who is presumably in an office somewhere watching this debate.  It is an absolute nonsense to say that this "initiative is logically targeted at the Dublin local authority areas and at Cork" because the inadequacy of supply "is most acute" in such areas.  As I have said, there has been damn all construction in Galway for five years.  It is in the middle of a housing crisis which is just as acute as that in Dublin and Cork.  Galway is a regional capital, as opposed to a regional city.  I suggest that the relevant officials need to get out of Dublin every so often.  If they go to Galway, they can go to the local authority offices and see for themselves the price escalations, the rent increases and the complete lack of construction that is taking place.</p>  <p>  I assume legislation will have to be introduced to enable this measure to be advanced.  If so, I will target it at every stage to seek to amend it.  I will do everything I can to lobby to get Galway and possibly Limerick included in this scheme.  I am sure people from Limerick are affected by this crisis.  According to the Housing Agency, Galway needs 2,300 houses by 2018.  No houses are being built at present.  To me, that is an indication that something is seriously wrong, as is the fact that, to be frank, these supports are being focused on cities that have Ministers.  I want Galway to be included in this report.  The current proposal is not fair.  We have been subjected to this kind of anti-west of Ireland discrimination for long enough.  I want this to change.  If one lives in Galway and wants to buy a house in Galway or get a local authority house in Galway, that does not mean one is any different from anyone in Cork or Dublin.  If representatives of the Department want to tell me that the number of houses in Galway which can benefit from this scheme is quite small, I will say "then it will not cost very much at all" and that is how we will sort it.  I want answers from the Ministers for the Environment, Community and Local Government and Finance.  How do they propose to change this measure to ensure the people of Galway, who deserve to be treated equally on this matter, are included in it as is only right?</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.622" speakerid="com.kildarestreet/member/1195" speakername="Ruth Coppinger" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00400"><p>Has the Deputy not noticed that they are not building any housing anywhere?</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.623" speakerid="com.kildarestreet/member/964" speakername="Ann Phelan" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00500"><p>I will take on board the very good points that have been made by Deputy Nolan.  I will speak to the Minister, Deputy Kelly, about this issue, which relates to Galway and other areas throughout the country.  I remind Deputy Nolan that when we debated the housing crisis in this House some months ago, he described it as a "perfect storm".  I know he is well aware of the pressure that is encountered when efforts are made to respond to housing situations.  These pressure is one of the legacy issues inherited by this Government from the previous Administration, which left it to the private sector to provide all house-building.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.624" speakerid="com.kildarestreet/member/1195" speakername="Ruth Coppinger" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00600"><p>That is still the case.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.625" speakerid="com.kildarestreet/member/964" speakername="Ann Phelan" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00700"><p>A range of housing supply measures involving the private rented sector were announced earlier this week.  These measures are designed to give rent certainty to tenants, to better protect tenants in their homes and to provide clarity to tenants and landlords across the country regarding their rights and obligations.  Under the social housing strategy, there are substantial targets and funding resources for the delivery of social housing by local authorities, including Galway City Council.  We are confident that a supply response will be forthcoming.  The challenge now is for the construction sector to respond.  It is time to see what that sector can deliver.  I will undertake to bring the issue raised by Deputy Nolan to the Minister, Deputy Kelly.</p></speech>
+    <minor-heading id="com.kildarestreet/dail/2015-11-12a.626" nospeaker="true" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00800">Schools Building Projects Applications</minor-heading>
+    <speech id="com.kildarestreet/dail/2015-11-12a.627" speakerid="com.kildarestreet/member/1195" speakername="Ruth Coppinger" time="16:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200050#XX00900"><p>The two schools to which this Topical Issue relates are in the Dublin West area, which has a particular shortage of schools.  This crisis has lasted for over a decade.  The population of this area has increased significantly over the past 15 years.  A substantial number of houses were built in the area during the building boom, but schools and other necessary facilities did not follow.  The local community is still paying the price for that.  Nine or ten years ago, the then Government promised two schools in the area, St. Mochta's national school in Clonsilla and St. Patrick's junior national school in Corduff, that they would get new school buildings.  Those promises were subsequently restated by the Government.  Nine years on, there is no sign of those buildings.  The children are being taught in Third World conditions, in essence, with leaking roofs, poor lighting and cold working conditions.</p>  <p>  In 2006, the authorities at St. Mochta's national school in Clonsilla were approached by the Department of Education and Science and asked to take on an extra stream in each year.  The school did not move from three streams to four streams per year of its own volition but because it was asked by the Department to do so.  This meant that the number of children in the school increased by more than 240.  The school's board of management, having been promised that the school would be fast-tracked through a building and development programme, agreed in very good faith to take these extra children on that basis.  There are 16 classrooms in an old school building that needs to be replaced and a further 16 classes in prefabs outside.  It is absolutely disgraceful that 884 children are being taught in such conditions.  It is an absolutely giant primary school, by any standards.  I do not want the Minister of State, Deputy English, to spend his time telling me about how the school can apply for emergency works or summer works to deal with leaking roofs, etc.  We have received such answers in written form.  The school authorities want to know whether the school will be on the list next week, after nine years of being promised a new school building.  That is all they want to know.  I hope the Minister of State will focus on that when he responds.  The school has had minor works.  It has been declined emergency works on occasion.  Those involved with the school want to know whether it will be on the list.  They want to be able to bring the school together at some point, rather than having to stagger breaks and get-togethers, etc.</p>  <p>  The Department said eight years ago that the second school I am raising, St. Patrick's national school in Corduff, was beyond repair and was no longer fit for people to be taught in.</p><p>The Department also said it was more economically viable to take the school down and build a new one.  Safety should be the key priority, one would imagine.  That school has also been told that it is at stage 2b and that everything is in order.  However, it has not been given permission to go to the tendering stage and has not been put on the new list.</p> <p> I wish to outline quickly what the children in that school are dealing with.  The school has no insulation so from November until April the teachers and students sit with their coats on.  This is in the recovering Ireland.  The school spends all of its capitation grant on oil to heat the building and the school is constantly in the red.  Electricians have said that the school is not safe, which is a health and safety issue.  There are interactive whiteboards which cannot be used because the electrical system is not able for it.  To add insult to injury, there are also sewerage problems and drainage companies have been on site continuously.  Children and staff have to endure a continuous bad smell.  Does the Minister of State believe that this is going on?  I listened to the previous speaker talking about Dublin getting this, that and the other but we have two Government Ministers in Dublin West and this is the condition of schools in that area.  They have not delivered a solitary thing for one of the fastest growing areas in the city.  Corduff, by the way, is a disadvantaged area with sufficient problems already without putting children through this too.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.629" speakerid="com.kildarestreet/member/1078" speakername="Damien English" time="16:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200051#YY00200"><p>I thank Deputy Coppinger for raising the matter again.  We had discussions previously about how bad planning has had a major affect on her area in the context of the provision of education places, given the number of houses that have been built there.  I welcome the opportunity to discuss this matter again.  Deputy Coppinger has argued that previous governments have made promises but this Government has not done that.  We have tried to reform the system of delivery of education places, which hopefully will result in the correction of the shortage of places in most areas such as Dublin West and other key places.</p>  <p>  Again, I thank her for raising the matter as it gives me the opportunity to remind the House of the significant challenges facing the Department in terms of meeting increasing demand for pupil places throughout the country in the coming years and to clarify the current position on the major capital projects for St. Patrick's national school, Corduff and St. Mochta's national school.</p>  <p>  As the Deputy will be aware, significant capital funding will be invested in our education system through the Government's &euro;27 billion capital programme announced in September, with some &euro;3.8 billion being invested in education projects.  The new construction plan for 2016 to 2021 aims to prioritise new building projects and major extensions, including special schools, in areas where significant demographic need has been established.</p>  <p>  The Deputy will also be aware that the country has experienced an unprecedented population increase in recent years.  This demographic growth has posed a significant challenge for the provision of school places and the challenge is set to continue.  My Department's demographic projections show that enrolment at primary level will continue to increase substantially until at least 2019 while the demand for additional school places in the post-primary sector will continue to increase until at least 2022.  The new plan will give my Department the capacity to deliver some 19,000 additional permanent primary school places required by 2019 and 43,000 additional post-primary school places required by 2022.  The new plan also provides for devolved funding for additional classrooms for schools outside the plan where an immediate enrolment need has been identified, such as the appointment of an additional teacher.  In addition, the plan prioritises projects that have a major deficit of mainstream accommodation capacity for current enrolments, require major refurbishment and replacement of poor accommodation and to provide additional accommodation to meet increases in enrolments.</p>  <p>  I wish to advise the Deputy that both major building projects referenced are currently at an advanced stage of architectural planning, stage 2b, which includes applications for planning permission, a fire safety certificate, a disability access certificate and the preparation of tender documents.  All statutory approvals have been secured.  The design team has recently completed tender documents for the St. Patrick's junior and senior national schools project to provide the new accommodation on the existing site, with stage 2b approved.  The project for St. Mochta's national school entails the construction of an extension to the existing building and refurbishment.  The design team is in the process of completing tender documents.</p>  <p>  While it was not possible to include the projects referred to by the Deputy in the current five-year building programme, I wish to advise the Deputy that the projects will be available for consideration for the new six-year plan that we intend to announce shortly.  I know Deputy Coppinger would like me to tell her today that they are included in that plan but I am not in a position to do so.  Much research has gone into making decisions and the plan is very close to completion.  It will be announced in the coming weeks and hopefully if, as Deputy Coppinger has said, the need is very clear, that will put those projects ahead of the game.  They are in a good position to be included in the next plan and hopefully we will be able to deliver on that.  The plan is all about trying to respond to the need for additional accommodation.  Hopefully the two schools referred to by Deputy Coppinger will be included but I cannot confirm that now.  I wish I could give her a definitive answer today but I cannot.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.630" speakerid="com.kildarestreet/member/1195" speakername="Ruth Coppinger" time="16:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200051#YY00300"><p>That is simply not good enough.  It is not enough to say that St. Patrick's and St. Mochta's will be available for consideration.  They must be on that new list.  They have been promised it for nine years now.  We keep hearing that Ireland is in recovery and there is no excuse for the Government to delay this any longer.  It is not just a question of bad planning and promises made by previous regimes.  Myself and Deputy Joe Higgins are sick, sore and tired of attending meetings in St. Mochta's over the years, where Ministers, including some from the current Government, promised the community that they would ensure those projects would become a reality.  I attended those public meetings myself during local election and by-election campaigns and so forth.</p>  <p>  If those schools are not on the new list, I will call on parents and teachers to use their votes in the forthcoming election and to make sure they mobilise their communities.  I will also call on them to refuse to put children, teachers, SNAs and other employees through this any longer and to consider taking the extra 300 children who were enrolled out of the school in protest.  Why should children suffer for broken promises by the establishment parties in Dublin West?  There are other schools in the area, including Mary Help of Christians on the Navan Road, where children are in prefabs.  We also need the Rathborne Educate Together school on the Navan Road to be built.  The other crisis looming in the area is secondary school places.  Even though there has been a catch up in terms of some of the primary schools, the school community has grown older.</p>  <p>  It is not acceptable that children should go to a school where there are buckets in the corridors to collect rainwater.  Does the Minister of State think it is acceptable?  Does he think it is acceptable that children should wear their coats in class and that all of the funding for a school in a hard-pressed working class community is spent on heating a draughty school, rather than on resources such as computers which other schools in more well-heeled areas have?</p>  <p>  It is scandalous that the Department of Education and Skills approached the board of management at St. Mochta's and asked the members to take on additional pupils.  They did so in good faith but they have been spurned and shunned again and again.  I will make sure that the people of Dublin West use their political power in the forthcoming election and mobilise the community to get these two schools built.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.631" speakerid="com.kildarestreet/member/1078" speakername="Damien English" time="16:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200051#YY00400"><p>In terms of the two schools to which the Deputy refers, the concerns and issues with the Department are well rehearsed.  The Deputy is right - the conditions in which the pupils are being educated are not acceptable.  It is the aim of the Department to reform the system to be able to maximise the use of public finances to provide accommodation where it is required in the first instance, that is, to be able to give all students enrolling for the first time in primary or secondary school a place to go to school.  That is the key priority.  Our second priority is to make sure that such accommodation is suitable.</p>  <p>  I am glad that Deputy Coppinger is now admitting that this country is in recovery.  Thankfully, that jobs-based recovery means that we are in a position to announce in the coming weeks a major capital investment plan in our schools, both new and existing.  That is important and could not be achieved if we did not have a jobs-based recovery, which gives us the finances to do that.  I hope we can stretch those finances as far as possible.  The extra money that is now available will mean that additional schools will be built and extra accommodation provided.  Hopefully those additional resources will allow us to resolve some of the problems the Deputy has raised.  I am sure Deputy Coppinger will agree with that.  A key part of investing in education is that it will gives us jobs for the future and allow us to continue investing in education down the line.  I am glad the Deputy has finally admitted that the Government is doing something right with the recovery, which leaves us in a position-----</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.632" speakerid="com.kildarestreet/member/954" speakername="Joe Higgins" time="16:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200051#YY00500"><p>We are not feeling the recovery.  That is the problem.  We are not feeling it in our schools.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.633" speakerid="com.kildarestreet/member/1078" speakername="Damien English" time="16:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200051#YY00600"><p>Deputy Coppinger just said it, which is good.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.634" speakerid="com.kildarestreet/member/1195" speakername="Ruth Coppinger" time="16:40:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/dail2015111200051#YY00700"><p>Some recovery - no houses and no schools.</p></speech>
+    <speech id="com.kildarestreet/dail/2015-11-12a.635" nospeaker="true" time="16:40:00" ><p>The D&aacute;il adjourned at at 5.40 p.m. until 10 a.m. on Friday, 13 November 2015.</p></speech>
 </publicwhip>
