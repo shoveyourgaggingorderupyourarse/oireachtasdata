@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY zcaron  "&#381;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2016-04-27a.2" nospeaker="true" time="14:30:00" url="">Select Committee on Standing Order 112</major-heading>
+    <speech id="com.kildarestreet/committees/2016-04-27a.3" nospeaker="true" time="14:30:00" ><p>The Select Committee met at 14:30</p><p>MEMBERS PRESENT:</p><p>Deputy Maria Bailey, Deputy Sean Fleming, Deputy Pat Breen, Deputy Fiona O'Loughlin, Deputy Seán Crowe, Deputy Anne Rabbitte, Deputy Timmy Dooley, Deputy Brendan Ryan. Deputy Peter Fitzpatrick,</p><p>DEPUTY COLM BROPHY IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2016-04-27a.4" nospeaker="true" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00100">Election of Chairman</minor-heading>
+    <speech id="com.kildarestreet/committees/2016-04-27a.5" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00200"><p>Apologies have been received from Deputy Se&aacute;n Canney.  The first item of business is the election of a Chairman and I now invite nominations for the position.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.6" speakerid="com.kildarestreet/member/1309" speakername="Se&aacute;n Crowe" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00300"><p>Is anyone keen on this job?  There are also apologies from Deputy &Oacute; Broin as he is in the Chamber now.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.7" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00400"><p>We can record that.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.8" speakerid="com.kildarestreet/member/1309" speakername="Se&aacute;n Crowe" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00500"><p>With the possibility of a new Government next week, are we really going through the motions?</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.9" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00600"><p>We need to elect a Chairman before we can proceed to do any business today.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.10" speakerid="com.kildarestreet/member/1246" speakername="Maria Bailey" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00700"><p>I nominate Deputy Colm Brophy.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.11" speakerid="com.kildarestreet/member/1257" speakername="Fiona O'Loughlin" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00800"><p>I nominate Deputy Sean Fleming.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.12" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A00900"><p>As there is more than one nomination for the position of Chairman, I will deal with each nomination in the order received.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.13" nospeaker="true" time="14:30:00" ><p>Question, "That Deputy Colm Brophy be elected Chairman of the committee", put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.14" nospeaker="true" time="14:30:00" ><p>Deputy Colm Brophy took the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2016-04-27a.15" nospeaker="true" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A01150">Scrutiny of EU Legislative Proposals</minor-heading>
+    <speech id="com.kildarestreet/committees/2016-04-27a.16" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#A01200"><p>I thank the committee for electing me as Chairman and it is an honour to have that position.  I know this is a limited life committee until the formation of a new Government and I gather that the main committees will commence then.  I ask people to bear with me as I am a new Deputy and new to the process of chairing a committee in this House.  Members are requested to ensure that for the duration of the meeting their mobile phones are completely turned off or switched to aeroplane, safe or flight mode, depending on their device.  It is not sufficient for members just to put their phones on silent mode as this maintains the level of interference with the broadcasting system.  That is the first time I have had to read it out so I will do it with my own phone anyway.  It is the first and most important request.</p> <p>  Members are aware that this committee is established pursuant to Standing Order 112 as a contingency measure, pending the establishment of the committee system of the Thirty-Second D&aacute;il.  This committee is established to enable the D&aacute;il to exercise its key role under the Lisbon treaty, in particular to assess the subsidiarity aspects of proposed EU legislation.  Today the committee has five EU proposals listed for consideration in that context.  Members should be aware that in accordance with the procedure, the committee will take its decisions on EU proposals in public session following initial consideration of the proposals in private session.  Therefore, I propose that we go into private session for deliberation at this point.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.17" nospeaker="true" time="14:30:00" ><p>The select committee went into private session at 2.35 p.m. and resumed in public session at 3 p.m.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.18" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#F00100"><p>There are five proposals before the committee for decision today, ranging from scrutiny of the gas supply to posting of workers.</p><p>Any decision made today on the subsidiarity aspect of these proposals will not prohibit the Oireachtas committees scrutinising them in detail in the future.</p><p> COM (2016) 52 is a proposal regarding measures to safeguard the security of the gas supply.  On the basis that there are no apparent subsidiarity concerns, it is proposed that this proposal does not warrant further scrutiny by the committee at this time.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.20" speakerid="com.kildarestreet/member/1216" speakername="Se&aacute;n Fleming" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00200"><p>We are in public session.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.21" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00300"><p>Yes.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.22" speakerid="com.kildarestreet/member/1216" speakername="Se&aacute;n Fleming" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00400"><p>I know I missed a couple of minutes of the meeting but I am at a loss as to why we were in private session.  It is not a correct way of doing business.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.23" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00500"><p>Well-----</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.24" speakerid="com.kildarestreet/member/1216" speakername="Se&aacute;n Fleming" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00600"><p>Just hear me out.  It is not the correct way to do business in the national Parliament.  We do not do private sessions in the Chamber.  Committees are meant to reflect what goes on in the Chamber but in a committee context.  There was no reason why what I heard in private session could not have been said in public.  It looks very bad if anyone who happens to tune in sees that we have discussed everything in private session and are now coming into public session just to rubber-stamp the position.  I do not know the protocol in this House but, D&aacute;il reform or no D&aacute;il reform, it is a bad practice and I do not think the Chairman's own instinct would be comfortable with having discussions in private session that should be in public session.</p> <p>  I have no issue with the matters under discussion.  However, we will be obliged to re-examine how we do our business in the future.  By and large, our business should be done in public session.  We are elected as public representatives.  I do not like the practice of private discussions.  There might be a very good reason for that to happen every now and again but we are going to have to revisit this, if not at this committee then as part of D&aacute;il reform.  That is just my personal opinion.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.25" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00700"><p>Some of the points made by the Deputy are very valid.  However, my understanding from the discussion I had with the officials prior to the meeting is that the reason for private session is not in any way to hide or remove something that is being discussed but to enable a very full briefing to be supplied to members on each proposal and allowing for the various aspects of who has privilege.  As Members of the Oireachtas, obviously we enjoy such privilege.  There is no reason why anything that was said in private session cannot be restated in public session as a comment.  It is just a way of facilitating business.  If this committee would like to look at doing something differently, I would be open to that.  Initially, it was just a way of allowing the briefing we received on policy issues to be given to the committee directly.  It was for facilitation rather than any other purpose.  I do not know whether anyone else wants to come in on that.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.26" speakerid="com.kildarestreet/member/1257" speakername="Fiona O'Loughlin" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00800"><p>I appreciate that the decision to have the briefing in a private session was well-intentioned, but I have to support the point made by my colleague, Deputy Fleming.  I understand it is a proposal, so I second the proposal that unless there are particularly sensitive issues, we deal with all of our briefings in a public forum at any future committee meetings.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.27" speakerid="com.kildarestreet/member/1301" speakername="Brendan  Ryan" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G00900"><p>In respect of the comments from our two colleagues, I am surprised that if there was concern about the work continuing in private session, they did not raise the matter while we were in private session and ask why we were continuing.  I do not know why it was necessary to wait for the public session to make the points they just made.  I am not disagreeing with the points that were made, but why did the Deputies let us continue for such a long time without challenging why we were doing it?</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.28" speakerid="com.kildarestreet/member/1216" speakername="Se&aacute;n Fleming" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G01000"><p>Through the Chair, I had assumed it was public session.  It was only towards the end of Deputy Ryan's contribution that I heard him mention the words "private session" and all of a sudden I looked at the screen and saw those words.  I had not realised we were in private session until that comment, which was near the end of-----</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.29" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#G01100"><p>I propose that we note the conversation at this point.  It is a matter the committee can examine.</p> <p>  I am going to return to the question I put on COM (2016) 52, a proposal regarding the measures to safeguard the security of the gas supply.  On the basis that there are no apparent subsidiarity concerns, it is proposed that this proposal does not warrant further scrutiny by the committee at this time.  Is that agreed?  Agreed.</p><p> COM (2016) 106 and COM (2016) 107 are proposals for dealing with enforcement of decisions in matters of matrimonial property regimes and the property consequences of registered partnerships.  On the basis that there are no apparent subsidiarity concerns, it is proposed that these proposals do not warrant further scrutiny by the committee at this time.  Is that agreed?  Agreed.</p><p> COM (2016) 113 is a proposal in regard to the supervisory committee of the European Anti-Fraud Office, OLAF.  On the basis that there are no apparent subsidiarity concerns, it is proposed that this proposal does not warrant further scrutiny by the committee at this time.  Is that agreed?  Agreed.</p><p> COM (2016) 128 is a proposal concerning the posting of workers.  On the basis that there are no apparent subsidiarity concerns, it is proposed that the proposal does not warrant further scrutiny by the committee at this time.  Is that agreed?  Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.31" speakerid="com.kildarestreet/member/1309" speakername="Se&aacute;n Crowe" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#H00200"><p>The caveat that we talked about in respect of the private sector was that we would look at some of the views of other countries regarding the subsidiarity aspect.  Perhaps it could be read into the record that we will look at this for the future and that we will try to obtain those views in the context of the information we need to make a decision.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.32" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016042700002#H00300"><p>I support Deputy Crowe's proposal and propose that we ask the Department to supply to the committee information relating to the concerns raised.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-04-27a.33" nospeaker="true" time="14:30:00" ><p>The select committee adjourned at 3.05 p.m. until 2.30 p.m. on Wednesday, 12 May 2016.</p></speech>
+</publicwhip>
