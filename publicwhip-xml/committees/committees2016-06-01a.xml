@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY zcaron  "&#381;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2016-06-01a.2" nospeaker="true" time="14:30:00" url="">Select Committee on Standing Order 112</major-heading>
+    <speech id="com.kildarestreet/committees/2016-06-01a.3" nospeaker="true" time="14:30:00" ><p>The Select Committee met at 14:30</p><p>MEMBERS PRESENT:</p><p>Deputy Maria Bailey, Deputy Sean Fleming, Deputy Timmy Dooley, Deputy Fiona O'Loughlin.</p><p>DEPUTY COLM BROPHY IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2016-06-01a.4" nospeaker="true" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060100002#A00100">Business of Committee</minor-heading>
+    <speech id="com.kildarestreet/committees/2016-06-01a.5" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060100002#A00200"><p>We have a quorum and are now in public session.  Apologies have been received from Deputies Crowe, Harty, Brendan Ryan and Rabbitte.  For the purpose of the broadcasting services, I draw members' attention to the necessity to switch off mobile phones or put them in safe, aeroplane or flight mode.  It is not sufficient simply to put them in silent mode.</p> <p>  Today we will consider three new EU draft legislative proposals as outlined on the agenda, one of which is listed for further consideration.  I propose we go into private session for deliberations.  Is that agreed?  Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-01a.6" nospeaker="true" time="14:30:00" ><p>The committee went into private session at 2.35 p.m. and resumed in public session at 3.05 p.m.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2016-06-01a.7" nospeaker="true" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060100002#H00050">Scrutiny of EU Legislative Proposals</minor-heading>
+    <speech id="com.kildarestreet/committees/2016-06-01a.8" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="14:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060100002#H00100"><p>There were four proposals before the committee for decision today, ranging from Schengen border controls to tax disclosure issues.  I remind Deputies that any decision made today on subsidiarity aspects of these proposals will not prohibit Oireachtas committees from scrutinising any of these proposals in detail in the future.</p> <p>  Therefore, in respect of COM (2016) 194 regarding the Schengen entry-exit system, on the basis that there are no apparent subsidiarity concerns, it is proposed this proposal does not warrant further scrutiny by this committee at this time.   Is that agreed?  Agreed.</p> <p>  As for COM (2016) 196 regarding the Schengen entry-exit system, on the basis that there were no apparent subsidiarity concerns, it is proposed this proposal does not warrant further scrutiny by this committee at this time.  However, it is suggested that this proposal be scrutinised further by relevant sectoral committees, when established.  Is that agreed?  Agreed.</p> <p>  On COM (2016) 202 regarding the European Financial Reporting Advisory Group, it is proposed this proposal does not warrant further scrutiny by this committee on the basis there were no subsidiarity concerns.  Is that agreed?  Agreed.</p> <p>  On the final item, COM (2016) 198 regarding the disclosure of income tax information by certain undertakings and branches, the proposal is this committee will invite officials from the Department of Jobs, Enterprise and Innovation to appear before it to further brief members on the results of the Department's public consultation, as well as to answer certain questions the committee has and will submit to the Department.  On the basis of that briefing, this committee will decide its next action on that item.  Is that agreed?  Agreed.</p> <p>  I thank everyone for their attendance and propose we meet again next Wednesday, 8 June 2016.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-01a.9" nospeaker="true" time="14:30:00" ><p>The select committee adjourned at 3.10 p.m. until 2.30 p.m. on Wednesday, 8 June 2016.</p></speech>
+</publicwhip>
