@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY zcaron  "&#381;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2016-06-09a.2" nospeaker="true" time="10:00:00" url="">Select Committee on Standing Order 112</major-heading>
+    <speech id="com.kildarestreet/committees/2016-06-09a.3" nospeaker="true" time="10:00:00" ><p>The Select Committee met at 10:00</p><p>MEMBERS PRESENT:</p><p>Deputy Maria Bailey, Deputy Sean Fleming, Deputy Seán Crowe, Deputy Michael Harty, Deputy Peter Fitzpatrick, Deputy Brendan Ryan.</p><p>DEPUTY COLM BROPHY IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2016-06-09a.4" nospeaker="true" time="10:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060900002#A00100">Scrutiny of EU Legislative Proposals</minor-heading>
+    <speech id="com.kildarestreet/committees/2016-06-09a.5" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="10:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060900002#A00200"><p>We have a quorum and are in public session.  Apologies have been received from Deputy Dooley.  I draw members' attention to the need to switch mobile phones off completely or put them in airplane mode.  This morning we are considering the draft report for a reasoned opinion and motion on COM (2016) 198, proposal regarding a directive on the disclosure of income tax.  At our meeting yesterday, the committee agreed that a breach of subsidiarity had arisen in this regard and agreed to send a reasoned opinion to the EU institutions on that basis.  We are meeting today to consider and approve the draft report for a reasoned opinion and a motion to be sent to the D&aacute;il on COM (2016) 198 for approval.  These documents were circulated to members in advance and I propose we go into private session to consider them.  Is that agreed? Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-09a.6" nospeaker="true" time="10:00:00" ><p>The committee went into private session at 10.03 a.m. and resumed in public session at 10.05 a.m.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-09a.7" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="10:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060900002#B00100"><p>We resume in public session on the report for a reasoned opinion and motion on COM (2016) 198, directive on the disclosure of income tax and certain undertakings.  The committee has agreed a report for a reasoned opinion and a motion, proposal for a directive of the European Parliament to the Council amending directive 2013/34 regarding disclosure of income tax information by certain undertakings and branches.  In accordance with Standing Orders, the report for the reasoned opinion will be laid before the Houses and forwarded by way of an agreed motion to the D&aacute;il for approval, upon which the reasoned opinion will be transmitted to the EU institutions.  Is that agreed?</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-09a.8" speakerid="com.kildarestreet/member/1309" speakername="Se&aacute;n Crowe" time="10:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060900002#B00200"><p>I do not really agree with it but will abide by the majority view.  I think there are some contradictions in what we are saying.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-09a.9" speakerid="com.kildarestreet/member/1310" speakername="Colm Brophy" time="10:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/SO12016060900002#B00300"><p>Thank you Deputy.  It is agreed to forward the motion.  </p> <p>  That concludes our business.</p></speech>
+    <speech id="com.kildarestreet/committees/2016-06-09a.10" nospeaker="true" time="10:00:00" ><p>The select committee adjourned at 10.07 a.m. sine die.</p></speech>
+</publicwhip>
