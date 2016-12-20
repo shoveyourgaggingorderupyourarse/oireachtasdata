@@ -11,6 +11,7 @@
 <!ENTITY yen    "&#165;" >
 
 <!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
 <!ENTITY Eacute "&#201;" >
 <!ENTITY Iacute "&#205;" >
 <!ENTITY Oacute "&#211;" >
@@ -60,6 +61,7 @@
 <!ENTITY ouml   "&#246;" >
 <!ENTITY oslash "&#248;" >
 <!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
 <!ENTITY thorn  "&#254;" >
 <!ENTITY Icirc  "&#206;" >
 
