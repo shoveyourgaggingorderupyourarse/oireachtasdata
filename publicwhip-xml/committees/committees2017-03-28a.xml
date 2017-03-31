@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY zcaron  "&#381;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2017-03-28a.2" nospeaker="true" time="16:00:00" url="">Joint Oireachtas Committee on Jobs, Enterprise and Innovation</major-heading>
+    <speech id="com.kildarestreet/committees/2017-03-28a.3" nospeaker="true" time="16:00:00" ><p>The Joint Committee met at 16:00</p><p>MEMBERS PRESENT:</p><p>Deputy Niall Collins, Senator Aidan Davitt, Deputy Tom Neville, Senator James Reilly. Deputy Maurice Quinlivan,</p><p>DEPUTY MARY BUTLER IN THE CHAIR.</p></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.4" nospeaker="true" time="16:00:00" ><p>The joint committee met in private session until 4.05 p.m.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2017-03-28a.5" nospeaker="true" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#A00300">Companies Act 2014 (Section 1313) Regulations 2017: Motion</minor-heading>
+    <speech id="com.kildarestreet/committees/2017-03-28a.6" speakerid="com.kildarestreet/member/1220" speakername="Mary Butler" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#A00400"><p>Apologies have been received from Senators Paul Gavan and Gerald Nash.  I remind members, visitors and those in the Visitors Gallery to ensure their mobile phones are switched off or left in flight mode for the duration of the meeting as they interfere with the broadcasting equipment, even when left in silent mode.</p> <p>  Members are reminded of the long-standing parliamentary practice to the effect that they should not comment on, criticise or make charges against a person outside the Houses or an official, either by name or in such a way as to make him or her identifiable.</p> <p>  In accordance with D&aacute;il Standing Order 84A(4)(k) and Seanad Standing Order 70A(3)(k), the Companies Act 2014 (Section 1313) Regulations 2017, in draft form, were referred to the committee by order of the D&aacute;il of 21 March and by order of the Seanad of the same date.  The committee has been asked to send a message to both Houses by 13 April stating it has completed its consideration of the regulations.  A briefing document prepared by the Department of Jobs, Enterprise and Innovation has been circulated to members.  The regulations are technical in nature but time sensitive, necessitating the organisation of this short joint meeting.  I thank members for attending and invite the Minister to make her opening statement.</p></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.7" speakerid="com.kildarestreet/member/1247" speakername="Mary Mitchell O'Connor" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#A00500"><p>I am here to introduce the regulations made pursuant to section 1313 of the Companies Act 2014 to the Oireachtas Joint Committee on Jobs, Enterprise and Innovation and seek its approval.  They propose to insert additional sections of the Companies Act 2014 in the list of provisions in Schedule 14 to the Act.  The aim is to apply the provisions to unregistered traded companies.</p><p> The reason the regulations are necessary is unregistered companies are not subject to statutory company law in the same way as registered companies.  In the absence of a particular legislative code that provides a legal framework for unregistered companies, the practice since 1963 has been to apply aspects of company law to unregistered companies and, where necessary, extend statutory provisions by means of regulations.  The aim is to ensure that, where appropriate, unregistered companies are subject to the same regulatory framework as companies formed under the Companies Acts.</p><p> Since the Companies Act 2014 was passed, it has become necessary to distinguish that the contents are applied to a traded unregistered company only.  In essence, the regulations extend additional relevant provisions of the Companies Act 2014 to the only publicly traded unregistered company in Ireland, Bank of Ireland.  They will ensure greater clarity and certainty in the legal framework governing an unregistered traded body.  The aim is to ensure the body will be treated in the same way as a registered company, that is, a traded body, would be treated in similar circumstances.</p><p> Two sets of regulations pursuant to section 1313 have been made previously.  The first set, SI 223 of 2015, applied various provisions of Part 17 of the Companies Act 2014 for commencement purposes, while the second, SI 43 of 2016, applied section 1120 of the Companies Act 2014.  These regulations were approved in draft form by the joint committee to enable an unregistered traded body to conduct its business in an orderly and proper fashion.</p><p> I have provided the joint committee with a note on the purpose of each of the sections of the Companies Act 2014 that it is intended to apply by the regulations.  In summary, it is intended to apply sections 4, 5, 35, 36, 41, 48, 64, 83, 116, 1374, 1429 and 1440, as well as Chapters 1 and 2 of Part 5; Chapters 1 and 2 of Part 9; and Chapter 9 of Part 17.</p><p> While the provisions of the regulations are technical in nature, certain provisions contained in the regulations are required in order to allow Bank of Ireland to implement the European rules pursuant to the European Union (Bank Recovery and Resolution) Regulations 2015.  In order to meet its obligations under the Act, Bank of Ireland has indicated that it wishes to hold the extraordinary general meeting necessary to introduce the changes at the same time as its end of April annual general meeting.  To facilitate this request, the joint committee meeting of 11 April at which it was intended to consider the matter would not have permited the holding of an EGM at the same time as the AGM as company law governing the notice period rules for extraordinary general meetings require the giving of 21 days notice.  I understand the purpose of the extraordinary general meeting is to allow the bank to set up holding companies at the top of its corporate structures.  They would issue senior and junior debt in the future, whereas deposits would be held in operating companies below the holding company, giving them more protection.  The new rules allow for bondholders to face losses in the event of another financial crisis, without impacting on depositors.  I understand both the Department of Finance and the Central Bank are supportive of the objectives of the EGM. </p><p> I ask the joint committee to approve the regulations, in draft form, before it.  I thank the Chairman and members.</p></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.9" speakerid="com.kildarestreet/member/1220" speakername="Mary Butler" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#B00200"><p>As the Minister said, the regulations are very technical, but at the same time it is necessary to deal with them today.  I again thank members for making themselves available.</p></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.10" speakerid="com.kildarestreet/member/1421" speakername="James Reilly" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#B00300"><p>To recap, it is clear that the draft regulations are being supported by both the Department of Finance and the Central Bank to allow for a slightly different outcome if we were to face similar problems to the ones we faced in the past.  Second, they are to allow Bank of Ireland the same rights as other banks but, equally, to have it comply with the same obligations as other banks.  Is that the essence of the regulations?</p></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.11" speakerid="com.kildarestreet/member/1247" speakername="Mary Mitchell O'Connor" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#B00400"><p>Yes.</p></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.12" speakerid="com.kildarestreet/member/1220" speakername="Mary Butler" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#B00500"><p>That completes the joint committee's consideration of the Companies Act 2014 (Section 1313) Regulations 2017.  I thank the Minister and her officials for attending.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2017-03-28a.13" nospeaker="true" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#B00600">Messages to Dáil and Seanad</minor-heading>
+    <speech id="com.kildarestreet/committees/2017-03-28a.14" speakerid="com.kildarestreet/member/1220" speakername="Mary Butler" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JEJ2017032800002#B00700"><p>In accordance with Standing Order 90, the following message will be sent to the D&aacute;il:</p><blockquote>The Joint Committee on Jobs, Enterprise and Innovation has completed its consideration of the following regulations in draft form:Companies Act 2014 (Section 1313) Regulations 2017.</blockquote> <p>In accordance with Standing Order 73, the following message will be sent to the Seanad:</p><blockquote>The Joint Committee on Jobs, Enterprise and Innovation has completed its consideration of the following regulations in draft form:Companies Act 2014 (Section 1313) Regulations 2017.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2017-03-28a.15" nospeaker="true" time="16:00:00" ><p>The joint committee adjourned at 4.20 p.m. until 4 p.m. on Tuesday, 11 April 2017.</p></speech>
+</publicwhip>
