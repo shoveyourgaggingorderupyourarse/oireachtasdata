@@ -13,6 +13,7 @@
 <!ENTITY Aacute "&#193;" >
 <!ENTITY Acirc  "&#194;" > 
 <!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
 <!ENTITY Iacute "&#205;" >
 <!ENTITY Oacute "&#211;" >
 <!ENTITY Uacute "&#218;" >
@@ -60,11 +61,12 @@
 <!ENTITY ocirc  "&#244;" >
 <!ENTITY ouml   "&#246;" >
 <!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
 <!ENTITY uuml   "&#252;" >
 <!ENTITY ucirc  "&#251;" >
 <!ENTITY thorn  "&#254;" >
 <!ENTITY Icirc  "&#206;" >
-
+<!ENTITY Uuml   "&#252;" >
 <!ENTITY pound  "&#163;" >
 <!ENTITY sect   "&#167;" >
 <!ENTITY copy   "&#169;" >
@@ -227,7 +229,7 @@
     <speech id="com.kildarestreet/committees/2017-03-08a.147" nospeaker="true" time="14:00:00" ><p>The select committee adjourned at 3.45 p.m. until 2 p.m. on Wednesday, 22 March 2017.</p></speech>
     <major-heading id="com.kildarestreet/committees/2017-03-08a.148" nospeaker="true" time="13:30:00" url="">Committee on Public Petitions</major-heading>
     <speech id="com.kildarestreet/committees/2017-03-08a.149" nospeaker="true" time="13:30:00" ><p>The Joint Committee met at 13:30</p><p>MEMBERS PRESENT:</p><p>Deputy Shane Cassells, Senator Jerry Buttimer, Deputy Martin Heydon, Senator Lorraine Clifford Lee.* Deputy John Lahart,* Deputy Denise Mitchell,</p><p>* In the absence of Deputy Eugene Murphy and Senator Diarmuid Wilson, respectively.</p><p>SENATOR COLETTE KELLEHER IN THE CHAIR.</p></speech>
-    <minor-heading id="com.kildarestreet/committees/2017-03-08a.150" nospeaker="true" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017030800002#A00100">Business of Committee</minor-heading>
+    <minor-heading id="com.kildarestreet/committees/2017-03-08a.150" nospeaker="true" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017030800002#A00100">Business of Joint Committee</minor-heading>
     <speech id="com.kildarestreet/committees/2017-03-08a.151" speakerid="com.kildarestreet/member/1430" speakername="Colette Kelleher" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017030800002#A00200"><p>As we have a quorum of four members, we will commence the meeting and we are in public session.  I wish to inform members that an apology has been received from the Chairman, Deputy Sean Sherlock.  I also wish to advice members that Standing Order 93(3) of D&aacute;il &Eacute;ireann states:</p><blockquote>In the unavoidable absence of the Chairman, the vice-Chairman shall perform the duties devolved upon, and exercise the authority conferred upon, the Chairman by Standing Orders.</blockquote> <p>As Vice Chairman of the committee, I propose, therefore, that I chair this meeting.  Is that agreed?  Agreed.</p></speech>
     <speech id="com.kildarestreet/committees/2017-03-08a.152" speakerid="com.kildarestreet/member/1391" speakername="Jerry Buttimer" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017030800002#A00300"><p>Apologies have also been received from Senator Diarmuid Wilson.</p></speech>
     <speech id="com.kildarestreet/committees/2017-03-08a.153" speakerid="com.kildarestreet/member/1430" speakername="Colette Kelleher" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017030800002#A00400"><p>Those apologies are noted.</p> <p>  Members are requested to ensure that for the duration of the meeting their mobile phones are turned off completely or switched to flight or safe mode, depending on the device.  It is not sufficient for members to just put their phones on silent mode as this will maintain the level of interference with the broadcasting system.  I propose that we go into private session to deal with some housekeeping matters before we return to public session.  Is that agreed?  Agreed.</p></speech>

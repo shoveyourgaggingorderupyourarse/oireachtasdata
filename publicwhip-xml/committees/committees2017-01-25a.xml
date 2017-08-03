@@ -13,6 +13,7 @@
 <!ENTITY Aacute "&#193;" >
 <!ENTITY Acirc  "&#194;" > 
 <!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
 <!ENTITY Iacute "&#205;" >
 <!ENTITY Oacute "&#211;" >
 <!ENTITY Uacute "&#218;" >
@@ -60,11 +61,12 @@
 <!ENTITY ocirc  "&#244;" >
 <!ENTITY ouml   "&#246;" >
 <!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
 <!ENTITY uuml   "&#252;" >
 <!ENTITY ucirc  "&#251;" >
 <!ENTITY thorn  "&#254;" >
 <!ENTITY Icirc  "&#206;" >
-
+<!ENTITY Uuml   "&#252;" >
 <!ENTITY pound  "&#163;" >
 <!ENTITY sect   "&#167;" >
 <!ENTITY copy   "&#169;" >
@@ -90,7 +92,7 @@
 <publicwhip scrapeversion="a" latest="yes">
     <major-heading id="com.kildarestreet/committees/2017-01-25a.2" nospeaker="true" time="13:30:00" url="">Committee on Public Petitions</major-heading>
     <speech id="com.kildarestreet/committees/2017-01-25a.3" nospeaker="true" time="13:30:00" ><p>The Joint Committee met at 13:30</p><p>MEMBERS PRESENT:</p><p>Deputy Martin Heydon, Senator Jerry Buttimer, Deputy Denise Mitchell, Senator Colette Kelleher, Deputy Eugene Murphy, Senator Denis Landy, Senator Diarmuid Wilson.</p><p>DEPUTY SEAN SHERLOCK IN THE CHAIR.</p></speech>
-    <speech id="com.kildarestreet/committees/2017-01-25a.4" nospeaker="true" time="13:30:00" ><p>The committee sat in private session until 2.25 p.m.</p></speech>
+    <speech id="com.kildarestreet/committees/2017-01-25a.4" nospeaker="true" time="13:30:00" ><p>The joint committee sat in private session until 2.25 p.m.</p></speech>
     <minor-heading id="com.kildarestreet/committees/2017-01-25a.5" nospeaker="true" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017012500002#F00100">Decisions on Public Petitions Received</minor-heading>
     <speech id="com.kildarestreet/committees/2017-01-25a.6" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017012500002#F00200"><p>The first petition for consideration is Petition No. P00020/16 from Mr. Desmond Lafferty which is entitled, "Negotiating Norms".  The petitioner has engaged on a number of occasions with the Ombudsman and former Ministers of the Department of Foreign Affairs and Trade.  He is not satisfied with the outcome of this engagement to date and in his new petition is requesting the following: that the Ombudsman recognise the contradictions, mistakes and negligence of her staff in handling his case; that an external office monitor an ombudsman; a declaration that the previous committee was negligent and ill-informed in its handling of his petition; and the establishment of an explicit set of rules that would recognise the inalienable right of a private citizen to negotiation, reason and jurisprudence - the theory or philosophy of law - and that apologies not be casually retracted.  It is proposed to inform the petitioner of the changes to the remit of the committee in respect of its engagement with an ombudsman, that the committee will not revisit a decision taken by the previous committee as petitioners can resubmit a petition and write to the Department of Foreign Affairs and Trade requesting that it outline the procedures followed in dealing with complaints of this nature.  Is that agreed?  Agreed.</p> <p>  The next petition is Petition No. P00026/16 from Ms Laura English which is entitled, "Driving test requirements".  This is the second time the petition has come before the committee.  The petitioner is of the opinion that driving lessons are too expensive and that the cost precludes some persons from being in a position to learn how to drive and apply for a driving test.  The petitioner outlines that a phased method of completing essential driver training, EDT, would be more beneficial.  At its meeting on 15 November 2016 the committee agreed to write once again to the Department of Transport, Tourism and Sport requesting clarification on who had responsibility for regulating the price of EDT lessons and whether it would look favourably at following in the United Kingdom's footsteps in having no limit on the number of lessons required.  The response from the Department confirmed that the lessons delivered in Ireland were more structured than in the United Kingdom and that statistics showed it took an average of 47 lessons in the United Kingdom to pass a driving test.  The cost of lessons, while not regulated by the Department, is set by market forces in a competitive market.  It is proposed that we forward a copy of the response to the petitioner and close the petition as the committee has taken it as far as it can.</p><p>Senator Kelleher signalled.</p></speech>
     <speech id="com.kildarestreet/committees/2017-01-25a.8" speakerid="com.kildarestreet/member/1430" speakername="Colette Kelleher" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017012500002#G00200"><p>Agreed.</p></speech>

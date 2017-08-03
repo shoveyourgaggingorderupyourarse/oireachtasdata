@@ -13,6 +13,7 @@
 <!ENTITY Aacute "&#193;" >
 <!ENTITY Acirc  "&#194;" > 
 <!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
 <!ENTITY Iacute "&#205;" >
 <!ENTITY Oacute "&#211;" >
 <!ENTITY Uacute "&#218;" >
@@ -60,11 +61,12 @@
 <!ENTITY ocirc  "&#244;" >
 <!ENTITY ouml   "&#246;" >
 <!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
 <!ENTITY uuml   "&#252;" >
 <!ENTITY ucirc  "&#251;" >
 <!ENTITY thorn  "&#254;" >
 <!ENTITY Icirc  "&#206;" >
-
+<!ENTITY Uuml   "&#252;" >
 <!ENTITY pound  "&#163;" >
 <!ENTITY sect   "&#167;" >
 <!ENTITY copy   "&#169;" >
@@ -187,7 +189,7 @@
     <speech id="com.kildarestreet/committees/2017-02-22a.108" nospeaker="true" time="14:00:00" ><p>The joint committee adjourned at 4.20 p.m. until 4 p.m. on Tuesday, 28 February 2017.</p></speech>
     <major-heading id="com.kildarestreet/committees/2017-02-22a.109" nospeaker="true" time="13:30:00" url="">Committee on Public Petitions</major-heading>
     <speech id="com.kildarestreet/committees/2017-02-22a.110" nospeaker="true" time="13:30:00" ><p>The Joint Committee met at 13:30</p><p>MEMBERS PRESENT:</p><p>Deputy Denise Mitchell, Senator Jerry Buttimer, Deputy Brendan Ryan, Senator Colette Kelleher, Senator Diarmuid Wilson.</p><p>DEPUTY SEAN SHERLOCK IN THE CHAIR.</p></speech>
-    <minor-heading id="com.kildarestreet/committees/2017-02-22a.111" nospeaker="true" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017022200002#A00100">Business of Committee</minor-heading>
+    <minor-heading id="com.kildarestreet/committees/2017-02-22a.111" nospeaker="true" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017022200002#A00100">Business of Joint Committee</minor-heading>
     <speech id="com.kildarestreet/committees/2017-02-22a.112" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017022200002#A00200"><p>We have a quorum and will commence the meeting.  I propose we go into private session to deal with matters before resuming in public session.  Is that agreed?  Agreed.</p></speech>
     <speech id="com.kildarestreet/committees/2017-02-22a.113" nospeaker="true" time="13:30:00" ><p>The committee went into private session at 1.35 p.m. and resumed in public session at 2.35 p.m.</p></speech>
     <minor-heading id="com.kildarestreet/committees/2017-02-22a.114" nospeaker="true" time="13:30:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2017022200002#G00100">Decisions on Public Petitions Received</minor-heading>
