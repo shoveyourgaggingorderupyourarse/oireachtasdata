@@ -13,6 +13,7 @@
 <!ENTITY Aacute "&#193;" >
 <!ENTITY Acirc  "&#194;" > 
 <!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
 <!ENTITY Iacute "&#205;" >
 <!ENTITY Oacute "&#211;" >
 <!ENTITY Uacute "&#218;" >
@@ -60,11 +61,12 @@
 <!ENTITY ocirc  "&#244;" >
 <!ENTITY ouml   "&#246;" >
 <!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
 <!ENTITY uuml   "&#252;" >
 <!ENTITY ucirc  "&#251;" >
 <!ENTITY thorn  "&#254;" >
 <!ENTITY Icirc  "&#206;" >
-
+<!ENTITY Uuml   "&#252;" >
 <!ENTITY pound  "&#163;" >
 <!ENTITY sect   "&#167;" >
 <!ENTITY copy   "&#169;" >
@@ -91,7 +93,7 @@
     <major-heading id="com.kildarestreet/committees/2017-03-07a.2" nospeaker="true" time="16:00:00" url="">Joint Oireachtas Committee on Agriculture, Food and the Marine</major-heading>
     <speech id="com.kildarestreet/committees/2017-03-07a.3" nospeaker="true" time="16:00:00" ><p>The Joint Committee met at 16:00</p><p>MEMBERS PRESENT:</p><p>Deputy Jackie Cahill, Senator Paul Daly, Deputy Clare Daly,+ Senator Tim Lombard, Deputy Michael D'Arcy, Senator Pádraig Mac Lochlainn, Deputy Martin Kenny, Senator Michelle Mulherin. Deputy Charlie McConalogue, Deputy Willie Penrose, Deputy Thomas Pringle,</p><p>+ In the absence of Deputy Thomas Pringle for part of the meeting.</p><p>In attendance: Deputies Eamon Scanlon and Tom Neville.</p><p>DEPUTY PAT DEERING IN THE CHAIR.</p></speech>
     <speech id="com.kildarestreet/committees/2017-03-07a.4" nospeaker="true" time="16:00:00" ><p>The joint committee met in private session until 4.23 p.m.</p></speech>
-    <minor-heading id="com.kildarestreet/committees/2017-03-07a.5" nospeaker="true" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/AGJ2017030700002#C00100">GLAS Scheme: Motion</minor-heading>
+    <minor-heading id="com.kildarestreet/committees/2017-03-07a.5" nospeaker="true" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/AGJ2017030700002#C00100">GLAS Payments: Motion</minor-heading>
     <speech id="com.kildarestreet/committees/2017-03-07a.6" speakerid="com.kildarestreet/member/1268" speakername="Pat Deering" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/AGJ2017030700002#C00200"><p>I invite Deputy Martin Kenny to propose the motion.</p></speech>
     <speech id="com.kildarestreet/committees/2017-03-07a.7" speakerid="com.kildarestreet/member/1345" speakername="Martin Kenny" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/AGJ2017030700002#C00300"><p>I move:</p><blockquote>That the Joint Committee on Agriculture, Food and the Marine notes:- the financial strain under which many farmers are living at present;<br /><br />- the difficulties faced over the past year with price volatility;<br /><br />- the rising cost of fertiliser and other agricultural inputs;<br /><br />- the high level of commitment by Irish farmers to environmental and greening measures;<br /><br />- the fact that the Department of Agriculture, Food and the Marine underspent its budget in 2016;<br /><br />- that 85% of GLAS payments are paid in the first tranche, with the remaining 15% withheld until the second tranche;<br /><br />- the commitment from the Department of Agriculture, Food and the Marine that all participants in the schemes would receive their first tranche payments before the end of 2016;and calls on the Minister for Agriculture, Food and the Marine - to immediately ensure that the Department pays the first tranche of GLAS and AEOS moneys to all participants in the schemes;<br /><br />- to ensure that the second tranche payments are timely and efficiently paid as promised in the second quarter of 2017;<br /><br />- to ensure that farmers are given an explanation for the breach of the farmers' charter which has taken place in regard to these payments; and<br /><br />- to ensure that measures are taken to ensure that such a delay will not occur again.</blockquote></speech>
     <speech id="com.kildarestreet/committees/2017-03-07a.8" speakerid="com.kildarestreet/member/1268" speakername="Pat Deering" time="16:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/AGJ2017030700002#C00400"><p>I invite Senator Tim Lombard to move the amendment to the motion.</p></speech>
