@@ -15,7 +15,7 @@ Warning!
 --------
 
 We are able only to release information which has actually been published by the Debates Office at Leinster House. 
-They are VERY BAD AT THEIR JOB -- the contents of oireachtasdebates.oireachtas.ie are often unintelligably-corrupt, 
+They are sometimes VERY BAD at this -- the contents of oireachtasdebates.oireachtas.ie are often unintelligably-corrupt, 
 very incomplete, and sometimes downright incorrect. Therefore we make *no assurances* that contents are complete.
 
 The text in these files is (c) Oireachtas Copyright, each file to its original year of transcription.  The Copyright
