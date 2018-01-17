@@ -17,7 +17,8 @@
 <!ENTITY Iacute "&#205;" >
 <!ENTITY Oacute "&#211;" >
 <!ENTITY Uacute "&#218;" >
-<!ENTITY zcaron  "&#381;" > 
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
 <!ENTITY hellip  "..." >
 <!ENTITY bullet  "&#8226;" >
 <!ENTITY Dagger  "&#8224;" >
@@ -50,6 +51,7 @@
 <!ENTITY Ccedil "&#199;" >
 <!ENTITY egrave "&#232;" >
 <!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
 <!ENTITY Egrave "&#200;" >
 <!ENTITY ecirc  "&#234;" >
 <!ENTITY euml   "&#235;" >
@@ -61,11 +63,12 @@
 <!ENTITY ocirc  "&#244;" >
 <!ENTITY ouml   "&#246;" >
 <!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
 <!ENTITY uuml   "&#252;" >
 <!ENTITY ucirc  "&#251;" >
 <!ENTITY thorn  "&#254;" >
 <!ENTITY Icirc  "&#206;" >
-
+<!ENTITY Uuml   "&#252;" >
 <!ENTITY pound  "&#163;" >
 <!ENTITY sect   "&#167;" >
 <!ENTITY copy   "&#169;" >
@@ -143,7 +146,7 @@
     <speech id="com.kildarestreet/committees/2017-05-24a.64" nospeaker="true" time="14:00:00" ><p>The joint committee went into private session at 4.10 p.m. and adjourned at 4.15 p.m. until 2 p.m. on Wednesday, 21 June 2017.</p></speech>
     <major-heading id="com.kildarestreet/committees/2017-05-24a.65" nospeaker="true" time="09:00:00" url="">Select Committee on Justice and Equality</major-heading>
     <speech id="com.kildarestreet/committees/2017-05-24a.66" nospeaker="true" time="09:00:00" ><p>The Select Committee met at 09:00</p><p>MEMBERS PRESENT:</p><p>Deputy Colm Brophy, Deputy Frances Fitzgerald (Minister for Justice and Equality), Deputy Clare Daly, Deputy Jim O'Callaghan, Deputy Alan Farrell, Deputy Mick Wallace.</p><p>In attendance: Deputy Jonathan O'Brien.</p><p>DEPUTY CAOIMHGHÍN Ó CAOLÁIN IN THE CHAIR.</p></speech>
-    <minor-heading id="com.kildarestreet/committees/2017-05-24a.67" nospeaker="true" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#A00100">Parole Bill 2016 [Private Members']: Committee Stage</minor-heading>
+    <minor-heading id="com.kildarestreet/committees/2017-05-24a.67" nospeaker="true" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#A00100">Parole Bill 2016: Committee Stage</minor-heading>
     <speech id="com.kildarestreet/committees/2017-05-24a.68" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#A00200"><p>Apologies have been received from Deputy Jack Chambers.  All mobile phones should be switched off as they cause interference with the broadcasting and recording of the proceedings, even when left in silent mode.  That applies to everyone, including me.  </p> <p>  The meeting has been convened to consider Committee Stage of the Parole Bill 2016 which was introduced by Deputy Jim O'Callaghan.  I welcome the T&aacute;naiste and Minister for Justice and Equality, Deputy Frances Fitzgerald, and her officials.  On behalf of the select committee, I also welcome Mr. John Costello, chairperson of the parole board, and those of his colleagues who may be in attendance.  </p> <p>  Before dealing with the Bill section by section, would Deputy Jim O'Callaghan like to speak?  It is an important opportunity as this is first time we are taking Committee Stage of a Private Members' Bill in this committee's term.  A small bit of history is being made and, as such, I offer the floor to the Deputy.</p></speech>
     <speech id="com.kildarestreet/committees/2017-05-24a.69" speakerid="com.kildarestreet/member/1296" speakername="Jim O'Callaghan" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#A00300"><p>I thank the Chairman for fixing Committee Stage for this morning.  I acknowledge the role the T&aacute;naiste has played in dealing with this Private Members' Bill, the broad principle of which she has accepted and on which she is happy to work.  I am conscious of the fact that I have had engagement with the Department of Justice and Equality, which I welcome.  A lot of amendments have been tabled.  Deputies Mick Wallace and Clare Daly have tabled amendments, as have I.  In fairness to the T&aacute;naiste, she has adopted the sensible approach that we will let the amendments go through and that the main Government amendments will come through on Report Stage.  We may also have further amendments to propose on Report Stage, albeit probably not be too many.  This is a worthwhile process.  The most important point is not that it is my Bill or anyone else's but that we get it right.  I am not proprietorial about the Bill and acknowledge the work the Department has done on it.  We all agree that the legislation is long overdue.  Many of the amendments proposed will help the Bill, but I am conscious that we will get a better overview of it when we see the Government's amendments on Report Stage.  While I will not hold the Department to a timetable, we are all anxious that the amendments be brought forward as quickly as possible.  However, I am conscious that there is still work to be done.</p></speech>
     <speech id="com.kildarestreet/committees/2017-05-24a.70" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#A00400"><p>Would the Minister like to make some opening remarks?</p></speech>
@@ -650,7 +653,7 @@ NEW SECTIONS</p></speech>
     <speech id="com.kildarestreet/committees/2017-05-24a.581" speakerid="com.kildarestreet/member/1214" speakername="Frances Fitzgerald" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V02500"><p>I thank the Chairman.</p></speech>
     <speech id="com.kildarestreet/committees/2017-05-24a.582" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V02600"><p>I also thank Mr. John Costello and Mr. Shane McCarthy from the parole board for their attendance.  I hope it has been illuminating.  No doubt it has.</p></speech>
     <minor-heading id="com.kildarestreet/committees/2017-05-24a.583" nospeaker="true" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V02800">Message to Dáil</minor-heading>
-    <speech id="com.kildarestreet/committees/2017-05-24a.584" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V02900"><p>In accordance with Standing Order 90, the following message will be sent to the D&aacute;il:</p><blockquote>The Select Committee on Justice and Equality has completed its consideration of the Parole Bill 2016 and has made amendments thereto.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2017-05-24a.584" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V02900"><p>In accordance with Standing Order 90, the following message will be sent to the D&aacute;il:</p> <p>The Select Committee on Justice and Equality has completed its consideration of the Parole Bill 2016 and has made amendments thereto.</p></speech>
     <minor-heading id="com.kildarestreet/committees/2017-05-24a.585" nospeaker="true" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V03000">Business of Select Committee</minor-heading>
     <speech id="com.kildarestreet/committees/2017-05-24a.586" speakerid="com.kildarestreet/member/1280" speakername="Jonathan O'Brien" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V03100"><p>Before the Chairman adjourns the meeting-----</p></speech>
     <speech id="com.kildarestreet/committees/2017-05-24a.587" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="09:00:00" url="http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2017052400002#V03200"><p>I am not going to adjourn yet because I have another matter to flag to the members.</p></speech>
