@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2018-12-13a.2" nospeaker="true" time="14:00:00" url="">Select Committee on Health</major-heading>
+    <speech id="com.kildarestreet/committees/2018-12-13a.3" nospeaker="true" time="14:00:00" ><p>The Select Committee met at 14:00</p><p>MEMBERS PRESENT:</p><p>Deputy Stephen S. Donnelly, Deputy Margaret Murphy O'Mahony. Deputy Bernard J. Durkan, Deputy Finian McGrath (Minister of State at the Department of Health),</p><p>DEPUTY MICHAEL HARTY IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2018-12-13a.4" nospeaker="true" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#A00100">Business of Select Committee</minor-heading>
+    <speech id="com.kildarestreet/committees/2018-12-13a.5" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#B00200"><p>We are in public session.  As we do not have a quorum due to votes taking place in the D&aacute;il, I propose that the select committee reconvenes at 3 p.m.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.6" nospeaker="true" time="14:00:00" ><p>Sitting suspended at 2.15 p.m. and resumed at 3 p.m.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2018-12-13a.7" nospeaker="true" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00100">Health Insurance (Amendment) Bill 2018: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2018-12-13a.8" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00200"><p>The purpose of the Bill is to amendment the Health Insurance Bill 1994 to specify the amount of premium to be the risk equalisation fund in respect of certain classes of insured persons from 1 April 2019; to make certain other amendments to that Act; to amend the Voluntary Health Insurance (Amendment) Act 1996.</p> <p>  I welcome the Minister of State, Deputy Finian McGrath, and his officials and invite the Minister of State to make an opening statement.  </p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.9" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00300"><p>I am pleased to have this opportunity to address this Committee on the Health Insurance (Amendment) Bill 2018.  The Bill was published on 14 November and concluded its passage through Second Stage in the D&aacute;il last week.  I welcome the support received in that House for the core principle of community rating, which is long established and well supported Government policy for the health insurance market.</p> <p>  I thank the Chairman, Deputy Harty, and Deputy Durkan for their support on this legislation. </p> <p>  This is a short and technical Bill comprising eight sections all focused on the specific issue of health insurance.  The amendments outlined in the Bill will ensure the ongoing sustainability of the private health insurance market and seek to keep health insurance policies at an affordable price for all citizens, young or old, sick or healthy.</p> <p>  Legislation is needed each year to update the amounts of credits paid to insurers under the scheme and the amounts of stamp duty levied on health insurance contracts to fund the credits. </p> <p>  As part of the process, the independent market regulator, the Health Insurance Authority, HIA, carries out an annual evaluation of the market, focused on the claims costs that every insurer has paid over the year.  Based on that analysis, the authority recommends the level of credits that should apply the next year.</p> <p>  The rates for next year, recommended by the authority, have been considered and accepted by the Minister for Health.  This year&rsquo;s Bill will provide for a general decrease in the credits across genders and age groups, and there will be no change in the stamp duty levy on contracts.  Maintaining the stamp duty levies at existing levels should ensure that health insurers do not increase premiums and that contracts remain at an affordable price for all citizens.</p> <p>  In addition to the technical amendments, this year&rsquo;s Bill provides for a number of amendments to the Acts governing the Health Insurance Authority and VHI. </p> <p>  In short, it is proposed to expand the membership of the Health Insurance Authority board; to broaden the composition of the VHI board; and to enable VHI to sell international healthcare plans directly.  I will outline each of these proposed changes in turn.</p> <p>  The Health Insurance Authority was established in 2001 with provision for five board members to be appointed.  Since then, the health insurance market has become more complex, with insurers adopting innovative marketing and product propositions to expand their client base and improve their risk profile. </p> <p>  Further significant changes can be expected as the Sl&aacute;intecare programme is implemented.  The role of private health insurance in our health system could change significantly, and the regulator must be able to react to this changing role and to advise the Minister for Health appropriately.</p> <p>  For the objective and effective discharge of its functions, it is desirable that the authority includes a broad mix of skills and experience and expanding the membership of the board will ensure they can deliver its strategy and address any challenges it meets.</p> <p>  The Bill also contains two amendments to the Voluntary Health Insurance Acts, which are the governing legislation for VHI.</p> <p>  The first VHI-related amendment deals with board composition. Currently, the VHI board is restricted to having only two persons who are &ldquo;health service providers&rdquo; on the board.  This amendment will remove this restriction and includes a new provision that the Minister will give due consideration to the mix of skills present on the VHI board when making appointments, thus ensuring the highest standards of governance.</p> <p>  The second amendment to the Voluntary Health Insurance Acts deals with one specific area of VHI&rsquo;s business activities.  The amendment will permit VHI to sell international healthcare plans directly, not only as an agent as it is allowed to do currently, and it will remove the requirement for VHI to seek ministerial approval before selling these plans.  This development is consistent with VHI&rsquo;s current status as an insurer authorised by the Central Bank.  VHI is competing in a highly competitive and regulated marketplace and this amendment will remove the impediment to VHI&rsquo;s ability to compete with its competitors and thereby allow VHI to avail of potentially significant business opportunities. </p> <p>  The Bill allows us to maintain our support for the core principle of community rating, which is long established and well supported Government policy for the health insurance market, and the amendments to the legislation governing the Health Insurance Authority and VHI are to allow these organisations to plan for future developments in this ever-changing and complex environment.</p> <p>  I commend this Bill to members.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.10" nospeaker="true" time="14:00:00" ><p>SECTION 1</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.11" nospeaker="true" time="14:00:00" ><p>Question proposed:  "That section 1 stand part of the Bill".</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.12" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00600"><p>I ask the Chairman's guidance, as I have questions that are relevant to the Bill rather than the specific sections and subsections.  When is the time to address those questions to the Minister of State?</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.13" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00700"><p>Now.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.14" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00800"><p>Great.  The risk equalisation levy is a regressive levy if one assumes that higher-income households buy more expensive healthcare and lower income households, where they can afford it, buy less expensive health insurance policies.  Risk equalisation divides into two different types of policies, namely, advanced and non-advanced, and it applies a flat rate to them.  It applies a levy of &euro;444 to the advanced policies and &euro;170 to the non-advanced policies.  The advanced policies range in price from about &euro;800 to over &euro;5,000, whereas the non-advanced tend to be between &euro;400 and &euro;800.  Therefore the levy seeks a higher percentage from those with cheaper policies.  The difference with the premium, platinum-plated policies has very little to do with clinical care in the hospital but is more how fancy the room is and the trappings.  If my understanding of the levy is correct, we are essentially subsidising fancy rooms for higher-income families.  One way we could change this levy would be to apply it as a percentage of the price of a policy.  As part of the deliberations for the Bill this year, was there any discussion on changing the levy from what is broadly accepted as a regressive measure into either a neutral or potentially progressive one?</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.15" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G00900"><p>I thank Deputy Donnelly for his question.  I am standing in for the Minister, Deputy Harris, who is busy in the Upper House.</p> <p>  Currently, older people tend to buy more expensive policies.  The thinking is that the levy as a percentage would increase the costs.  I will come back to the Deputy with a more detailed response.  </p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.16" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01000"><p>I appreciate that the Minister of State is standing in for the Minister, however, this is Committee Stage and my question speaks directly to what is being proposed in the Bill.  How do we proceed?</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.17" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01100"><p>There are no amendments to the Bill, so the Deputy may comment or ask for the Minister of State's response but we are strictly confined to going through the Bill section by section and there are no amendments.  I reiterate the Deputy is quite entitled to make comments and receive a response from the Minister of State.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.18" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01200"><p>And to ask questions, this is Committee Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.19" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01300"><p>The Deputy may reserve the right to introduce an amendment on Report Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.20" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01400"><p>It is not very satisfactory.  I am not asking a curveball question, it goes to the very heart of the levy and the legislation before us.  It is no reflection on the Minister of State, I know that he is stepping in for the Minister, Deputy Harris, but it is hardly satisfactory.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.21" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01500"><p>Having raised it here the Deputy may do so again on Report Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.22" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01600"><p>I cannot really, though.  Committee Stage is the only chance we really get to go back and forth.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.23" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#G01700"><p>It was considered this year by the HIA, as far as I know, but that does not mean that they cannot consider what the Deputy is suggesting again.</p><p>I give a commitment that I will go back to the Minister for Health, Deputy Simon Harris, on this issue.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.25" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00200"><p>I know it is not the fault of the Minister of State but this is not satisfactory on Committee Stage.  The question I am asking is not obscure, it goes to the core of the legislation.  I understand the Minister of State is standing in for the Minister for Health, who is dealing with critical legislation elsewhere, but this is a basic question on legislation before a committee and it should be possible to answer it.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.26" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00300"><p>I propose that we go through the Bill section by section.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.27" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00400"><p>I have a second question.  One of the frustrations felt by some in the industry is that, in their view, the VHI holds unusually high reserves, which means it passes the overcompensation test.  That is relevant to the levy.  The belief is that it meets the criterion of keeping profits below 4% by moving an unusually high level of those profits into reserves.  I believe that, given the history of insurance companies going into liquidation here, the more reserves companies have the better and I do not suggest the VHI should have lower reserves.  However, it is relevant to the legislation because, by holding reserves which are significantly above the Solvency II levels, the VHI can manage its profit margin down and this has an impact on the rest of the industry.  Can the Minister tell me if any of this was considered in the context of the Bill for this year?</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.28" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00500"><p>The overcompensation test has not been conducted.  It will be done next year by the Health Insurance Authority, HIA.  That deals with that issue.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.29" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00600"><p>What is the Government's view, in the context of the legislation, on the VHI's reserves being so high?  At 80%, they are above the Solvency II requirements.  What is the Cabinet's view on that?  Is it content with the high reserves the company has and the impact this could have on the insurance industry?</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.30" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00700"><p>I take the Deputy's point about the frustration that is felt.  However, the VHI is an independent commercial company and, as far as I am aware, it is in the process of lowering its reserves.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.31" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00800"><p>My final question is about the consumer and is somewhat tangential to the Bill.  We have approximately 300 health insurance policies in the market.  I know the Central Bank is pushing for simplicity and my understanding is that the number has come down from about 400.  I am sure we can all agree that it is pretty much impossible for anyone to find the right health insurance policy.  There are many reasons for this but one of the main ones is the massive and bewildering complexity involved.  Did the Minister, the Department or any part of the State use this legislation as leverage to engage with the industry with a view to seriously driving down complexity in order that consumers can understand what the best package is for them and their families?</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.32" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H00900"><p>There are ongoing discussions with the insurers but this is also a matter for the regulator.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.33" speakerid="com.kildarestreet/member/1436" speakername="Stephen Donnelly" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H01000"><p>It is and is not a matter for the regulator.  The Central Bank is involved but that involvement derives from legislation we pass in the House.  The Minister, the Department of Health and the Cabinet also have a role to play.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.34" speakerid="com.kildarestreet/member/1359" speakername="Finian McGrath" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H01100"><p>I will revert to Deputy Donnelly with more detailed responses to the questions he has raised.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.35" nospeaker="true" time="14:00:00" ><p>Question put and agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.36" nospeaker="true" time="14:00:00" ><p>Sections 2 to 8, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.37" nospeaker="true" time="14:00:00" ><p>Title agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.38" nospeaker="true" time="14:00:00" ><p>Bill reported without amendment.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2018-12-13a.39" nospeaker="true" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H01600">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2018-12-13a.40" speakerid="com.kildarestreet/member/1275" speakername="Michael Harty" time="14:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/HES2018121300002#H01700"><p>In accordance with Standing Order 90, the following message will be sent to the D&aacute;il:</p><blockquote>The Select Committee on Health has completed its consideration of the Health Insurance (Amendment) Bill 2018 and has not made amendments thereto.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2018-12-13a.41" nospeaker="true" time="14:00:00" ><p>The Select Committee adjourned at 3.20 p.m. sine die.</p></speech>
+</publicwhip>
