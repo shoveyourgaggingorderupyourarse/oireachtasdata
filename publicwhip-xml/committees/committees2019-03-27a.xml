@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2019-03-27a.2" nospeaker="true" time="13:30:00" url="">Committee on Public Petitions</major-heading>
+    <speech id="com.kildarestreet/committees/2019-03-27a.3" nospeaker="true" time="13:30:00" ><p>The Joint Committee met at 13:30</p><p>MEMBERS PRESENT:</p><p>Deputy Pat Buckley, Senator Jerry Buttimer, Deputy Shane Cassells, Senator Lynn Ruane. Deputy Eugene Murphy, Deputy Brendan Ryan,</p><p>DEPUTY SEAN SHERLOCK IN THE CHAIR.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2019-03-27a.4" nospeaker="true" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#A00050">Business of Joint Committee</minor-heading>
+    <speech id="com.kildarestreet/committees/2019-03-27a.5" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#A00100"><p>Apologies have been received from Deputy Dara Murphy.  Members will be aware of the usual proviso on mobile phones so I will now switch mine to airplane mode.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.6" nospeaker="true" time="13:30:00" ><p>The joint committee went into private session at 1.35 p.m. and resumed in public session at 1.55 p.m.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.7" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00100"><p>We will now deal with Petition No. <font color="#2F2F2F">P00011/18 from</font>Ms Josephine Boles.  <font color="#2F2F2F">The decision of the committee is that we correspond again with the Department of Education and Skills and ask for further information regarding mandatory autism spectrum disorder, ASD, teaching for all teachers and forward a copy of the reply from the Department of Education and Skills to the petitioner and inform them that the petition remains open.  Is that agreed?</font></p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.8" speakerid="com.kildarestreet/member/1391" speakername="Jerry Buttimer" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00200"><p>Is there any merit in also inviting in the Minister of State, Deputy Finian McGrath?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.9" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00300"><p>Yes.  Is Senator Buttimer making a proposal?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.10" speakerid="com.kildarestreet/member/1391" speakername="Jerry Buttimer" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00400"><p>I am, on the basis that it straddles both Departments.  I believe there is a need to have a joined-up approach between the Department of Education and Skills and the Department of Health on education provision in terms of training in the mainstream schools in particular.  Could we please consider that as well?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.11" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00500"><p>I agree with the suggestion and if there is a formal proposal then I think we should do that.  Is that agreed?  Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.12" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00600"><p>When discussing a particular topic is it usual for a number of people to be called in, in terms of stakeholders?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.13" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00700"><p>If there is a proposal from a committee member it can be considered by the wider committee.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.14" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00800"><p>I recently drafted a piece of legislation on the use of seclusion rooms and restraints on people with autism and it ties in with the training of teachers working with them.  Perhaps one of the organisations would be able to contribute as to what that type of training should look like.  Perhaps the petitioner could assist.  Perhaps AsIAm could come in or one of the other organisations that are seeking to change the training of teachers in this area.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.15" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00850"><p>The petition remains open.  We want to get a specific response from the Department of Education and Skills in respect of the specific question asked by the petitioner.  There is a proposal to invite the Minister of State in, and Senator Ruane is making a proposal to invite one of the stakeholder groups that works in this specific area.  Senator Ruane can make a formal proposal and seek agreement, then it is a matter for the committee to agree.  Is she making such a proposal?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.16" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D00900"><p>Yes.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.17" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01000"><p>There is a proposal to invite AsIAm before us as part of this petition to discuss further the very issues in respect of restraint and teaching.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.18" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01100"><p>That is just one part of what was touched on in the submission.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.19" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01200"><p>That is one element of it.  Is that agreed?  Agreed.</p><p><font color="#2F2F2F">  I will move on to the next petition.  The next petition for consideration is Petition No. P00036/18 from Mr. Paul Kavanagh.  The petition concerns the Fermoy weir on the River Blackwater in County Cork.  I propose that we correspond with Cork County Council to ask for an update on the status of this issue and that we would forward a copy of the reply from the Department of Communications, Climate Action and Environment to the petitioner and inform him that this petition remains open.  I also propose that we invite the petitioner and possibly one other stakeholder to come before us in this committee for a short interaction in respect of discussing the issues that are at play concerning the River Blackwater in Fermoy.  Is that agreed?</font></p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.20" speakerid="com.kildarestreet/member/1342" speakername="Eugene Murphy" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01300"><p>Because of my party portfolio is it possible to give me a very brief outline of what the issues are?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.21" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01400"><p>The issue concerns the collapse of the weir on the River Blackwater in Fermoy.  It is also in respect of the imposition or construction of a fish pass.  There is a suggested breach of boat structures, which have to be repaired.  There is also the question of whether Ireland is in compliance with EU directives in respect of the safe migration of fish, particularly salmon.  That is causing significant consternation for fishing interests on the ground but also there is the question of whether the Government is to fund the repairs or whether because Cork County Council is the owner of the weir it has the obligation.  There is also the question of what that budget would be.  The petitioners are seeking to have the issue addressed and for clarity to be provided in respect of who, in effect, would foot the bill.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.22" speakerid="com.kildarestreet/member/1342" speakername="Eugene Murphy" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01500"><p>I take it that it is a significant undertaking.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.23" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01600"><p>It is a significant undertaking.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.24" speakerid="com.kildarestreet/member/1342" speakername="Eugene Murphy" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01650"><p>Thank you, Chairman. I just wanted clarification.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.25" speakerid="com.kildarestreet/member/1279" speakername="Pat Buckley" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01700"><p>For people who are not familiar with the case, there are not only the implications of the deterioration of the weir and the implications on the migrating fish but there are significant implications for tourism and for sports clubs from the Blackwater Estuary right down to Youghal.  It is a vital piece of infrastructure for east Cork as well so the issue is very important.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.26" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01800"><p>We have agreed the proposals in respect of that petition.</p> <p>  The next petition for consideration is Petition No. P0008/19 from Mr. Darragh Fitzgerald.  His petition would like to see the Freedom of Information, FOI, Act extended to the Office of the President.  Do any members wish to comment?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.27" speakerid="com.kildarestreet/member/1218" speakername="Shane Cassells" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D01900"><p>I note the conclusion in respect of extending FOI to the Presidency is under review and advice has been sought from the Office of the Attorney General by the Department of Public Expenditure and Reform.  We received a note from the petitioner who said it should be noted that the Office of the President is subject to public scrutiny via the Comptroller and Auditor General.  I am a member of the Committee of Public Accounts and the President&rsquo;s office was very topical last October.  People questioned whether we should be delving into that particular area.  We published our fifth periodic report two weeks ago and it included a chapter on this issue.  I note what the petitioner said, namely, that as a citizen of Ireland who pays his tax, he feels concerned that the spending of the President is not made public in detail.</p> <p>  The Office of the President has a spend of X that is public and it comes before the Committee of Public Accounts.  There is an audit committee which we probed as well in terms of how it met our requirements.  That was laid bare prior to the election and indeed since as well.  While there is a spend of X on the Office of the President, what is not taken into account is the whole plethora of associated expenditure for the President, let us call it Y, which does not come under the auspices of the Office of the President but comes under the remit of several other Departments. The petitioner&rsquo;s point in terms of the President being answerable to the Comptroller and Auditor General is correct and there is an audit committee up and running as well.</p> <p>  We brought the relevant Accounting Officer before the Committee of Public Accounts.  The Secretary General of the Department of the Taoiseach is answerable on the Office of the President but he does not answer for all the other additional expenditure.  I refer, for example, to the Garda, which is the responsibility of the Department of Justice and Equality, and the OPW, which comes under the remit of the Department of Finance.  It is just like local government, which is not answerable to the Committee of Public Accounts, which has a plethora of different funds flowing into it, a myriad of things as the Comptroller and Auditor General has said.  The Office of the President is nearly on a par, although nothing could top the local government situation, as other Departments are involved.  What we said at the Committee of Public Accounts is that committees in previous D&aacute;ileanna were perhaps lax in not having that Vote examined.  It is part of a number of Votes that come before the Committee of Public Accounts, as it should, and in that respect there is a more stringent examination of what is being spent there.  That should be noted as well.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-03-27a.28" speakerid="com.kildarestreet/member/1276" speakername="Se&aacute;n Sherlock" time="13:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019032700002#D02000"><p>What we propose is that we correspond with the Department of Public Expenditure and Reform to ask for an update on the issue, when available, with a view to reviewing this within a six-month timeframe.  We will forward a copy of the response from the Department to the petitioner and inform him that the petition remains open.  That speaks partly to the concerns that have been agreed.  Is that agreed?  Agreed.</p> <p>  The final petition for consideration today is Petition No. P00012/19 from Mr. Robert Ewing.  The petition appears to concern a dispute over land ownership and subsequent legal proceedings dating back to the 1980s.  What we propose to do is to deem the petition inadmissible in accordance with Standing Order 111C (i)(a), and to correspond with the petitioner informing him the petition is inadmissible and to return the supporting documents.</p><p><font color="#2F2F2F">Is that agreed?  Agreed.<br/><br/> I thank Senator Kelleher and Deputy Denise Mitchell for their time on the committee and in their place I formally welcome Senator Ruane and Deputy Buckley.  I look forward to working with them.  I also note the apologies from Deputy Heydon.  I propose that we adjourn the meeting until Wednesday, 10 April 2019 at 1.30 p.m.  Is that agreed?  Agreed.</font><br/><br/><font color="#2F2F2F"> The joint committee adjourned at 2.05 p.m. until 1.30 p.m. on Wednesday, 10 April 2019.</font></p></speech>
+</publicwhip>
