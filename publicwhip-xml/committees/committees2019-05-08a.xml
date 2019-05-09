@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2019-05-08a.2" nospeaker="true" time="00:00:00" url="">Joint Oireachtas Committee on Justice, Defence and Equality</major-heading>
+    <speech id="com.kildarestreet/committees/2019-05-08a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Comhchoiste le chéile ag 09:00</p><p>The Joint Committee met at 09:00</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Seanadóirí / Senators Jack Chambers, Frances Black. Clare Daly, Jim O'Callaghan.</p><p>I láthair / In attendance: Deputy Donnchadh Ó Laoghaire and Senator Mark Daly.</p><p>Teachta / Deputy Caoimhghín Ó Caoláin sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2019-05-08a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUJ2019050800002#A00050">Business of Joint Committee</minor-heading>
+    <speech id="com.kildarestreet/committees/2019-05-08a.5" speakerid="com.kildarestreet/member/1269" speakername="Caoimhgh&iacute;n &Oacute; Caol&aacute;in" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUJ2019050800002#A00075"><p>As we have a quorum, we will commence in public session.  I thank Senator Mark Daly for allowing us to secure a quorum to commence our business.  I remind members to switch off their mobile phones as they interfere with the recording equipment.  I have not been advised of any apologies.  The minutes of the meeting of 17 April 2019 have been circulated.  We will now go into private session.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-05-08a.6" nospeaker="true" time="00:00:00" ><p>The joint committee went into private session until 9.48 a.m.</p></speech>
+</publicwhip>
