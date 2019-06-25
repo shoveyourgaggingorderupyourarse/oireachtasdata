@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2019-06-20a.2" nospeaker="true" time="00:00:00" url="">Select Committee on Finance, Public Expenditure and Reform, and Taoiseach</major-heading>
+    <speech id="com.kildarestreet/committees/2019-06-20a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 14:00</p><p>The Select Committee met at 14:00</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Seanadóirí / Senators Peter Burke, Michael D'Arcy (Minister of State at the Department of Finance), Michael McGrath.</p><p>Teachta / Deputy John McGuinness sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2019-06-20a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#A00100">Articles of Agreement of the International Finance Corporation: Minister of State at the Department of Finance</minor-heading>
+    <speech id="com.kildarestreet/committees/2019-06-20a.5" speakerid="com.kildarestreet/member/1248" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00200"><p>We will commence the session.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.6" speakerid="com.kildarestreet/member/1364" speakername="Michael D'Arcy" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00300"><p>I ask the committee to consider a proposed amendment to the Articles of Agreement of the International Financial Corporation, IFC, which is part of the World Bank Group.  In summary, the change to the articles is to increase the voting threshold for approval of future capital increases at the IFC.  The Government seeks D&aacute;il approval for this change under Article 29.5.2o of the Constitution as the IFC's Articles of Agreement are an international agreement involving a charge upon public funds.  I will now set out for the committee some background on the IFC and the reasons for this proposed change.</p> <p>  IFC is the part of the World Bank which seeks to promote private sector development in developing countries.  It does so by providing loans, investments and advisory services to companies engaged in projects with development impact.  In April 2018, shareholders of the World Bank agreed on a capital increase for the bank.  The agreed financial package includes a $7.5 billion capital increase for IBRD, the World Bank's main lending arm, and a $5.5 billion capital increase for the IFC.  The capital increase for the IFC is a response to the ambition of the sustainable development goals and the increased levels of finance required.  Simply put, the sustainable development goals will not be met through existing domestic resources or traditional overseas aid.  The annual funding gap is estimated to be $2.5 trillion.  It is, therefore, essential to leverage private sector capital to have a realistic chance of achieving the sustainable development goals.  Standing between policymakers and private finance, IFC is well-positioned to bridge this gap and encourage investment in developing countries.  The proposed capital increase has the potential to double IFC investment to $25 billion by 2030.  Under the agreed package, this increased investment will be targeted toward the world's most disadvantaged countries and to address gender equality and climate change.  The capital package also includes reforms to increase efficiencies at the bank.</p> <p>  The Government is supportive of the capital increase for the bank which is the largest development actor globally with the scale, expertise and experience to deliver transformative development impact.  The deliverables of the capital increase are closely aligned with Ireland's priorities as articulated in our new development policy, A Better World.  Ireland has the option to take up shares in the IFC under the capital increase which would require a total subscription of $12.6 million over five years.  Our subscription to IFC would count toward the UN target of providing 0.7% of GNP for overseas development assistance.  While we are supportive of the overall capital package, at this stage, a final decision on our take-up of shareholding has not been taken by the Minister for Finance.</p> <p>  An essential part of the agreement on the capital package was the proposed amendment to the IFC's Articles of Agreement which we are here today to discuss.  Specifically, this amendment would increase the voting threshold for approval of future capital increases from 80% to 85%.  This change will maintain the veto power of the USA in relation to future capital increases at the IFC.  During negotiations, the USA indicated that while it would not contribute to the capital increase, it would not oppose the increase provided that it did not reduce the USA's voting power below the level at which it could exercise a veto.  This was an essential condition for the final agreement.  The Office of the Attorney General has advised that the proposed change requires D&aacute;il approval.  This is in line with Article 29.5.2o of the Constitution which outlines that the State will not be bound by any international agreement involving a charge on public funds unless the terms of the agreement, including any amendments, have been approved by D&aacute;il &Eacute;ireann.  To be clear, the proposed amendment to the IFC's articles does not in itself result in any new immediate charge upon public funds.  However, as the amendment will ultimately create a charge on public funds, the Government is seeking D&aacute;il approval.  A D&aacute;il resolution to approve the proposed change to the IFC's Articles of Agreement will allow Ireland to vote in favour of the amendment.  This will assist in paving the way for the IFC to complete this capital increase and allow it to progress its important mission.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.7" speakerid="com.kildarestreet/member/1223" speakername="Michael McGrath" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00400"><p>I thank the Minister of State for his opening statement.  The committee very much supports the proposal.  The work of the World Bank and, in particular, of the International Finance Corporation is important in the developing world.  The proposal is focused very much on the sustainable development goals, climate action and poverty.  While the proposal must ultimate go before the D&aacute;il, is it the case that passing this provides Ireland with an option rather than an obligation?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.8" speakerid="com.kildarestreet/member/1364" speakername="Michael D'Arcy" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00500"><p>Yes.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.9" speakerid="com.kildarestreet/member/1223" speakername="Michael McGrath" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00600"><p>The potential additional amount is $12.6 million.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.10" speakerid="com.kildarestreet/member/1364" speakername="Michael D'Arcy" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00700"><p>Over five years.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.11" speakerid="com.kildarestreet/member/1364" speakername="Michael D'Arcy" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00800"><p>Will a decision to implement this come back to the House or the select committee, or is it a matter for the Minister?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.12" speakerid="com.kildarestreet/member/1364" speakername="Michael D'Arcy" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B00900"><p>It does not come back.  Once it is sanctioned by the D&aacute;il, it is a matter for the Minister for Finance to conclude at the appropriate time.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.13" speakerid="com.kildarestreet/member/1364" speakername="Michael D'Arcy" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B01000"><p>As such, this is the approval to give the Minister the right to proceed.  That is fine.  I am happy with it and do not have any further questions.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.14" speakerid="com.kildarestreet/member/1248" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B01100"><p>The proposed amendment of the Articles of Agreement of the International Finance Corporation, which is part of the World Bank Group, was referred to the select committee for consideration on Tuesday, 18 June 2018.  The committee has completed its consideration of the matter.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2019-06-20a.15" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B01200">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2019-06-20a.16" speakerid="com.kildarestreet/member/1248" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2019062000002#B01300"><p>In accordance with Standing Order 90, the following message will be sent to the D&aacute;il:</p><blockquote>The Select Committee on Finance, Public Expenditure and Reform, and Taoiseach has completed its consideration of the following proposal:That D&aacute;il &Eacute;ireann approves, in accordance with Article 29.5.2&deg; of Bunreacht na h&Eacute;ireann, a proposed amendment of Article II, Section 2(c)(ii) of the Articles of Agreement of the International Finance Corporation, being an amendment the terms of which shall read as follows:<blockquote>'Section 2. Capital Stock<br /><br />&quot;(c)(ii) in any other case, by an eighty-five percent majority of the total voting power&quot;.',[.]</blockquote>Under Standing Order 89(2), the message is deemed to be the report of the committee.</blockquote></speech>
+    <speech id="com.kildarestreet/committees/2019-06-20a.17" nospeaker="true" time="00:00:00" ><p>The select committee adjourned at 2.20 p.m. sine die.</p></speech>
+</publicwhip>
