@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2019-11-20a.2" nospeaker="true" time="00:00:00" url="">Committee on Public Petitions</major-heading>
+    <speech id="com.kildarestreet/committees/2019-11-20a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Comhchoiste le chéile ag 13:30</p><p>The Joint Committee met at 13:30</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Seanadóirí / Senators Shane Cassells.</p><p>I láthair / In attendance: Deputy Margaret Murphy O'Mahony and Senator Robbie Gallagher.</p><p>Seanadóir / Senator Lynn Ruane sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2019-11-20a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#A00100">Election of Acting Chairman</minor-heading>
+    <speech id="com.kildarestreet/committees/2019-11-20a.5" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#B00100"><p>I call the meeting to order.  We have the required four members present, including at least one from each House.  Therefore, we can commence the meeting.  The Chairman has given notice that he will be unavoidably absent from the meeting.  According to Standing Orders, the committee must proceed at once to elect one of its members to act as Chairman.  I invite nominations for the position of Acting Chairman.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.6" speakerid="com.kildarestreet/member/1218" speakername="Shane Cassells" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#B00200"><p>I propose Senator Lynn Ruane.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.7" speakerid="com.kildarestreet/member/1262" speakername="Margaret Murphy O'Mahony" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#B00300"><p>I second that.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.8" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#B00400"><p>Thank you.  Are there any more nominations?  No.  I put the question that Senator Ruane be elected Acting Chairman.  Is that agreed?  Agreed.  I declare Senator Ruane elected as Acting Chairman and I invite her to take the chair.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.9" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#B00500"><p>Apologies have been received from Deputies Pat Buckley, Martin Heydon, Dara Murphy, Sean Sherlock, Brendan Ryan and Eugene Murphy and Senator Jerry Buttimer.  I advise members to turn off their mobile telephones or switch them to flight mode, as they interfere with the sound system and interfere with the broadcasting of the meeting.  In accordance with standard procedures agreed by the Committee on Procedure for paperless committees, all documentation for the meeting has been circulated to members on the document database.</p> <p>  I propose that we go into private session to deal with some matters before returning to public session.  Is that agreed?  Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.10" nospeaker="true" time="00:00:00" ><p>The joint committee went into private session at 1.44 p.m. and resumed in public session at 1.56 p.m.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2019-11-20a.11" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#C00050">Decisions on Public Petitions Received</minor-heading>
+    <speech id="com.kildarestreet/committees/2019-11-20a.12" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#C00100"><p>We will continue with the meeting and consideration of public petitions received.  Petition No. P00020/19 is from Dr. Minal Jagger.  The petition concerns travel between Ireland and the United Kingdom.  The petitioner would like to see UK visa requirements abolished for Irish residence permit holders.  Does any member wish to contribute on this matter?  I recommend that we forward a copy of the response from the Department of Justice and Equality to the petitioner and close the petition when that is completed.  Is that agreed?  Agreed.</p> <p>  Petition No. P00040/19 is from Mr. Oliver Fay.  This petitioner would like to see harmonisation of annual leave for all staff in the public sector.  Does any member wish to contribute on this matter?  I recommend that we forward a copy of the response from the Department of Public Expenditure and Reform to the petitioner and close the petition.  Is that agreed?  Agreed.</p> <p>  Petition No. P00045/19 is from Ms Susan Anthony who wishes to have an early retirement option introduced for people receiving long-term unemployment or disability benefits who are 60 years of age or older.  Does any member wish to contribute on this matter?  Deputy Cassells would like to respond.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.13" speakerid="com.kildarestreet/member/1218" speakername="Shane Cassells" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#C00200"><p>I thank the Acting Chair.  This is a very interesting petition and is very timely in terms of the debate going on around the raising of retirement ages.  The petitioner talks about the fact that many older people who are employed but who lost their jobs through redundancy during the financial crash have been unable to find work because, according to the petitioner, companies do not want to employ older people and that forcing people in that age bracket to re-educate, upskill or change career is just not viable and that no matter what people do, some remain unemployable.  The petitioner is seeking this early retirement for those who are forced into a situation of being effectively on the dole.  People come into our offices in respect of this.  Those who are forced to retire early find themselves in that one-year or two-year gap, where they have to claim jobseeker's benefit.  They find that a huge blow to their pride and morale and that it is insulting and depressing.  Only in the last week we heard the Taoiseach speak about this in the D&aacute;il.  When he addressed the matter last week, rather harrowingly, he quoted life expectancy 30 years ago, in particular of males.  I would not have much left based on life expectancy a few decades ago.  I thank God life expectancy of males and of females is rising but in tandem with that, it will place pressure on the Social Insurance Fund.</p><p>The Department of Employment Affairs of Social Protection was before the Committee of Public Accounts Committee a number of weeks ago and it  espoused the fact that the fund was in a positive place, but based on the trends in respect of ageing and the demographics, it is not going to continue in that space and hence, one has this debate.  The crux of the issue is around the funding of this based on life expectancy in the future.  The State is faced with this in terms of where it stands and how it is going to continue to be able to fund this, based on an ever-increasing life expectancy.</p><p> Conversely, we have heard from people who want to work longer and who find it infuriating that they are not allowed to continue to work in the workplace.  It is a broader societal debate that is going to have to be had because, as in so many countries, if the fund is not there to pay pensions, it is a huge issue.</p><p> I do note the response from the Department in which it stated that an ambitious target had been set under Future Jobs Ireland to increase labour force participation rates among people over the age of 55 years from 34.5% to 38%, and that is considered ambitious.  That is depressing in itself.</p><p> To go back to the central point, the petition is reflective of something that emanated in the years after the crash, when a huge cohort of people were caught in that gap.  It might not be as prevalent now but it is worthy of recognition that that happened to people and that it was extremely hurtful to and hard on many people.  The wider debate is whether we are going to be able to fund the Social Insurance Fund in the future.  While things are positive at the moment, based on an ageing population, that may not always be the case over the next couple of decades.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.15" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#D00200"><p>I thank Deputy Cassells.  I agree with everything he said.  In regard to life expectancy, if we look at some cohorts of people, whether the Traveller community or the long-term homeless, their life expectancy is so much lower and they should be able to access retirement and packages that come with care, including nursing home care.  It is an area I have been looking at in other committees.</p> <p>  In regard to this petition and the role of our committee, I recommend that we forward a copy of the response we received from the Department of Employment Affairs and Social Protection to the petitioner and that when this is completed, we close the petition.  Is that agreed?</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.16" speakerid="com.kildarestreet/member/1218" speakername="Shane Cassells" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#D00300"><p>On the point the Acting Chair raised, it proves the point that an average is an average and that if one starts to drill down into the statistics, there are those within those averages that drag it one way or the other.  The point the Acting Chair raised that certain demographics have a much lower life expectancy should not be glossed over either.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.17" speakerid="com.kildarestreet/member/1404" speakername="Lynn Ruane" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CPP2019112000002#D00400"><p>It is definitely something we should ask the members of the Joint Committee on Employment Affairs and Social Protection to take on since they have a greater ability to change a policy in that Department.  Is it agreed to send the petitioner the response from the Department?  Agreed.</p> <p>  I thank you for your attendance.</p></speech>
+    <speech id="com.kildarestreet/committees/2019-11-20a.18" nospeaker="true" time="00:00:00" ><p>The joint committee adjourned at 2.03 p.m. until 1.30 p.m. on Wednesday, 4 December 2019.</p></speech>
+</publicwhip>
