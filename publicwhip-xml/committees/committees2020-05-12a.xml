@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2020-05-12a.2" nospeaker="true" time="00:00:00" url="">Special Committee on Covid-19 Response</major-heading>
+    <speech id="com.kildarestreet/committees/2020-05-12a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 12:30</p><p>The Select Committee met at 12:30</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Teachtaí Dála / Deputies Colm Brophy, Colm Burke, Mary Butler, Jennifer Carroll MacNeill, Matt Carthy, Michael Collins, David Cullinane, Pearse Doherty, Stephen Donnelly, Norma Foley, John McGuinness, Fergus O'Dowd, Louise O'Reilly, Matt Shanahan, Róisín Shortall, Bríd Smith, Duncan Smith, Ossian Smyth.</p><p>Teachta / Deputy Michael McNamara sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2020-05-12a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#A00100">Election of Chairman</minor-heading>
+    <speech id="com.kildarestreet/committees/2020-05-12a.5" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00100"><p>As all members are present we have a quorum.  I advise the committee that I have not been notified of any substitution in accordance with paragraph 7 of our terms of reference.  The first item of business is the election of the Chair.  In accordance with D&aacute;il precedent I will seek nominations from parties and groups in the order they appear in the terms of reference of the committee and afterwards put the question or questions in the order of nominations received.  I will now seek nominations for Chair.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.6" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00200"><p>I am used to standing in the D&aacute;il Chamber but in the committee rooms we always sit.  On behalf of the Sinn F&eacute;in Party I nominate Deputy David Cullinane as chairperson of the committee.  He has the skills to assist the committee in its important work over the next period.  He is a second term Teachta D&aacute;la and a former Member of the Seanad.  He has served on many committees, including the Committee of Public Accounts.  He brings the skills that are necessary to support the committee's work.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.7" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00300"><p>I thank Deputy Doherty.  Are there other nominations?</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.8" speakerid="com.kildarestreet/member/1479" speakername="Ossian Smyth" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00400"><p>I nominate Deputy Michael McNamara.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.9" speakerid="unknown" error="nomatch" speakername="Clerk to the Committee" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00500"><p>I will now put the question with regard to the first nominated person and then move to the second person if the first person is not elected by a majority of the members present.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.10/1" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00700"><p>Question put: That Deputy David Cullinane be elected Chair.</p><p>The Committee divided: Tá, 6; Níl, 12.</p><br/><br/><p></p></speech>
+        <division id="com.kildarestreet/committees/2020-05-12a.10/2" nospeaker="true" divdate="2020-05-12" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00700">
+            <divisioncount ayes="6" noes="12" abstain="0" />
+                <mplist vote="aye">
+                    <mpname id="com.kildarestreet/member/1451" vote="aye">Matt Carthy</mpname>
+                    <mpname id="com.kildarestreet/member/1615" vote="aye">David Cullinane</mpname>
+                    <mpname id="com.kildarestreet/member/1462" vote="aye">Pearse Doherty</mpname>
+                    <mpname id="com.kildarestreet/member/1467" vote="aye">Louise O'Reilly</mpname>
+                    <mpname id="com.kildarestreet/member/1567" vote="aye">R&oacute;is&iacute;n Shortall</mpname>
+                    <mpname id="com.kildarestreet/member/1486" vote="aye">Br&iacute;d Smith</mpname>
+                </mplist>
+                <mplist vote="no">
+                    <mpname id="com.kildarestreet/member/1573" vote="no">Colm Brophy</mpname>
+                    <mpname id="com.kildarestreet/member/1523" vote="no">Colm Burke</mpname>
+                    <mpname id="com.kildarestreet/member/1614" vote="no">Mary Butler</mpname>
+                    <mpname id="com.kildarestreet/member/1480" vote="no">Jennifer Carroll MacNeill</mpname>
+                    <mpname id="com.kildarestreet/member/1461" vote="no">Michael Collins</mpname>
+                    <mpname id="com.kildarestreet/member/1623" vote="no">Stephen Donnelly</mpname>
+                    <mpname id="com.kildarestreet/member/1582" vote="no">Norma Foley</mpname>
+                    <mpname id="com.kildarestreet/member/1496" vote="no">John McGuinness</mpname>
+                    <mpname id="com.kildarestreet/member/1598" vote="no">Fergus O'Dowd</mpname>
+                    <mpname id="com.kildarestreet/member/1616" vote="no">Matt Shanahan</mpname>
+                    <mpname id="com.kildarestreet/member/1564" vote="no">Duncan Smith</mpname>
+                    <mpname id="com.kildarestreet/member/1479" vote="no">Ossian Smyth</mpname>
+                </mplist>
+                <mplist vote="abstain">
+                </mplist>
+        </division>
+    <speech id="com.kildarestreet/committees/2020-05-12a.10/3" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#B00700"><p>Question declared lost.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.11" nospeaker="true" time="00:00:00" ><p>Staon: Deputy Michael McNamara.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.12" nospeaker="true" time="00:00:00" ><p>Question, "That Deputy Michael McNamara be elected Chair," put and declared carried.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.13" nospeaker="true" time="00:00:00" ><p>Deputy Michael McNamara took the Chair.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.14" speakerid="com.kildarestreet/member/1518" speakername="Michael McNamara" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00200"><p>I thank all of my colleagues for the honour that they have bestowed on me.  We are all very aware of the importance of the work that this committee will carry out.  I hope that we can do so in as collegial a manner as possible and that we can keep things as short as possible.  On that basis, I do not propose to say anymore other than to thank members.</p> <p>  I propose that we suspend the committee for the moment before returning in private session to discuss a programme of work.  Is that agreed?</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.15" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00300"><p>Is the Chairman intending for us to do the entire programme of work in private session or are we just-----</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.16" speakerid="com.kildarestreet/member/1518" speakername="Michael McNamara" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00400"><p>No.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.17" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00500"><p>Obviously, there are procedural issues relating to the committee's scheduling and the number of times that we will meet.  There is a restriction of two hours.  We in our group are eager to ensure that a number of sessions take place next Tuesday.  As opposed to just the programme, we ask that the Chairman facilitate a discussion on a number of procedural issues.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.18" speakerid="com.kildarestreet/member/1518" speakername="Michael McNamara" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00600"><p>I am not proposing to carry it all out in private session, but we need to agree some modalities.  We can then go back into public session.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.19" speakerid="com.kildarestreet/member/1496" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00700"><p>For how long will we be suspended?  The Chairman has proposed a short suspension, but surely-----</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.20" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00800"><p>We could go into private session now.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.21" speakerid="com.kildarestreet/member/1518" speakername="Michael McNamara" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C00900"><p>I was going to propose adjourning for half an hour, but if Deputies wish-----</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.22" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C01000"><p>No.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.23" speakerid="com.kildarestreet/member/1496" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C01100"><p>We will go straight into private session.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.24" speakerid="com.kildarestreet/member/1518" speakername="Michael McNamara" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/CRS2020051200002#C01200"><p>We will go into private session.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.25" nospeaker="true" time="00:00:00" ><p>The committee went into private session at 12.43 p.m.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.26" nospeaker="true" time="00:00:00" ><p>Sitting suspended at 2.30 p.m. and resumed at 3 p.m in private session.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-05-12a.27" nospeaker="true" time="00:00:00" ><p>The committee adjourned at 4.30 p.m. until 11 a.m. on Tuesday, 19 May 2020.</p></speech>
+</publicwhip>
