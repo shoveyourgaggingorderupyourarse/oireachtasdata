@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2020-11-26a.2" nospeaker="true" time="00:00:00" url="">Select Committee on Foreign Affairs and Trade, and Defence</major-heading>
+    <speech id="com.kildarestreet/committees/2020-11-26a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 11:30</p><p>The Select Committee met at 11:30</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Teachtaí Dála / Deputies Cathal Berry, John Brady, Sorca Clarke, Simon Coveney (Minister for Defence), Gary Gannon, David Stanton.</p><p>Teachta / Deputy Charles Flanagan sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2020-11-26a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A00100">Defence (Amendment) Bill 2020: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2020-11-26a.5" speakerid="com.kildarestreet/member/1589" speakername="Charles Flanagan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A00200"><p>We have convened to consider Committee Stage of the Defence (Amendment) Bill 2020 that was referred to this committee on 23 September.  I welcome the Minister for Defence and his officials.  I call him to make a brief opening statement.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.6" speakerid="com.kildarestreet/member/1457" speakername="Simon Coveney" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A00300"><p>I know there are only two amendments for us to consider but I will say a few things before we formally move through Committee Stage.  I thank the Chairman and members of the committee for the opportunity to make a brief statement.</p> <p>  Although this is a relatively short Bill, it addresses some important matters.  The principal issues dealt with by this legislation relate to overseas operations as well as the provisions in the Defence Act for the enlistment of minors.  In addition, the opportunity has been taken to make a number of other minor amendments to the Defence Act.</p> <p>  As the committee is aware, I will be moving an amendment to delete section 4 of the Bill as this particular amendment to the Defence Act was accelerated and enacted pursuant to the Emergency Measures in the Public Interest (Covid-19) Act 2020.  I also take the opportunity to advise the committee that I propose to bring forward a series of amendments at Report Stage to allow for a member of the Reserve Defence Force, on a voluntary basis, to provide additional support to the Permanent Defence Forces at home and overseas.</p> <p>  The programme for Government, within the framework of the proposed commission on the Defence Forces, includes a commitment to carry out a review of the role of the Reserve Defence Force, including the question of deploying members of the Reserve Defence Force with specialist skills on overseas missions.  Having considered the matter, I recently obtained approval from Government to bring forward amendments to the Defence Acts to provide the legislative basis, by way of enabling provisions, to allow members of the Reserve Defence Force to serve in support of the Permanent Defence Forces at home and overseas, on a voluntary basis.   These amendments do not, in any way, preclude the commission from examining comprehensively the roles of the Reserve Defence Force nor do they prejudge any possible recommendations from the commission.  I am simply taking the opportunity, through the current legislation, to facilitate any such recommendations by the commission, on a wider role for the Reserve Defence Force, which I believe to be necessary, by removing the current legislative restrictions.</p> <p>  The proposed amendments will focus on the Defence (Amendment) (No. 2) Act 1960 and the Defence (Amendment) Act 2006, removing prohibitions, contained within those Acts,  on members of the Reserve Defence Force serving overseas.  There is also an amendment to facilitate a broader degree of support, which the Reserve Defence Force can offer to the Permanent Defence Forces at home.  There will be some consequential, technical amendments required to the Defence Act 1954.</p> <p>  It should be noted that any deployment of a member of the Reserve Defence Force, on foot of these amendments, will be on an entirely voluntary basis.  Also, I cannot accept Deputy Berry's amendment but we will more than compensate for that by bringing forward a series of other amendments at Report State that are consequential on each other.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.7" speakerid="com.kildarestreet/member/1589" speakername="Charles Flanagan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A00400"><p>I thank the Minister.  I will allow brief comments before going on to the Bill although, perhaps, it might be preferable to deal with the Bill section by section.  I acknowledge the fact that the Minister has made an opening statement so any members can make a brief statement now.  I believe that the best order would be to go straight to the Bill.  Is that agreed?  Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.8" nospeaker="true" time="00:00:00" ><p>Sections 1 to 3, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.9" nospeaker="true" time="00:00:00" ><p>SECTION 4</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.10" nospeaker="true" time="00:00:00" ><p>Question proposed: "That section 4 be deleted."</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.11" speakerid="com.kildarestreet/member/1457" speakername="Simon Coveney" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A00800"><p>What we planned to do here, when this legislation was originally drafted, was effectively done because we fastforwarded it and it was done in the Covid emergency legislation.  I went through that in some detail at Second Stage and I can do it again if people like.  Effectively, what is in this section is catered for in law already and, therefore, we do not need to repeat it for obvious reasons.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.12" speakerid="com.kildarestreet/member/1515" speakername="David Stanton" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A00900"><p>Does section 4 refer to the re-enlistment of formerly enlisted persons?</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.13" speakerid="com.kildarestreet/member/1457" speakername="Simon Coveney" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#A01000"><p>Yes, it is about the re-enlistment of former enlisted members of the Permanent Defence Force and, this is because, in the context of Covid, we wanted to bring back skillsets.  It was part of the recruitment and retention issues, basically, and it still is.  We are re-enlisting people now.  We have not achieved the numbers we would like but there is a steady stream of people seeking to come back into the Defence Forces, for various reasons.  Some of the reasons are linked to job opportunities that no longer exist due to Covid and others because we have a very active recruitment campaign under way.  It is one of many strategies to deal with the fact that we are 1,000 people below where we should be in terms of the number in our Defence Forces.  One of the ways to address the issue, and arguably it is the most efficient way, is to bring people back in who have left but have the skillset and training so can slot back into the Defence Forces quickly.  That has been a very successful scheme within the Air Corps, particularly in terms of getting pilots back.  We are trying to ensure that for the Army and Naval Service.  There has been legislation done for it so we do not have to do it again.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.14" nospeaker="true" time="00:00:00" ><p>Question put and agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.15" nospeaker="true" time="00:00:00" ><p>Sections 5 to 7, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.16" nospeaker="true" time="00:00:00" ><p>NEW SECTION</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.17" speakerid="com.kildarestreet/member/1587" speakername="Cathal Berry" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00100"><p>I move amendment No. 1:</p> <blockquote> 	In page 6, between lines 28 and 29, to insert the following:  	<b>&quot;Amendment of section 3 of Defence (Amendment) Act 2006</b><br /><br /><b>8.</b>The Defence (Amendment) Act 2006 is amended in section 3(1) by the substitution of &quot;Defence Forces&quot; for &ldquo;Permanent Defence Force&quot;.&quot;.  </blockquote> <p>I am not sure how relevant this proposal is.  What the Minister said is a very encouraging development.  I propose a small change which would allow a member of the Reserve Defence Force to travel abroad in an official capacity.  That would allow for the same privilege as is extended to members of the Permanent Defence Force.  What the Minister said is far more comprehensive and ambitious.  He said he will introduce a series of amendments on Report Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.18" speakerid="com.kildarestreet/member/1589" speakername="Charles Flanagan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00200"><p>The Deputy might consider withdrawing the amendment, with the opportunity to resubmit it on Report Stage.  In the meantime the Deputy and Minister could consider the matter further.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.19" speakerid="com.kildarestreet/member/1587" speakername="Cathal Berry" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00300"><p>That makes perfect sense.  The proposal the Minister made today will have a transformative effect on the Reserve Defence Force.  The ability to deploy Reserve personnel at home and overseas from an operational perspective to augment the permanent Defence Forces would breathe new life into the Reserve Defence Force.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.20" speakerid="com.kildarestreet/member/1515" speakername="David Stanton" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00400"><p>As a former member of the Reserve I welcome this wholeheartedly.  The opportunity for those with the skill set and training of the required standard to serve abroad is something that has been sought for many years.  I am sure the Minister is aware of this, but one issue that might arise is the necessity for people who are employed at home to give it up for a certain period of time Reserve Defence Force to serve abroad.  That employment should be preserved for them.  Will that issue be addressed?  We await the Minister's amendments and proposals.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.21" speakerid="com.kildarestreet/member/1457" speakername="Simon Coveney" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00500"><p>I thank Deputies.  We had quite a good debate on this on Second Stage.  The Bill is quite technical.  It does not change fundamental policy on defence, but I was anxious to use this opportunity to put in place legislation as a foundation, from a legal perspective, to allow the commission to make recommendations to the Government on the future of the Reserve in terms of its function.</p> <p>  Nobody is questioning the existence of the Reserve, but it is currently way under strength.  Many people have said to me that if the Reserve had an increased role, they would consider joining more seriously.  I hear the kind of accusations of training for training's sake, as opposed to training for the purpose of being deployed with and complementing the Permanent Defence Force at home and abroad.  The decision to join or stay in the Reserve should be informed by a more ambitious approach to its role.  Of course we need to manage that in a responsible way. </p> <p>  Many in the Permanent Defence Force will need reassurance that this is not in some way limiting their place on the career ladder or opportunity to serve overseas; quite the opposite.  We have limitations on what we can do overseas because we have shortages of certain specialties.  Ships are not going to sea because of the limitations enforced on us due to the fact we are missing a chef, medic, specialised engineer or whatever.  There is an opportunity for specialist skill sets, in particular, in the Reserve to be able to complement and work with the Permanent Defence Force at home and abroad.</p> <p>  When the commission has been established I will ask it to examine this more seriously in terms of international best practice and make some recommendations to me.  I have encouraged it to be ambitious and, if necessary, quite radical to reflect the future security and defence challenges we face.  One of the specific terms of reference will be the Reserve Defence Force.  I do not want the commission to make recommendations and for us then to have to start the legislative process all over again.  It could take six or eight months to facilitate those recommendations.</p> <p>  I appreciate what Deputy Berry is willing to do.  If he withdraws his amendment, he can resubmit it on Report Stage and see what I come up with.  He could then push or drop it if the amendments I bring forward go as far as he suggested.  As he said, they will probably go well beyond what his amendment proposed.  We are in a good space.  I will share the amendments as soon as they are ready for Report Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.22" speakerid="com.kildarestreet/member/1589" speakername="Charles Flanagan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00600"><p>I thank the Minister.  I understand Deputy Berry will withdraw the amendment, with the right to resubmit it on Report Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.23" speakerid="com.kildarestreet/member/1587" speakername="Cathal Berry" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B00700"><p>That is correct.  What the Minister is proposing has exceeded my expectations.  I am very happy to do so.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.24" nospeaker="true" time="00:00:00" ><p>Amendment, by leave, withdrawn.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.25" nospeaker="true" time="00:00:00" ><p>Section 8 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.26" nospeaker="true" time="00:00:00" ><p>Title agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.27" nospeaker="true" time="00:00:00" ><p>Bill reported with amendment.</p></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.28" speakerid="com.kildarestreet/member/1589" speakername="Charles Flanagan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B01100"><p>I thank the Minister and his officials for their attendance.  Unless there are any other matters, we will adjourn until next week.  We may have a Teams meeting earlier in the week to deal with correspondence.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2020-11-26a.29" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B01200">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2020-11-26a.30" speakerid="com.kildarestreet/member/1589" speakername="Charles Flanagan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FDS2020112600002#B01300"><p>In accordance with Standing Order 101, the following message will be sent to the D&aacute;il:</p> <blockquote> 	The Select Committee on Foreign Affairs and Defence has completed its consideration of the Defence (Amendment) Bill 2020 and has made amendments thereto. </blockquote></speech>
+    <speech id="com.kildarestreet/committees/2020-11-26a.31" nospeaker="true" time="00:00:00" ><p>The select committee adjourned at 11.48 a.m. sine die.</p></speech>
+</publicwhip>
