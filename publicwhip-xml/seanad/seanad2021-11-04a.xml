@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <minor-heading id="com.kildarestreet/seanad/2021-11-04a.1" nospeaker="true" time="10:30:00" url="">Prelude</minor-heading>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.2" nospeaker="true" time="10:30:00" ><p>Chuaigh an Leas-Chathaoirleach i gceannas ar 10:30:00</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.3" nospeaker="true" time="10:30:00" ><p>Reflection and Prayer.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.4" nospeaker="true" time="10:30:00" ><p>Machnamh agus Paidir.</p></speech>
+    <major-heading id="com.kildarestreet/seanad/2021-11-04a.5" nospeaker="true" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#A00100">Gnó an tSeanaid - Business of Seanad</major-heading>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.6" speakerid="com.kildarestreet/member/1692" speakername="Joe O'Reilly" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#A00200"><p>I have received notice from Senator Emer Currie that, on the motion for the Commencement of the House today, she proposes to raise the following matter:</p> <blockquote> 	The need for the Minister of State with responsibility for special education and inclusion to provide an update on staffing and supports for Danu Community Special School, Dublin 15. </blockquote> <p>I have also received notice from Senator Robbie Gallagher of the following matter:</p> <blockquote> 	The need for the T&aacute;naiste and Minister for Enterprise, Trade and Employment to make a statement on the exclusion of the poultry sector from changes to the employment permits system for workers from outside the European Economic Area. </blockquote> <p>I have also received notice from Senator Lynn Boylan of the following matter:</p> <blockquote> 	The need for the Minister for Agriculture, Food and the Marine to make a statement on the control of the supply of slug pellets for domestic use to protect hedgehogs and other wildlife. </blockquote> <p>I have also received notice from Senator Victor Boyhan of the following matter:</p> <blockquote> 	The need for the Minister for Housing, Local Government and Heritage to make a statement on the progress made in the provision of youth homelessness services and supports. </blockquote> <p>I have also received notice from Senator Fiona O'Loughlin of the following matter:</p> <blockquote> 	The need for the Minister for Health to make a statement on plans for the development of a hospice in the midlands. </blockquote> <p>I have also received notice from Senator Jerry Buttimer of the following matter:</p> <blockquote> 	The need for the Minister for Health to make a statement on the proposed new elective hospital for Cork. </blockquote> <p>I have also received notice from Senator Tim Lombard of the following matter:</p> <blockquote> 	The need for the Minister for Education to provide an update on the proposed extension to the Sacred Heart Secondary School, Clonakilty, County Cork. </blockquote> <p>I have also received notice from Senator John McGahon of the following matter:</p> <blockquote> 	The need for the Minister for Finance to make a statement on the loss of agricultural tax relief on agricultural lands when solar panels are installed on over 50% of the land. </blockquote> <p>I have also received notice from Senator Se&aacute;n Kyne of the following matter:</p> <blockquote> 	The need for the Minister for Housing, Local Government and Heritage to make a statement on plans for electoral boundary reviews for local, D&aacute;il and European constituencies following the census of 2022. </blockquote> <p>I have also received notice from Senator Garret Ahearn of the following matter:</p> <blockquote> 	The need for the Minister of State with responsibility for public health, well-being and the national drugs strategy to make a statement on the timeline for the proposed legislation on assisted human reproduction. </blockquote> <p>I have also received notice from Senator Timmy Dooley of the following matter:</p> <blockquote> 	The need for the Minister for Transport to make a statement on the decision by the Irish Coast Guard to stand down the Doolin Coast Guard unit. </blockquote> <p>I have also received notice from Senator Martin Conway of the following matter:</p> <blockquote> 	The need for the Minister for Transport to make a statement on the decision by the Irish Coast Guard to stand down the Doolin Coast Guard unit and his Department's engagement with the Irish Coast Guard in the matter. </blockquote> <p>I have also received notice from Senator Mary Fitzpatrick of the following matter:</p> <blockquote> 	The need for the Minister for Further and Higher Education, Research, Innovation and Science to make a statement on the actions taken by his Department to address student housing poverty and the delivery of affordable student accommodation.  </blockquote> <p>The matters raised by the Senators are suitable for discussion.  I have selected those raised by Senators Currie, Gallagher, Boylan and Boyhan, and they will be taken now.</p></speech>
+    <major-heading id="com.kildarestreet/seanad/2021-11-04a.7" nospeaker="true" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#A00300">Nithe i dtosach suíonna - Commencement Matters</major-heading>
+    <minor-heading id="com.kildarestreet/seanad/2021-11-04a.8" nospeaker="true" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#A00350">Special Educational Needs</minor-heading>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.9" speakerid="com.kildarestreet/member/1692" speakername="Joe O'Reilly" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#A00400"><p>I am delighted to welcome my friend and colleague, the Minister of State at the Department of Education, Deputy Josepha Madigan, to the House.  I am delighted to have her here.  I congratulate her on her proactive approach in her Department.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.10" speakerid="com.kildarestreet/member/1648" speakername="Emer Currie" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#A00500"><p>I welcome the Minister of State and congratulate her on the budget and her securing of investment in special education in addition to that of last year.  I thank her for her support to date in Dublin West.  She came out to visit Rath Dara Community College, as it is now known, in Dublin 15.  She understands the building issue concerning Danu Community Special School.  I thank the Government for the opening of Danu Community Special School in November 2019 with the patron, Dublin and D&uacute;n Laoghaire Education and Training Board, DDLETB, at the temporary site at Hansfield.  I am sure we will talk about the building at some stage but today is more about the resources.</p> <p>I would prefer it if we were talking about the future of the children, but today I am talking about the future of the school because the school feels it is going from incident to incident and crisis to crisis in managing and not focusing enough on education and learning.  When I say "the school", I am talking about the parents and the brilliant work of the Autism School Dublin 15 committee.  The committee was behind the opening of the school and campaigned for it.</p> <p>The children associated with the school have very complex and challenging behavioural needs.  They are non-verbal and communicate through their behaviour.  They have severe learning disabilities.  Some have sensory impairments, and they can have autism spectrum disorder and anxiety.  We are dealing with complex cases involving children who were not in school.  They are the most vulnerable of all children, and their families are the ones under the most pressure.  They need the right resources in their school.  They need the wrap-around supports, behavioural therapists, the psychologist, occupational therapists, speech and language therapists and physiotherapists.  The reality is that they do not feel they are getting them.  I am not sure the Minister of State is aware of how serious the circumstances are.</p> <p>The school has 30 children.  This number will rise to 34 in January and to 36, the allocation, in September 2022.  The school has a principal, six teachers and 15 special needs assistants, but it feels it needs more based on the assessments of the children.<!--/p--><!--p></p--><!--p--><!--span class="speakercontinuing">&amp;#91;</span--><!--span class="speakercontinuing">Senator Emer Currie:</span--><!--a href="http://www.oireachtas.ie/members-hist/default.asp?housetype=1"></a--><!--a href="../zoomin?readform&amp;amp;chamber=seanad&amp;amp;memberid=&amp;amp;pid=EmerCurrie&amp;amp;year=2021&amp;amp;month=11&amp;amp;day=04"></a--><!--span class="speakercontinuing">&amp;#93;</span-->At the moment they are getting two hours of behavioural support a week with a behavioural therapist.  This is three hours remotely.  This is their second therapist, which is important to mention in the context of knowledge and consistency.  They feel that they cannot focus on education at the moment because they are purely focused on managing behaviours.  They need the expertise of a behavioural therapist.  They are looking for a full-time behavioural therapist to work with proactive strategies and not to be constantly be dealing with the behavioural challenges.</p><p>The school has asked what is the policy and what is the definition of the new special school model.  They want clarity on what differentiates them from a special class in a school and about getting those wraparound supports.  The needs must be based on the needs of the children not the size of the school.  They are constantly battling that with the 1993 Special Education Review Committee, SERC, allocation of one teacher and two SNAs for six students.  To the school that is just not enough when dealing with the complexity of the cases.  Where does Progressing Disability Services fit around this?  We are not just talking about education here, we are also talking about life skills for the future.</p><p>The school feels that it is surviving and coping but not thriving or managing.  The school is in a building that is not fit for purpose.  It has dealt with the pandemic.  There is a constant staff turnover.  I know the staff personally, and the incentives are not there.  Why would the SNAs and the teachers take on these complex cases when they do not feel that they are getting the right supports in this instance?  They are overwhelmed.  Hopefully we can talk about the building itself in the next section.  This is a cry for help.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.12" speakerid="com.kildarestreet/member/1472" speakername="Josepha Madigan" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#B00200"><p>I thank Senator Currie for her acknowledgement of the resources provided for in the budget.  As the Minister of State with responsibility for special education, it was very important to me that we put extra resources into children's additional educational needs of which we are aware there is a whole spectrum.  Some 90% of children with additional needs are in mainstream education.  If a child has a more complex need he or she will go into a special class, and if it is more severe again the child would go into a special school.</p><p>The Senator will be aware there are 126 special schools in the State that look after nearly 8,000 pupils.  In the budgets we increased provision for SNAs by 70% since 2011.  We are now at 1,165 special needs assistants, and there are 980 new special education teachers, which will help to create about 140 new special school places.  We are putting significant funding into this.  The Senator mentioned resources at the outset.  There is significant funding overall into special education schools and special education classes, and indeed into mainstream schools.  It is very important that we provide a flexible and tailored support for each child so that each child gets the appropriate education he or she deserves from the teachers.  Obviously, we always look to see if we can do better than we are already doing.</p><p>It is important that the Senator has highlighted this issue to me today.  My understanding is that the National Council for Special Education, NCSE, is engaging quite extensively with the school and with the National Educational Psychological Service, NEPS, in trying to provide a bespoke and tailored support to the school.  I understand that the school already has access to a behavioural practitioner, which is <i>de facto</i>the same as a behavioural therapist.  There is availability there.  One of the issues that is coming back to me is around staff capacity, which the Senator also mentioned, and making sure that staff have adequate training and advice.  The NCSE is working with NEPS to make sure that teachers have appropriate training and appropriate insight for this particular area.  The behavioural issues often go unnoticed.  We often think about education as just teaching the ABCs and the 123s, but it does not work like that.  The behavioural issues can be very problematic and particularly in special schools when there is acute need for such training.</p><p>The Senator asked about the distinction between a special class and a special school.  There is a huge difference in terms of the supports that special schools receive.  There are much more enhanced supports from a staffing level and an SNA level.  All of the supports they receive are above and beyond those in a special class.</p><p>From my perspective, the most important aspect is that there is ongoing support with NEPS, and ongoing collaboration and engagement.  They are in constant contact with the school around sorting this out.  They will be on site visiting the school next week for further engagement and further discussion.  This is a relatively new school.  I have been out to visit and I am aware of the building and the issue there.  It is important that the school is supported.  The Senator referred to the increase in numbers of children from 30 to 36, which may well increase into the future.  Obviously, there are mechanisms and processes in place so we can ensure that adequate supports are given on an ongoing basis.  When considering special needs in general, there has been an increase in special classes by 386% since 2011.  We went from 584 special classes to 2,118 special classes, which is significant.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.13" speakerid="com.kildarestreet/member/1648" speakername="Emer Currie" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#B00300"><p>It is great to know NEPS is to visit the school in the next week.  I have been raising this issue for nearly a year and I am not getting around the full-time behavioural therapist requirement.  The school community feels that it is not being heard on this.  They need the full-time behavioural therapist.  The Minister of State said that they get access to more resources but when I speak to the school they want to know the definition so they have something by which they can measure what they have, and to know what the new model is.  I believe it is about a centre of excellence.  In January 2022 the school will be moving to Rath Dara Community College, but we know that they need a purpose-built school.  They cannot just have classrooms attached to another school.  These children deserve the full wraparound services and joined-up thinking with the purpose-built specific school with a full-time behavioural therapist.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.14" speakerid="com.kildarestreet/member/1692" speakername="Joe O'Reilly" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#B00400"><p>I do not mind interrupting the Senator because there is very little ambiguity in that presentation.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.15" speakerid="com.kildarestreet/member/1648" speakername="Emer Currie" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#B00500"><p>I thank the Leas-Chathaoirleach.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.16" speakerid="com.kildarestreet/member/1472" speakername="Josepha Madigan" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#B00600"><p>I should clarify that in general, speech and language therapists, occupational therapists and behavioural therapists come from the HSE.  The NCSE can sanction it.  The most important aspect is that there is engagement and discussion, and the fact that the NCSE is going out next week and will offer a bespoke solution for the school.  It is important that the Senator has highlighted the issue today.  The NCSE is aware that I am in the House today and that the matter has been brought up, and we will look at it in the round.  It is also about staff training, which is important.  There is access to a behavioural practitioner.  If the NCSE is of the view that they need to increase those hours, they do have a behavioural practitioner, but that post is not in the particular school.  That is the way it works.  They can discuss this with the school and see if there is more they can provide.  I am very grateful to the Senator for raising the matter.  It is very important Danu Community Special School will have adequate accommodation.  It is good that they are moving in in January.  Who knows what the future will hold>  We went out there also with the T&aacute;naiste and the Senator.  Hopefully there will be a resolution to that in the near future.</p></speech>
+    <speech id="com.kildarestreet/seanad/2021-11-04a.17" speakerid="com.kildarestreet/member/1692" speakername="Joe O'Reilly" time="10:30:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/takes/seanad2021110400002#B00700"><p>I thank the Minister of State, Deputy Madigan.</p></speech>
+</publicwhip>
