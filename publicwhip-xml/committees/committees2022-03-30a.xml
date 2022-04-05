@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2022-03-30a.2" nospeaker="true" time="00:00:00" url="">Select Committee on Finance, Public Expenditure and Reform, and Taoiseach</major-heading>
+    <speech id="com.kildarestreet/committees/2022-03-30a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 17:30</p><p>The Select Committee met at 17:30</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Teachtaí Dála / Deputies Pearse Doherty, Bernard J. Durkan, Sean Fleming (Minister of State at the Department of Finance), Jim O'Callaghan, Neale Richmond.</p><p>Teachta / Deputy John McGuinness sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-03-30a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A00100">Bretton Woods Agreements (Amendment) Bill 2022: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-03-30a.5" speakerid="com.kildarestreet/member/1496" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A00200"><p>I welcome the Minister of State, Deputy Fleming, and his officials.  I remind members of the notice on privilege.  They should not comment on or criticise anyone by name or in such a way as to make him or her identifiable.  We are now dealing with the Bretton Woods Agreements (Amendment) Bill 2022.  Does the Minister of State wish to make an opening statement?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.6" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A00300"><p>I thank the Chair for arranging the meeting.  Neither the Opposition nor the Government has tabled amendments on Committee Stage.  There was good discussion about and general agreement on the essence of the legislation on Second Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.7" speakerid="com.kildarestreet/member/1496" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A00400"><p>Does Deputy Doherty wish to comment?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.8" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A00500"><p>We discussed this on Second Stage and I have very little to add on Committee Stage.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.9" nospeaker="true" time="00:00:00" ><p>Section 1 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.10" nospeaker="true" time="00:00:00" ><p>SECTION 2</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.11" nospeaker="true" time="00:00:00" ><p>Question proposed: "That section 2 stand part of the Bill."</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.12" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A00900"><p>Will the Minister of State clarify the State's commitment to an initial guarantee of &euro;2.3 billion under the terms of the new arrangements to borrow, NAB, decision on 16 January 2020?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.13" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01000"><p>My note states that the commitment to the new arrangement is &euro;2.4 billion.  It is based on the exchange rate between the International Monetary Fund, IMF, and us.  It operates drawing rights, which are known as a currency.  There can be slight variations, so it is estimated at &euro;2.4 billion.  That is the maximum that we can lend to the IMF.  There are three other sections dealing with grant contributions and not loans.  They are poverty reduction and growth trust, the catastrophe containment and relief trust, and other prescribed trusts.  There is a &euro;50 million limit for each of those grant schemes, but there is provision in the legislation for the possibility of other prescribed trusts in due course, if the need arises, with maximum grant commitments under this legislation of up to &euro;325 million, compared with &euro;2.4 billion of loan agreements with the IMF.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.14" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01100"><p>The decision taken in 2020 was for an initial guarantee of &euro;2.2 billion, &euro;2.3 billion or &euro;2.4 billion.  I know the number has changed due to conversion rates.  How does that sit with section 4, on the individual call?  Are we guaranteeing up to that amount?  Are they just sums that would be called on under section 4?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.15" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01200"><p>If the IMF makes individual calls, they might be for a fraction of that &euro;2.4 billion.  Each time we respond to that call, there will be a Government guarantee relating to the specific call.  The ultimate umbrella is &euro;2.4 billion, all of which will be covered by a Government guarantee if sufficient calls are made over an extended period requesting the &euro;2.4 billion.  It is envisaged that there might be calls for smaller amounts, perhaps eventually up to that cap.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.16" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01300"><p>Will the Minister of State clarify the overall envelope of &euro;2.4 billion in the context of sections 2 and 4, as well as the individual calls facilitated in section 4?  What measures would have to be taken by the Minister to take action on such a call or provide a guarantee?  Is it a resolution of the House?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.17" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01400"><p>It is a letter from the Minister for Finance with a resolution from the House.  He has the authority in the legislation to do this on the basis of the letter.  A sample of the letter can be made available.  It is a guarantee covering all the risks.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.18" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01500"><p>It is not laid before the House or such.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.19" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A01600"><p>It is not laid before the House.  It would be paid out of the Central Fund.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.20" nospeaker="true" time="00:00:00" ><p>Question put and agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.21" nospeaker="true" time="00:00:00" ><p>Sections 3 to 9, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.22" nospeaker="true" time="00:00:00" ><p>SECTION 10</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.23" nospeaker="true" time="00:00:00" ><p>Question proposed: "That section 10 stand part of the Bill."</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.24" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A02100"><p>I wish to inform the committee that the Minister for Finance has indicated that he may wish to table an amendment to the Bill on Report Stage.  This amendment would facilitate payments from the Central Fund to the Central Bank of Ireland for IMF transactions.  He may table, but the wording is not yet complete.  It is a routine administrative matter regarding payments from the Central Fund to the Central Bank.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.25" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A02200"><p>Is that not facilitated at this point?  Why is that required here?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.26" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A02300"><p>We are not saying that it will definitely be required.  The Minister is indicating that he may need an amendment to facilitate the payments from the Central Fund to the Central Bank.  That is if there are interim payments to be made.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.27" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A02400"><p>Does that relate to a call to be made?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.28" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#A02500"><p>I will consult the officials for one moment.</p><p>We will have more information because it has not been finally drafted yet, but I have been told that it relates to a debt relief programme for Somalia and Sudan and there may be a requirement for the payment in respect of that commitment to go from the Central Fund to the Central Bank.  The wording and specifics are still being worked on.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.30" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00200"><p>Is that separate to the Catastrophe Containment and Relief Trust, CCRT?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.31" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00300"><p>This relates to an existing-----</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.32" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00400"><p>It is not connected to this Bill at all; it is just a facility.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.33" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00500"><p>Yes.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.34" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00600"><p>If the Minister of State is going to table an amendment on Report Stage, can the note be submitted to us beforehand?</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.35" speakerid="com.kildarestreet/member/1590" speakername="Se&aacute;n Fleming" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00700"><p>I will give a commitment that I will not bring any information to Report Stage that I will not have made available to committee members in advance.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.36" speakerid="com.kildarestreet/member/1462" speakername="Pearse Doherty" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B00800"><p>I thank the Minister of State.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.37" nospeaker="true" time="00:00:00" ><p>Question put and agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.38" nospeaker="true" time="00:00:00" ><p>Schedule agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.39" nospeaker="true" time="00:00:00" ><p>Title agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.40" nospeaker="true" time="00:00:00" ><p>Bill reported without amendment.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.41" speakerid="com.kildarestreet/member/1496" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B01300"><p>The select committee will adjourn until 1.30 p.m. next Wednesday, 6 April when we will debate Committee Stage of the Finance (Covid-19) (Miscellaneous Provisions) Bill 2022.  I thank everyone for attending.  I thank the Minister of State and his officials.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-03-30a.42" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B01400">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-03-30a.43" speakerid="com.kildarestreet/member/1496" speakername="John McGuinness" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/FPS2022033000002#B01500"><p>In accordance with Standing Order 101, the following message will be sent to the</p> <blockquote> 	The Select Committee on Finance, Public Expenditure and Reform, and Taoiseach has completed its consideration of the Bretton Woods Agreements (Amendment) Bill 2022 and has made no amendments thereto. </blockquote> <p>Under Standing Order 100(2), this shall be deemed to be the report of the select committee.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-03-30a.44" nospeaker="true" time="00:00:00" ><p>The select committee adjourned at 5.43 p.m. until 1.30 p.m. on Wednesday, 6 April 2022.</p></speech>
+</publicwhip>
