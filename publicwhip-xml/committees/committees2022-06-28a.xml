@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2022-06-28a.2" nospeaker="true" time="00:00:00" url="">Select Committee on Education and Skills</major-heading>
+    <speech id="com.kildarestreet/committees/2022-06-28a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 13:00</p><p>The Select Committee met at 13:00</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Teachtaí Dála / Deputies Norma Foley (Minister for Education), Donnchadh Ó Laoghaire, Aodhán Ó Ríordáin.</p><p>Teachta / Deputy Paul Kehoe sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-06-28a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#A00100">Education (Admission to Schools) Bill 2020: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-06-28a.5" speakerid="com.kildarestreet/member/1619" speakername="Paul Kehoe" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#A00200"><p>Apologies have been received from Deputy Alan Farrell and Deputy Conway-Walsh.</p> <p>  I remind Members and officials to ensure that their mobile phones are switched off for the duration of the meeting as they interfere with the broadcasting equipment of the Houses.</p> <p>  This meeting has been convened to consider the Education (Admission to Schools) Bill 2020.  I remind Members that should a vote be called, they must be physically present in the committee room in order to vote.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.6" nospeaker="true" time="00:00:00" ><p>SECTION 1</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.7" nospeaker="true" time="00:00:00" ><p>Question proposed: "That section 1 stand part of the Bill."</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.8" speakerid="com.kildarestreet/member/1582" speakername="Norma Foley" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#A00500"><p>I acknowledge officially the students in the Gallery.  It is lovely to have Young Social Innovators students from Col&aacute;iste Br&iacute;de here.</p> <p>  I absolutely understand and fully appreciate Deputy &Oacute; R&iacute;ord&aacute;in's motivation in bringing forward this Bill.  Equally, however, I am very conscious that schools have put a considerable amount of work, time, effort and energy into developing the new school admission policies, which have taken root in our schools only in the past academic year.  A key feature of the Education (Admission to Schools) Act is that where schools are not oversubscribed, they must accept all applicants.  The vast majority of our schools are not oversubscribed.  Equally, schools have the opportunity to opt out of the provision.  My view is that there is insufficient evidence available to us at this point to indicate that the provision this Bill proposes to delete poses difficulties for those seeking admission to schools where it is in use.  I note also that the pre-legislative scrutiny report of the committee recommends not only deletion but also the setting up of an expert group.  I believe that the establishment of an expert group to review the impact of the provision of the Act would be a useful first step.  I consider that a reasonable approach.  I therefore signal my intention to table on Report Stage an amendment to the Deputy's Bill which will establish an expert group to examine the impact of subsection 62(10)(b) on school admissions and provide a report detailing the expert group's findings.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.9" speakerid="com.kildarestreet/member/1551" speakername="Aodh&aacute;n &Oacute; R&iacute;ord&aacute;in" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#A00600"><p>Notwithstanding the Minister's goodwill towards my motivation, I am crushingly disappointed by her attitude to the Bill and by the Department's response to the Bill.  It flies completely in the face of what the Minister is trying to do this week in respect of section 37A of the Education Act.  We are told to rush through legislation this week in order for it to be ready for September, yet we are told that schools cannot change their admissions policies for this September or even the following September.  The Minister tells me there is no evidence this provision has any effect.  Why is it there, then?  The very basis of the argument is that if even one child is disadvantaged by the provision, it needs to go.  I am blue in the face making the same argument over and over again but I will make it again.  This provision was inserted at the behest of those who are trying unfairly to keep an elitist bloodline running through certain schools' admissions policies, from grandfather to father to son or from grandmother to mother to daughter.  It is patently unfair on, for example, children of early school leavers, children whose parents are not from the area and, indeed, children whose parents are not from Ireland.  We can say all we want about Ukrainian students in this State, but I ask the Minister to imagine if even one Ukrainian was not able to access a second level school place on the basis of this provision because there are greater rights for those whose parents or grandparents went to the school in question.  The lack of energy or understanding on the part of the Department on this baffles me because there is no argument against what I and the committee and people such as Deputy &Oacute; Laoghaire, who supported this Bill, are trying to achieve.  This provision should not have been put into law in the first place; it should not still be there.  I ask the Minister to imagine even one family in this State saying in years to come: "We had hoped our child might be admitted to second level school A, but it was not possible because my parents did not go to school."  In a Republic, it should make us all deeply ashamed that such a provision exists.</p> <p>  I remember the previous debate we had on this in the D&aacute;il.  I walked into the Chamber and was excited as to what the Minister might provide.  I remember my first contribution being to the effect that I hoped she had come to the table with some level of understanding as to how we could collectively work together.  I was crushed by her presentation because I believe in these Houses of the Oireachtas and I believe there is no opposition, really, to what we are trying to achieve here.</p><p>Education is everything.  It is all that has benefited some families to break out of poverty.  Education is the only opportunity unless one's parents have money.  This is why it is so emotivel and so important.</p><p> I would ask the Minister to reconsider her position and the Department's position on this.  The Minister could easily row in behind this.  The provision could easily be deleted.  Every school in the country only has to change its enrolment policies for September 2023.  It is as simple as that.  One no longer gets to choose a child whose parents or grandparents went to this school over some other child.  It is as simple as that.</p><p> It is having an effect in areas that I represent or on parents who come to me from all over the country.  It is patently wrong and patently unfair.  The argument that we cannot be sure how many people are affected by it does not stack up.  It should not be there and it needs to go.</p><p> In summary, I have been leading this process.  I was delighted to be in the position to bring it forward.  The Department told me that the Minister would delay Second Stage for 12 months in order to do all the groundwork that needed to be done and I waited patiently from November 2020 to November 2021.  The Minister knows that is true.  We delayed the passing of Second Stage for 12 months.  We are in a position where the Minister comes back to this table and I am patiently waiting here for this Bill to be passed, but we want more reviews and we want to see how schools can have a number of admissions cycles to work through it.  What the Minister is doing is wrong.  The Minister knows it is wrong.  The Department knows its wrong.  I do not know what lobby group has such a hold over the Department that this needs to stay.  I can imagine who they are.</p><p> On this issue, the Minister needs to change her position.  The Minister needs to row in behind the Bill.  This section of the Act needs to be deleted.  We could all go back to normal and look children in the eye in September 2023 and say that it does not matter who one's parents or grandparents are.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.11" speakerid="com.kildarestreet/member/1460" speakername="Donnchadh &Oacute; Laoghaire" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#B00200"><p>I reiterate my support for this legislation.  I commend Deputy &Oacute; R&iacute;ord&aacute;in on his work in relation to it.</p> <p>  We had pre-legislative scrutiny of this legislation.  There is no coherent argument against it.  There is no argument that ultimately holds any water.</p> <p>  On the argument around most of the schools being undersubscribed, the problem, as with anything, in relation to admissions and who is admitted will only arise when a school is oversubscribed.  It is for that reason we have regulations as such.  It is for that reason we have admissions policies.  If no school was oversubscribed, we would not need admissions policies at all and every child would simply have a place.</p> <p>  The circumstances in which this applies - maybe in most schools it is not an issue because they are not oversubscribed - arise in the schools which are oversubscribed.  There are parts of the country where there is severe competition for school places in areas where there is a large young population.  In parts of Cork, much of Dublin, Kildare, parts of Wicklow and parts of County Meath there is a significant young population.  In those places, what the current legislation allows for is that where there are a limited number of places and there is a decision to be made between a child who lives 15 miles away but whose father or mother attended the school and a child who lives five doors away, it is the child who lives 15 miles away who will be preferred.  That is objectively true under the current proposal.  It provides that a school takes up the scope and the powers that it has to put in place such an admissions policy.  That being the case, that is the child who will be preferred.  That should not be acceptable to us in any way.</p> <p>  It is perfectly reasonable, in terms of families and their arrangements, etc., that preference is given to siblings.  That is a reasonable proposition, but in relation to parents, and even grandparents, one is potentially disadvantaging the local child.  It is the local child who should be at the centre of any decisions made on admissions.  Every child should be in a position to attend his or her local school provided that there are adequate spaces and if there are not, decisions about who gets in need to be made on a fair basis.  It is not a fair basis to prioritise those whose parents or grandparents attended.  One will continue to have a school tradition because many families will still live in the local community and many children will attend the school their parents and grandparents attended; the traditions, the culture and the history of the school can continue in that way, but it should not be at the expense of the child who lives five doors away from the school.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.12" speakerid="com.kildarestreet/member/1582" speakername="Norma Foley" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#B00300"><p>I thank both Deputies.  I clearly hear the points the Deputies are making and I acknowledge the good faith in which they make those arguments.  I also acknowledge that it has always been my intention to work to the best of my capacity and ability with the Deputies here.  I am appreciative of the manner in which the Deputies work with me.</p> <p>  On this, I would have to say that there is a body of work to be done in terms of gathering the data.  It was a recommendation of the pre-legislative scrutiny report from the committee that an expert group  be established to review the impact of the provision and that is a useful first step.  I am cognisant of the amount of work that goes in when a school has to devise a new admissions policy, which was done, in fairness, by the schools and has been enacted since September 2021, which means this was the first academic year for that admissions policy to take root.</p> <p>  I am simply asking that we would allow sufficient time for the expert group to meet, for it to have an opportunity to review the cycle of admissions over a period of time, to present that back, and then we will make an informed and adjudicated decision as to how to move forward.  That is all I am asking for.  I am not taking away from the genuine nature of the arguments and proposals the Deputies make.  I am simply saying that it is important that a fully informed factual account is presented to the Department by this expert group so that an appropriate decision can be made.  It may well be the decision that the Deputies were advocating for but it is important that the evidence be allowed to be put forward.</p> <p>  It is my proposal that we allow time for the expert group to be established and that the group would specifically examine the impact of the section on school admissions and provide a report detailing the group's findings.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.13" nospeaker="true" time="00:00:00" ><p>Question put and agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.14" nospeaker="true" time="00:00:00" ><p>Section 2 agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.15" nospeaker="true" time="00:00:00" ><p>Title agreed to.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-06-28a.16" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#B00700">Message to Dáil</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-06-28a.17" speakerid="com.kildarestreet/member/1619" speakername="Paul Kehoe" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/ESS2022062800002#B00800"><p>In accordance with Standing Order 101, the following message will be sent to the Clerk of the D&aacute;il:</p> <blockquote> 	The Select Committee on Further and Higher Education, Research, Innovation and Science has completed its consideration of the Education (Admission to Schools) Bill 2020 and has made no amendments thereto. </blockquote> <p>Under Standing Order 100(2), this shall be deemed to be the report of the select committee on the Bill.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.18" nospeaker="true" time="00:00:00" ><p>The select committee adjourned at 1.18 p.m. sine die.</p></speech>
+    <major-heading id="com.kildarestreet/committees/2022-06-28a.19" nospeaker="true" time="00:00:00" url="">Select Committee on Justice and Equality</major-heading>
+    <speech id="com.kildarestreet/committees/2022-06-28a.20" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 15:00</p><p>The Select Committee met at 15:00</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Teachtaí Dála / Deputies James Browne (Minister of State at the Department of Justice), Patrick Costello, Martin Kenny.</p><p>Teachta / Deputy James Lawless sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-06-28a.21" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#A00100">Garda Síochána (Compensation) Bill 2021: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-06-28a.22" speakerid="com.kildarestreet/member/1583" speakername="James Lawless" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#B00100"><p>I welcome the Minister of State, the departmental officials and all who are present.  We are meeting today for Committee Stage of the Garda S&iacute;oc&aacute;na (Compensation) Bill 2021.  There are 35 sections and there are no amendments so this should be a relatively straightforward consideration.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.23" speakerid="com.kildarestreet/member/1618" speakername="James Browne" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#B00200"><p>I wish to mention something.  As the Minister for Justice, Deputy McEntee, mentioned on Second Stage, there are a few minor amendments needed to the Bill, which she intends to introduce on Report Stage.  These relate to sections 11 and 16 and the requirement for the form of the application to be prescribed by way of regulation.  It is proposed to remove this requirement and to allow the Garda Commissioner to determine this.  This is because the form will be closely linked to the Personal Injuries Assessment Board, PIAB, form, which is subject to changes from time to time.  It would be too difficult to make regulations each time there are changes to the PIAB form.</p> <p>  Department officials are also examining whether a small technical amendment may be required in section 2(2) due to the likely commencement of the Assisted Decision-Making (Capacity) Act 2015.  I wanted to make Deputies aware that this is another amendment which we may need to introduce on Report Stage.  The Minister had hoped to have these amendments drafted by now but it has not been possible to have them ready in time.</p> <p>  I wish to address the question of the extension of the scheme to civilian staff of An Garda S&iacute;och&aacute;na, which was raised by some Senators and Deputies.  The Minister and I have looked at this matter and officials have engaged with stakeholders on an extension to the scheme.  A number of difficulties have arisen in this regard due to the status of civilian staff as civil servants.  The interaction between this scheme and existing occupational injuries schemes and supports that already apply to them is not straightforward.  To attempt to extend the scheme now will delay the passage of the Bill significantly.  We all can agree that there is a need to progress this Bill as soon as possible, as reform of the Garda compensation scheme is long past due.  This issue can be re-examined again in the context of another Bill and will be kept under review.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.24" speakerid="com.kildarestreet/member/1583" speakername="James Lawless" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#B00300"><p>I thank the Minister of State.  We will move on to the consideration of the Bill.  The Minister of State's comments on potential amendments on Report Stage have been noted.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.25" nospeaker="true" time="00:00:00" ><p>Sections 1 to 35, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.26" nospeaker="true" time="00:00:00" ><p>Title agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.27" nospeaker="true" time="00:00:00" ><p>Bill reported without amendment.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.28" speakerid="com.kildarestreet/member/1583" speakername="James Lawless" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#B00700"><p>We do not always pass business as quickly, but when we do we can be very efficient.  I thank the members for their engagement.  This is a short but important Bill.  A number of members of the committee contributed to the Second Stage debate, so there is interest in the Bill.  Even if it passed smoothly today, it is certainly not for want of an interest because we contributed on Second Stage.</p> <p>  I thank the Minister of State and his team.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-06-28a.29" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#B00800">Message to Dáil.</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-06-28a.30" speakerid="com.kildarestreet/member/1583" speakername="James Lawless" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/JUS2022062800002#B00900"><p>In accordance with Standing Order 101, the following message will be sent to the D&aacute;il:</p> <blockquote> 	The Select Committee on Justice has completed its consideration of the Garda S&iacute;och&aacute;na (Compensation) Bill 2021 and has not made amendments thereto. </blockquote></speech>
+    <speech id="com.kildarestreet/committees/2022-06-28a.31" nospeaker="true" time="00:00:00" ><p>The select committee went into private session at 3.20 p.m. and adjourned at 3.21 p.m. sine die.</p></speech>
+</publicwhip>
