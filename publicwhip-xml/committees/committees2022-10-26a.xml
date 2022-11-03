@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY aacute "&#225;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY yacute "&#253;" >
+<!ENTITY yen    "&#165;" >
+
+<!ENTITY Aacute "&#193;" >
+<!ENTITY Acirc  "&#194;" > 
+<!ENTITY Eacute "&#201;" >
+<!ENTITY Ecirc  "&#202;" > 
+<!ENTITY Iacute "&#205;" >
+<!ENTITY Oacute "&#211;" >
+<!ENTITY Uacute "&#218;" >
+<!ENTITY Zcaron  "&#381;" > 
+<!ENTITY zcaron  "&#382;" > 
+<!ENTITY hellip  "..." >
+<!ENTITY bullet  "&#8226;" >
+<!ENTITY Dagger  "&#8224;" >
+<!ENTITY eth  "&#240;">
+
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Scaron "&#352;" >
+<!ENTITY scaron "&#353;" >
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY Ccedil "&#199;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY ograve "&#243;" >
+<!ENTITY Ograve "&#210;" >
+<!ENTITY Egrave "&#200;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY igrave "&#204;" >
+<!ENTITY ugrave "&#249;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY otilde "&#245;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY ucirc  "&#251;" >
+<!ENTITY thorn  "&#254;" >
+<!ENTITY Icirc  "&#206;" >
+<!ENTITY Uuml   "&#252;" >
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY sup3   "&#179;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+<!ENTITY Aring  "&#197;" >
+<!ENTITY aring  "&#229;" >
+<!ENTITY Oslash "&#216;" >
+<!ENTITY oslash "&#248;" >
+]>
+
+
+<publicwhip scrapeversion="a" latest="yes">
+    <major-heading id="com.kildarestreet/committees/2022-10-26a.2" nospeaker="true" time="00:00:00" url="">Select Committee on Jobs, Enterprise and Innovation</major-heading>
+    <speech id="com.kildarestreet/committees/2022-10-26a.3" nospeaker="true" time="00:00:00" ><p>Tháinig an Roghchoiste le chéile ag 10:40</p><p>The Select Committee met at 10:40</p><p>COMHALTAÍ A BHÍ I LÁTHAIR / MEMBERS PRESENT:</p><p>Teachtaí Dála / Deputies Teachtaí Dála / Deputies Richard Bruton, Dara Calleary (Minister of State at the Department of Enterprise, Trade and Employment), Joe Flaherty, Paul Murphy, Matt Shanahan, David Stanton.</p><p>Teachta / Deputy Maurice Quinlivan sa Chathaoir / in the Chair.</p></speech>
+    <minor-heading id="com.kildarestreet/committees/2022-10-26a.4" nospeaker="true" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/BUS2022102600002#A00300">Personal Injuries Resolution Board Bill 2022: Committee Stage</minor-heading>
+    <speech id="com.kildarestreet/committees/2022-10-26a.5" speakerid="com.kildarestreet/member/1509" speakername="Maurice Quinlivan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/BUS2022102600002#A00400"><p>I thank members for their participation in this meeting.  I remind members they are required to attend from either the committee room or remotely from within the Leinster House complex.  Should a division occur, any member participating remotely will be required to make his or her way to the committee room within the normal division time to vote before returning to his or her original location.  Members and all in attendance are asked to exercise personal responsibility in protecting themselves and others from the risk of contracting Covid-19.</p> <p>  The meeting has been convened for the purpose of considering the Personal Injuries Resolution Board Bill 2022, which was referred to the select committee by order of the D&aacute;il on 11 October 2022.  The purpose of the Bill is to amend the Personal Injuries Assessment Board Acts 2003 to 2019, to facilitate an increase in the number of personal injuries claims that may be resolved through the board's process and without recourse to litigation.  The Bill renames the board as the personal injuries resolution board.  It also contains several amendments to the Act to enhance the role of the board in the promotion of its work; data; reporting; and measures to facilitate the prevention of fraud.</p> <p>  I welcome the Minister of State at the Department of Enterprise, Trade and Employment, Deputy Calleary, who is accompanied by his officials.</p> <p>  I propose that we try to complete consideration of Committee Stage of this Bill today.  Is that agreed?  Agreed.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.6" speakerid="com.kildarestreet/member/1602" speakername="Dara Calleary" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/BUS2022102600002#A00500"><p>I thank the committee for its assistance in bringing the Bill to where we are today.  I know the committee did a lot of work on this before I took over this brief with my predecessor, Deputy Troy.</p> <p>  As members know, the purpose of the Bill is to amend the Personal Injuries Assessment Board Acts 2003 to 2019 to increase the number of personal injury claims resolved by the board without recourse to litigation.  It was clear during the Second Stage debate in the D&aacute;il that in the main, the Bill was positively received by Deputies across all parties.  The resounding message from that debate was the need for reform.  The valuable work the board undertakes was mentioned by many Deputies during the Second Stage debate and I agree that this work should in no way be undermined.  The changes proposed by this Bill have been carefully considered in consultation with the board and are aimed at strengthening the current model to resolve a greater number of personal injury claims.  Deputies raised a number of questions during the debate and we engaged with a number of them afterwards.  This includes Deputies O'Reilly, Shanahan and Flaherty, along with Senators Mullen, Crowe and Casey and I thank them for meeting me and engaging with me to tease out those issues further.</p> <p>  Arising from those discussions and based on input from the board, pending drafting by the Office of the Parliamentary Counsel, I intend moving three amendments on Report Stage.  The first amendment is a new section in the Personal Injuries Resolution Board Bill 2022, to provide for an amendment to section 69 of the principal Act to ensure that mediators appointed from a panel are provided the same level of indemnity as mediators who are staff members.  The second amendment will introduce another section to the Bill and provide for a review of the Bill.  The third amendment is a technical amendment to section 23 of the Bill to enable the proper commencement of the Bill.</p><p> My intention is to move forward with this legislation swiftly.  The committee has recommended the same.  The sooner we can extend the remit of the board, the sooner more claims can be settled within a faster and more cost-efficient process.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.8" speakerid="com.kildarestreet/member/1616" speakername="Matt Shanahan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/BUS2022102600002#B00200"><p>I will be tabling an amendment on Report Stage relating to a review process.  I am not quite sure to which section it relates.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.9" nospeaker="true" time="00:00:00" ><p>Sections 1 to 23, inclusive, agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.10" nospeaker="true" time="00:00:00" ><p>Title agreed to.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.11" nospeaker="true" time="00:00:00" ><p>Bill reported without amendment.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.12" speakerid="com.kildarestreet/member/1509" speakername="Maurice Quinlivan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/BUS2022102600002#B00500"><p>I thank the Minister of State and his officials for attending and look forward to the Bill being enacted and implemented as soon as possible.</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.13" nospeaker="true" time="00:00:00" ><p>MESSAGE TO D&Aacute;IL</p></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.14" speakerid="com.kildarestreet/member/1509" speakername="Maurice Quinlivan" time="00:00:00" url="http://debatesarchive.oireachtas.ie/debates%20authoring/debateswebpack.nsf/committeetakes/BUS2022102600002#B00700"><p>In accordance with Standing Order 101, the following message will be sent to the D&aacute;il:</p> <blockquote> 	The Select Committee on Enterprise, Trade and Employment has completed its consideration of the Personal Injuries Resolution Board Bill 2022 and has made no amendments thereto. </blockquote></speech>
+    <speech id="com.kildarestreet/committees/2022-10-26a.15" nospeaker="true" time="00:00:00" ><p>The select committee adjourned at 10.53 a.m. sine die.</p></speech>
+</publicwhip>
